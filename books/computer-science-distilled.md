@@ -1,0 +1,83 @@
+# Computer Science Distilled
+## Author: Wladston Ferreira Filho
+
+## Topics
+- Flowcharts
+- Pseudocode
+- Mathematical models
+- Logic
+- Operators
+- Boolean algebra
+- Truth tables
+- Logic in computing
+- Counting
+- Multiplying
+- Permutations
+- Permutations with identical items
+- Combinations
+- Sums
+- Probability
+- Counting outcomes
+- Independent events
+- Mutually exclusive events
+- Complementary events
+- The gamblers fallacy
+- Advanced probability
+- Best case / worst case / average case / base case
+- Counting time
+- Understanding growth (dominate term)
+- The Big-O notation
+- Exponentials
+- NP-complete
+- Counting memory
+- Strategy
+- Iteration
+- Nested loops and the power set
+- Recursion
+- Recursion versus iteration
+- Brute force
+- Backtracking
+- Heuristics 
+- Greed
+- When greed trumps power
+- Divide and conquer
+- Divide and sort
+- Divide and trade
+- Divide and pack
+- Dynamic programming
+- Memoizing fibonacci
+- Memoizing knapsacks
+- Bottom up bes trade
+- Branch and bound
+- Branch and bound in the knapsack problem
+- Data
+- Abstractions
+- Data type
+- Abstract data types
+- Advantage of using adts
+- Simplicity, flexibility, reusability, organization, convenience, bug fixing
+- Common abstractions
+- Primitive data types
+- The stack - pop, push
+- The queue - enqueue dequeue
+- The priority queue - enqueue(e, p)
+- The list - insert, remove, get, sort, slice, reverse
+- The sorted list - insert, remove, get
+- The map - set, delete, get
+- The set - add, list, delete
+- Structures
+- Array
+- Linked List, Doubly Linked List, Tree, bst, 
+- AVL tree, red-black tree
+- The binary heap
+- Graph
+- The hash table
+- Algorithms
+- Sorting
+- Selection sort
+- Merge sort
+- Quicksort
+- Searching
+- Sequential search
+- Binary search
+- Search graph (DFS vs BFS)
