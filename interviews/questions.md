@@ -20,3 +20,6 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 ## How do you ensure that you are making the right hiring decision?
 ## How do you develop new hires? ANd how do you add value to your top performers?
 ## How do you deal with low performers and develop them?
+
+## Tell me about a time when there was a production outage?
+## Tell me about a mistake you made and what did you learn from it?
