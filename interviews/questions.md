@@ -23,3 +23,13 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 
 ## Tell me about a time when there was a production outage?
 ## Tell me about a mistake you made and what did you learn from it?
+
+## Best career advice?
+## Worst career advice?
+## Career objective?
+## Worst part of your career?
+## Hobbies outside your career?
+## Career highlight?
+## First started in career?
+## Future in career?
+
