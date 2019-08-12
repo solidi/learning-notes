@@ -10,3 +10,5 @@ To spark memory of events to tell specific stories.
 - Dealing with crisis.
 - Giving to teams such as swat.
 - Leading training coordination.
+- Highlights, lowlights, recognition, and risks.
+- Connecting senior leaders to teams.
