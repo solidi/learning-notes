@@ -2,6 +2,9 @@
 
 To spark memory of events to tell specific stories.
 
+## 2016
+- Migrating to a monorepo.
+
 ## 2019
 - Brillant minds with opinions not accepted by peers.
 - Gating on compensation increases.
