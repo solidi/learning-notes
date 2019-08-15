@@ -26,4 +26,5 @@
 - If you continuously make one off changes to the resources such as servers, the servers will begin to *drift* and act differently from one another.
 - Consistency, repeatability, and unfaltering attention to detail is critical to make a configuration management process work. And a standard and repeatable configuration management process such as we describe here is critical to keeping your scaled system highly available.
 - (Losing trust from the customer) You must weigh loss against a competing aspect: what is the cost of removing the risk to prevent this from happening.
-p 28.
+- The risk matrix can quickly become stale if you don't review it regularly. You should review your risk matrix as a team at least quarterly, but perhaps monthly for very active and highly critical systems.
+p 30.
