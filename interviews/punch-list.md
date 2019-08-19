@@ -26,3 +26,4 @@ To spark memory of events to tell specific stories.
 - Leading training coordination.
 - Highlights, lowlights, recognition, and risks.
 - Connecting senior leaders to teams.
+- Embedded DevOps engineering.
