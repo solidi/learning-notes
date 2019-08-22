@@ -27,3 +27,4 @@ To spark memory of events to tell specific stories.
 - Highlights, lowlights, recognition, and risks.
 - Connecting senior leaders to teams.
 - Embedded DevOps engineering.
+- Rehabilition of directs.
