@@ -28,3 +28,7 @@ To spark memory of events to tell specific stories.
 - Connecting senior leaders to teams.
 - Embedded DevOps engineering.
 - Rehabilition of directs.
+
+## Transitions and Eras
+Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
+Eras: 2006-2009, 2011-2013, 2015-2018
