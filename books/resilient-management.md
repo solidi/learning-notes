@@ -37,4 +37,21 @@
 1. Coaching - asking open questions to help your teammate reflect and introspect, rather than sharing your own opinions or quickly problem solving.
 1. Sponsoring - finding opportunities for your teammate to level up, take on new leadership roles, and get promoted.
 1. Delivering feedback - observing behavior that is or isn't aligned to what the team needs to be doing and sharing those observations, along with praise or suggestions.
-- p.24
+- Research has shown that "when women are collaborative and communal, they are not perceived as competent--but when they emphasize their competence, they're seen as cold and unlikeable, in a class double blind."
+- But the best open questions are about the problem, not the solution. Questions that start with why tend to make the other person feel judged, and questions that with how tend to go into problem solving mode--both of which we want to avoid while in coaching mode.
+- Practice your intonation to make sure your open questions are actually curious and open.
+- Sponsorship is all about feeling on the hook for getting someone to the next level.
+- While you wear the mentoring and coaching hats around your teammates, the sponsor hat is more often worn when they're not around, like when you are in a 1:1 with your manager, a sprint planning meeting, or another environment where someone's work might be recognized.
+- Studies have found that when someone has a sponsor, they are way more likely to have access to career-launching work. They're also more likely to take actions that lead to even more growth and opportunities, like asking their manager for a stretch assignment or a raise.
+- Opening the door for them to write blog posts, give company or conference talks, or contribute to open source work.
+- Until I started learning about bias in the workplace, most of the people I sponsored were white, cisgendered women, like myself. Since then, I've actively worked to sponsor people of color and nonbinary people.
+- When you give specific and actionable feedback to your teammates, it's smart to refer back to the language in their job description; this will help you ground your feedback in what's valued or required by your organization.
+- The best feedback is specific, actionable, and delivered in a way that ensures the receiver can actually absorb it. As we know our amygdala will go into overdrive when it perceives a threat, and sometimes catching a whiff of incoming critical feedback can threaten any one of our core needs at work.
+- A good question to ask might be "Can you help me understand what your optimizing for?" This way, I can gain some empathy with them, and they will pause to process what's going on for them in those moments.
+- The first step should be taken by the person who has the feedback to share. Delivering specific and actionable feedback is a skill set that's necessary for each teammate to develop for you to grow a healthy, strong team.
+- If there is no measurable negative impact, and no performance issues to manage, the coach the teammate who wants to give the feedback to introspect and develop a new perspective on it.
+- Four major skills - **build trust**, **gain shared context**, **plan out and support career growth**, **solve problems**.
+- I recommend at some point in your relationship--once you've built the foundation of trust--you should explain these four different skills, as well as when you'll choose one over another.
+- As I mentioned earlier, some folks don't care about improving, and that's fine--right up until there's a cost to the team or the business.
+- I've seen a handful of cases where a person performs poorly when they work with one manager, and is successful when they work with another; whether this is because of the first manager's approach, the team environment, or the switch itself, I can't be sure.
+- p. 40
