@@ -13,5 +13,12 @@
 - Adding new individuals to a team disrupts that team's gelling process, so I've found it much easier to have rapid growth periods for any given team, followed by consolidated/gelling periods during which the team gels. The organization will never stop growing, but each team will.
 - Sometimes you will want to grow faster than a gelled team allows, and that's okay. The lesson is that you have to account for re-gelling costs after periods of change, not that you should never change them. This is part of why my proposed model recommends rapidly hiring into teams loaded down by technical debt, not into innovation teams, which avoids incurring re-gelling costs on high-performing teams.
 - It's best to do this slowly to maintain slack in the team, but if it's a choice of moving people rapidly or shifting scope rapidly, I've found that the latter is more effective and less disruptive.
-- All real would systems have some degree of inherent self-healing properties: an overloaded database will slow down enough that someone fixes it, and overwhelmed employees will get slow at finishing work until someone finds a way to help.
-- p. 43
+- All real world systems have some degree of inherent self-healing properties: an overloaded database will slow down enough that someone fixes it, and overwhelmed employees will get slow at finishing work until someone finds a way to help.
+- For every additional order of magnitude of engineers, you need to design and maintain a new layer of management.
+- For every ~10 engineers, you need an additional team, which requires more coordination.
+- Each engineer means more commits and deployments per day, creating load on your development tools.
+- Most outages are caused by deployments, so more deployments drive more outages, which in turn require incident management, mitigations, and postmortems.
+- Having more engineers leads to more specialized teams and systems, which require increasingly small on-call rotations so that your on-call engineers have enough system context to debug and resolve production issues. Consequently, relative time invested in on-call goes up.
+- Most system-implemented systems are designed to support one to two orders' magnitude of growth from the current load. Even systems designed for more growth tend to run into limitations within one to two orders of magnitude.
+- My favorite observation from The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford is that you only get value from projects when they finish: to make progress, above all else, you must ensure that some of your projects finish.
+- p. 48
