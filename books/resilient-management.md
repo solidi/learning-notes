@@ -54,4 +54,12 @@
 - I recommend at some point in your relationship--once you've built the foundation of trust--you should explain these four different skills, as well as when you'll choose one over another.
 - As I mentioned earlier, some folks don't care about improving, and that's fine--right up until there's a cost to the team or the business.
 - I've seen a handful of cases where a person performs poorly when they work with one manager, and is successful when they work with another; whether this is because of the first manager's approach, the team environment, or the switch itself, I can't be sure.
-- p. 40
+- I think it is worth documenting and iterating on are:
+- Teammates' roles and responsibilities, including the manager's role.
+- The team's vision and priorities.
+- How teammates should be collaborating, communicating, and shipping work.
+- Humans tend to benefit from increased clarity around what's expected of them in their job, and at their level in an organization; this clarity typically comes in the form of documentation like a career ladder, skills matrix, of job descriptions. These documents can also make it a lot easier for managers and leaders to assess folks' performance, deliver feedback, make a case for a hiring plan, write an public-facing job description, and so on.
+- (On RACI) Naming some folks as Informed or Consulted can add clarity and reduce design by committee (And when you're in sponsorship mode, consider deputizing your sponsee as Accountable on a new project to give them a visible leadership opportunity.)
+- These responsibility-articulating exercises--both a RACI matrix and a Venn diagram--can also illustrate where individuals might be currently overwhelmed with tasks, and provide a clear opportunity for others to step in and help. But the most important outcome of these exercises is that everyone on the team will have a shared understanding of who is doing what, and who they should go to for which kinds of questions or decisions.
+- Companies usually have a high-level "north star" to inspire and align the work that gets done by individual teams. Many organizations also use goal-measuring systems like OKRs or KPIs to bake this high-level mission into day-to-day work and measure progress over time.
+-p. 48
