@@ -2,12 +2,12 @@
 
 ## Quotes
 - The most fundamental problem in computer science is problem decomposition: how to take a complex problem and divide it up into pieces that can be solved independently. Problem decomposition is the central design task that programmers face everyday and yet other than the work described herem I have not been able to identify a single class in any university where the problem decomposition is a central topic.
-- Many people assume that software design skill is an innate talent that cannot be taught. However there is scientific evidence that outstanding performance in many fields is related more to high-quality practice that innate ability.
+- Many people assume that software design skills is an innate talent that cannot be taught. However there is scientific evidence that outstanding performance in many fields is related more to high-quality practice that innate ability.
 - Students work best by writing code, making mistakes and then seeing how their mistakes and the subsequent fixes relate to the principles.
 - This book is an opinion piece so some readers will disagree with some of the suggestions. If you disagree, try to understand why.
 - All programming requires is a creative mind and the ability to organize your thoughts. If you can visualize a system, you can probably implement it in a computer program.
 - The first approach is to eliminate complexity by making code simpler and more obvious. For example complexity can be reduced by eliminating special cases or using identifiers in a consistent fashion.
-- If software developers should always be thinking about design issues, and reducing complexity is the most important element of software design, then software developers should also being thinking about complexity. This book is about how to use complexity to guide the design of software throughout its lifetime.
+- If software developers should always be thinking about design issues, and reducing complexity is the most important element of software design, then software developers should also be thinking about complexity. This book is about how to use complexity to guide the design of software throughout its lifetime.
 - Your job as a developer is not just to create code that you can work with easily, but to create code that others can also work with easily.
 - Sometimes an approach that requires more lines of code is actually simpler, because it reduces cognitive load.
 - One of the most important goals of good design is for a system to be obvious. This is the opposite of high cognitive load and known unknowns. In an obvious system, a developer can quickly understand how the existing code works and what is required to make a change.
