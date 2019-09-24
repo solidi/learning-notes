@@ -14,4 +14,10 @@
 - You also need to learn to strike the right balance between keeping the wide view and drilling down into the details. This juggling act can be challenging.
 - Decisions are shaped more by others' expert judgements and who trusts whom, as well as by networks of mutual support.
 - Joining a new company is akin to an organ transplant--and you're the new organ. If you're not thoughtful in adapting to the new situation, you could end up being attacked by the organizational immune system and rejected.
-- p28
+- Remember: you don't want to be meeting your neighbors for the first time in the middle of the night when your house is burning down.
+- Likewise, every organization typically has a shared language--a long list of acronyms, for instance, describing business units, producers, processes, projects, and other elements of the company. So, it's essential that you invest early on in learning to speak like the locals. At this level, it's relatively easy for newcomers to figure out how to fit in. If people at your level don't wear plaid, then you shouldn't either, unless you're trying to signal an intention to change the culture.
+- The risk, of course, is that you create an imbalance that leaves you vulnerable when success depends on being ambidextrous.
+- Actively search out people in your organization whose skills are sharp in these areas, so that they can serve as a backstop for you and you can learn from them. A network of advisors and counselors can also help you move beyond your comfort zone.
+- New challenges and associated fears of incompetence can set up a vicious cycle of denial and defensiveness. Put bluntly, you can decide to learn and adapt, or you can become brittle and fail. Your failure may be dramatic, like Julia's or it may be death by a thousand cuts, but it is inevitable.
+- If you have been hired from the outside, ask for help in identifying and connecting with key stakeholders of finding a cultural interpreter. These people often are natural historians who can give you insight into how organization has evolved and changed.
+- p. 41
