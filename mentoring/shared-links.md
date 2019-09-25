@@ -13,3 +13,8 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 ## Books
 https://abookapart.com/products/resilient-management
 https://lethain.com/elegant-puzzle/
+
+## Versioning
+https://semver.org/
+http://calver.org/
+http://sentimentalversioning.org/
