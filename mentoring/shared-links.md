@@ -18,3 +18,6 @@ https://lethain.com/elegant-puzzle/
 https://semver.org/
 http://calver.org/
 http://sentimentalversioning.org/
+
+## Bash
+http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/
