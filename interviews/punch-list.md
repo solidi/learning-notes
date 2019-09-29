@@ -29,6 +29,9 @@ To spark memory of events to tell specific stories.
 - Embedded DevOps engineering.
 - Rehabilition of directs.
 - Managing teams where they owned the technical solutions.
+- Quarterly performance reviews.
+- Deck driven information sharing.
+- Use of recognition system, Spark.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
