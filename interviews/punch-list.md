@@ -13,6 +13,9 @@ To spark memory of events to tell specific stories.
 - First staff meetings and 1:1's.
 - Building numerous teams that align to product portfolios.
 
+## 2017
+- Managed first summer intern.
+
 ## 2018
 - Managing a team that already existed.
 
@@ -32,6 +35,7 @@ To spark memory of events to tell specific stories.
 - Quarterly performance reviews.
 - Deck driven information sharing.
 - Use of recognition system, Spark.
+- Managed second summer intern with success.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
