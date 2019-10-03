@@ -1,4 +1,4 @@
-# The Effective Hiring Manager
+# The Effective Manager
 ## Author: Mark Horstman
 
 ## General Quotes
