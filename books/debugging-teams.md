@@ -12,7 +12,7 @@
 - Your self worth should not be connected to the code you write -- or any creative project you build.
 - A proper postmortem should always contain an explanation of what was learned and what is going to change as a result of the learning experience.
 - The more you are open to influence, the more you are able to influence; the more vulnerable you are, the stronger you appear.
-- On team culture: in case of writing software, you might set up code reviews, and test driven development, and place a high value on having good design docs before starting out to crank out reams of code. Some elements would be more social, like going to lunch every thursday or going out for drinks every friday night.
+- On team culture: in case of writing software, you might set up code reviews, and test driven development, and place a high value on having good design docs before starting out to crank out reams of code. Some elements would be more social, like going to lunch every Thursday or going out for drinks every friday night.
 - Some people think they can hire a whiz-bang architect and a bunch of mediocre programmers and create a good product. We think you can do that, but it's considered less exciting and fun than working with a team of great people who inspire challenge and teach you.
 - If you can find friends or colleagues who will constructively criticize your work when you ask them, hang on to these people because their worth their weight in unobtainium.
 - Writing a good mission statement takes some time and effort but it can potentially save you years of work clarifying what your team should and should not be working on.
