@@ -3,7 +3,7 @@
 
 ## General Notes
 - "Relax, look around, make a call".
-- A group of individuals is a team, that has a mission.
+- A group of individuals is a team that has a mission.
 - Must believe in the cause they are fighting for.
 - The leader is truly and ultimately responsible for everything.
 - "It pays to be a winner".
