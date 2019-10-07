@@ -7,7 +7,7 @@
 - Management is forehand and leadership is backhand.
 - Challenge directly, care personally, challenge directly == radical candor.
 - Specific and through with praise as with criticism.
-- Criticize three items before they can leave after first week.
+- Criticize three items before they can leave after the first week.
 - More praise than criticism - to give direction.
 - Understand growth trajectory and if it's matches up with team.
 - Uphold a quality bar.
@@ -20,5 +20,5 @@
 - Platinum rule: figure out what makes the other person comfortable, then do that.
 - Good reaction to public criticism can be the very thing that establishes your credibility as a strong leader.
 - If no one talks ask “So everything is perfect?” “If you can change one thing?”.
-- Once we identify on what they want to learn, then its easy to identify opportunities.
+- Once we identify on what they want to learn, then it's easy to identify opportunities.
 - Require clean escalation, no backstabbing, and encourage guidance between team members.
