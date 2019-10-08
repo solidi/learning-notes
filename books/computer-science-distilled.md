@@ -21,7 +21,7 @@
 - Independent events
 - Mutually exclusive events
 - Complementary events
-- The gamblers fallacy
+- The gambler's fallacy
 - Advanced probability
 - Best case / worst case / average case / base case
 - Counting time
