@@ -1,4 +1,5 @@
 # Philosophy Of Software Design
+# Author: John Ousterhout
 
 ## Quotes
 - The most fundamental problem in computer science is problem decomposition: how to take a complex problem and divide it up into pieces that can be solved independently. Problem decomposition is the central design task that programmers face everyday and yet other than the work described herem I have not been able to identify a single class in any university where the problem decomposition is a central topic.
