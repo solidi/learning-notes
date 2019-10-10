@@ -5,7 +5,7 @@
 - Managers must cultivate software engineering culture, built upon dev practices otherwise projects fail.
 - Decide on core hours so there is a clear time to be in office.
 - Avoid hiring cynics.
-- Single most important thing a manager does is hire.
+- The single most important thing a manager does is hire.
 - Distributed team will never perform as well as a co-located one.
 - Ownership, attention to detail, and follow through is very high.
 - Understand the culture you are hiring for.
