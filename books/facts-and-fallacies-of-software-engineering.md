@@ -23,3 +23,20 @@
 12. It is not surprising that software estimates are bad. But we live and die by them anyway.
 13. There is a disconnect between software management and their programmers.
 14. The answer to a feasibility study is almost always "yes."
+
+### Reuse
+15. Reuse-in-the-small is a well-solved problem.
+16. Reuse-in-the-large remains a mostly unsolved problem.
+17. Reuse-in-the-large works best in families of related systems.
+18. Reusable components are three times as hard to build and should be tired out in three settings.
+19. Modification of reused code is particularly error-prone.
+20. Design pattern reuse is one solution to the problems of code reuse.
+
+### Complexity
+21. For every 25 percent increase in problem complexity, there is a 100 percent increase in solution complexity.
+22. Eighty percent of software work is intellectual. A fair amount of it is creative. Little of it is clerical.
+
+### Requirements
+23. One of the two most common causes of runaway projects is unstable requirements.
+24. Requirements errors are the most expensive to fix during production.
+25. Missing requirements are the hardest requirements errors to correct.
