@@ -40,3 +40,22 @@
 23. One of the two most common causes of runaway projects is unstable requirements.
 24. Requirements errors are the most expensive to fix during production.
 25. Missing requirements are the hardest requirements errors to correct.
+
+### Design
+26. Explicit requirements "explode" as implicit (design) requirements for a solution evolve.
+27. There is seldom one best design solution to a software problem.
+28. Design is a complex, iterative process. Initial design solutions are usually wrong and certainly not optimal.
+
+### Coding
+29. Designer "primitives" (solutions programmers can readily code) rarely match programmer "primitives."
+30. COBOL is a very bad language, but all the others (for business applications) are so much worse.
+
+### Removal
+31. Error removal is the most time-consuming phase of the life cycle.
+
+### Testing
+32. Software is usually tested at best at the 55 to 60 percent (branch) coverage level.
+33. One hundred percent coverage is still far from enough.
+34. Test tools are essential, but many are rarely used.
+35. Test automation rarely is. Most testing activities cannot be automated.
+36. Programmer-created, built-in debug code is an important supplement to testing tools.
