@@ -31,6 +31,8 @@ To spark memory of events to tell specific stories.
 - Connecting senior leaders to teams.
 - Embedded DevOps engineering.
 - Rehabilitation of directs.
+- Promoting engineer outside team level.
+- Working through numerous knowledge sharing styles/initiatives with teams.
 - Managing teams where they owned the technical solutions.
 - Quarterly performance reviews.
 - Deck driven information sharing.
