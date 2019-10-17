@@ -39,6 +39,7 @@ To spark memory of events to tell specific stories.
 - Use of recognition system, Spark.
 - Managed second summer intern with success.
 - Assisted in recruiting/student job fairs, picked up a successful hire.
+- Realized power of currency of maintaining decks in leadership/partner discussions.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
