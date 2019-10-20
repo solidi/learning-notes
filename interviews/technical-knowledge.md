@@ -10,6 +10,7 @@
     - Dependency Inversion Principle.
 3. "10 minute rule on testing."
 4. "The code is the truth."
+5. "Pull in the morning, push in the evening."
 
 ## What is a database index?
 
