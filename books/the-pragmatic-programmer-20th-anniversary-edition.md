@@ -52,3 +52,38 @@
 48. If it's important enough to be global, wrap it in an API.
 49. Programming's about code, but programs are about data.
 50. Don't hoard state; pass it around.
+51. Don't pay inheritance tax.
+52. Prefer interfaces to express polymorphism.
+53. Delegate to services: has-a trumps is-a.
+54. Use mixins to share functionality.
+55. Parameterize your app using external configuration.
+56. Analyze workflow to improve concurrency.
+57. Share state is incorrect state.
+58. Random failures are often often concurrency issues.
+59. Use actors for concurrency without shared state.
+60. Use blackboards to coordinate workflow.
+61. Listen to your inner lizard.
+62. Don't program by coincidence.
+63. Estimate the order of your algorithms.
+64. Test your estimates.
+65. Refactor early, refactor often.
+66. Testing is not about finding bugs.
+67. A test is the first user of your code.
+68. Build end-to-end, not top-down or bottom-up.
+69. Design to test.
+70. Test your software, or your users will.
+71. Use property-based tests to validate your assumptions.
+72. Keep it simple and minimize attack services.
+73. Apply security patches quickly.
+74. Name well; rename when needed.
+75. No one knows exactly what they want.
+76. Programmers help people understand what they want.
+77. Requirements are learned in a feedback loop.
+78. Work with a user to think like a user.
+79. Policy is metadata.
+80. Use a project glossary.
+81. Don't think outside the box -- find the box.
+82. Don't go into code alone.
+83. Agile is not a noun; agile is how you do things.
+84. Maintain small stable teams.
+85. Schedule it to make it happen.
