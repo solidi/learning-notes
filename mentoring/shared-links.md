@@ -29,3 +29,6 @@ https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
 
 ## Version Notes
 https://enterprise.github.com/releases
+
+## Modernization
+https://12factor.net/
