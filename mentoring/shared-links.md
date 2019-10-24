@@ -11,9 +11,10 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 ## Testing
 https://martinfowler.com/articles/practical-test-pyramid.html
 
-## Books
+## Technical Management Books
 https://abookapart.com/products/resilient-management
 https://lethain.com/elegant-puzzle/
+http://shop.oreilly.com/product/0636920042372.do
 
 ## Versioning
 https://semver.org/
