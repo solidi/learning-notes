@@ -20,6 +20,7 @@ To spark memory of events to tell specific stories.
 - Managing a team that already existed.
 
 ## 2019
+- First difficult win (Foosball table).
 - Brilliant minds with opinions not accepted by peers.
 - Gating on compensation increases.
 - Dealing with difficulty in relationships. When they refuse help.
