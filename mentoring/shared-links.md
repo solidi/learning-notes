@@ -11,6 +11,9 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 ## Testing
 https://martinfowler.com/articles/practical-test-pyramid.html
 
+## Software Engineering Books
+1. https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
+
 ## Technical Management Books
 https://abookapart.com/products/resilient-management
 https://lethain.com/elegant-puzzle/
