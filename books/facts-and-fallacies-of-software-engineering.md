@@ -59,3 +59,10 @@
 34. Test tools are essential, but many are rarely used.
 35. Test automation rarely is. Most testing activities cannot be automated.
 36. Programmer-created, built-in debug code is an important supplement to testing tools.
+
+### Reviews and Inspections
+37. Rigorous inspections can remove up to 90 percent of errors before the first test case is run.
+38. Rigorous inspections should not replace testing.
+39. Postdelivery reviews (some call them "retrospectives") are important and seldom performed.
+40. Reviews are both technical and sociological, and both factors must be accommodated.
+
