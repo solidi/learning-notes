@@ -11,6 +11,7 @@
 3. "10 minute rule on testing."
 4. "The code is the truth."
 5. "Pull in the morning, push in the evening."
+6. "Developer experience."
 
 ## What is a database index?
 
