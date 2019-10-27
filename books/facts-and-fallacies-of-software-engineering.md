@@ -66,3 +66,27 @@
 39. Postdelivery reviews (some call them "retrospectives") are important and seldom performed.
 40. Reviews are both technical and sociological, and both factors must be accommodated.
 
+### Maintenance
+41. Maintenance typically consumes 40 to 80 percent of software costs. It is probably the most important life cycle phase of software.
+42. Enhancements represent roughly 60 percent of maintenance costs.
+43. Maintenance is a solution, not a problem.
+44. Understanding the existing product is the most difficult task of maintenance.
+45. Better methods lead to more maintenance, not less.
+
+### Quality
+46. Quality is a collection of attributes.
+47. Quality is not user satisfaction, meeting requirements, achieving cost and schedule, or reliability.
+
+### Reliability
+48. There are errors that most programmers tend to make.
+49. Errors tend to cluster.
+50. There is no single best approach to software error removal.
+51. Residual errors will always persist. The goal should be to minimize or eliminate serve errors.
+
+### Efficiency
+52. Efficiency stems more from good design than good coding.
+53. High-order language code can be about 90 percent as efficient as comparable assembler code.
+54. There are tradeoffs between size and time optimization.
+
+### Research
+55. Many researches advocate rather than investigate.
