@@ -87,3 +87,8 @@
 83. Agile is not a noun; agile is how you do things.
 84. Maintain small stable teams.
 85. Schedule it to make it happen.
+86. Organize fully functional teams.
+87. Do what works, not what's fashionable.
+88. Deliver when users need it.
+89. Use version control to drive builds, tests, and releases.
+90. Test early, test often, test automatically.
