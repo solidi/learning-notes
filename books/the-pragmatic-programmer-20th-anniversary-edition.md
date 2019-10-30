@@ -92,3 +92,13 @@
 88. Deliver when users need it.
 89. Use version control to drive builds, tests, and releases.
 90. Test early, test often, test automatically.
+91. Coding ain't done 'til all the tests run.
+92. Use saboteurs to test your testing.
+93. Test state coverage, not code coverage.
+94. Find bugs once.
+95. Don't use manual procedures.
+96. Delight users, don't just deliver code.
+97. Sign your work.
+98. First, do no harm.
+99. Don't enable scumbags.
+100. It's your life... share it. Celebrate it. Build it. And have fun!
