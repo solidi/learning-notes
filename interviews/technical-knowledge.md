@@ -12,6 +12,7 @@
 4. "The code is the truth."
 5. "Pull in the morning, push in the evening."
 6. "Developer experience."
+7. "It's a journey."
 
 ## What is a database index?
 
