@@ -13,6 +13,7 @@
 5. "Pull in the morning, push in the evening."
 6. "Developer experience."
 7. "It's a journey."
+8. "Documentation as close to code as possible."
 
 ## What is a database index?
 
