@@ -38,3 +38,6 @@ https://enterprise.github.com/releases
 ## Modernization
 https://12factor.net/
 https://caniuse.com/
+
+## Project Management
+https://en.wikipedia.org/wiki/Parkinson%27s_law
