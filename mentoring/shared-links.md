@@ -7,6 +7,7 @@ https://uvwx.github.io/hierarchy.html
 https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html
 https://keepachangelog.com/en/1.0.0/
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+https://myers.io/2017/04/04/the-joel-test-for-2017/
 
 ## Testing
 https://martinfowler.com/articles/practical-test-pyramid.html
