@@ -15,3 +15,4 @@ Not comprehension, but clarity.
 7. Miscommunication in writing.
 8. Finishing things.
 9. How to write blogs (diagram).
+10. How to demo.
