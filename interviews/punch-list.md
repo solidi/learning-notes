@@ -45,6 +45,7 @@ To spark memory of events to tell specific stories.
 - 9 box and promoting those cross career ladder.
 - Identify boundaries in integration projects.
 - Created shared context with staff meetings.
+- Going low and high when required.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
