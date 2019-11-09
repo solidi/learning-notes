@@ -39,6 +39,9 @@ https://enterprise.github.com/releases
 https://12factor.net/
 https://caniuse.com/
 
+## Open Source
+https://rfc.zeromq.org/spec:42/C4/
+
 ## Project Management
 https://en.wikipedia.org/wiki/Parkinson%27s_law
 
