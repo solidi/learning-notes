@@ -14,6 +14,7 @@
 6. "Developer experience."
 7. "It's a journey."
 8. "Documentation as close to code as possible."
+9. "The project will fill the time alloted."
 
 ## What is a database index?
 
