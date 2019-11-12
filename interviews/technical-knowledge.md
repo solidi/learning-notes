@@ -1,6 +1,6 @@
 # Technical Knowledge
 
-## Tropes
+## Philosophies and Tropes
 1. "Engineers own the quality and QA should find nothing."
 2. "SOLID Principles."
     - Single Responsibility Principle.
