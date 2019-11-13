@@ -41,3 +41,6 @@ https://caniuse.com/
 
 ## Project Management
 https://en.wikipedia.org/wiki/Parkinson%27s_law
+
+## Diagrams
+https://c4model.com/
