@@ -16,6 +16,8 @@
 8. "Documentation as close to code as possible."
 9. "The project will fill the time alloted."
 10. "Strong opinions, loosely held."
+11. "Respect previous engineering efforts."
+12. "The only ownership are the learnings."
 
 ## What is a database index?
 
