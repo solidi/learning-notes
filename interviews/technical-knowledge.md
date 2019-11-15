@@ -19,6 +19,7 @@
 11. "Respect previous engineering efforts."
 12. "The only ownership are the learnings."
 13. "The philosophy of least astonishment."
+14. "Less lines leads to more maintainable code."
 
 ## What is a database index?
 
