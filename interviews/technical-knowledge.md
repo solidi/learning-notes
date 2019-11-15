@@ -18,6 +18,7 @@
 10. "Strong opinions, loosely held."
 11. "Respect previous engineering efforts."
 12. "The only ownership are the learnings."
+13. "The philosophy of least astonishment."
 
 ## What is a database index?
 
