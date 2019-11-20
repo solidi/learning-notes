@@ -13,7 +13,8 @@ https://myers.io/2017/04/04/the-joel-test-for-2017/
 https://martinfowler.com/articles/practical-test-pyramid.html
 
 ## Software Engineering Books
-1. https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
+1. The pragmatic Programmer: https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
+2. The Mythical Man Month: https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/ 
 
 ## Technical Management Books
 https://abookapart.com/products/resilient-management
