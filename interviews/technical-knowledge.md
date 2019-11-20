@@ -20,6 +20,7 @@
 12. "The only ownership are the learnings."
 13. "The philosophy of least astonishment."
 14. "Less lines leads to more maintainable code."
+15. "Two feet rule."
 
 ## What is a database index?
 
