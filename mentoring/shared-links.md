@@ -14,7 +14,8 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 
 ## Software Engineering Books
 1. The pragmatic Programmer: https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
-2. The Mythical Man Month: https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/ 
+2. The Mythical Man Month: https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/
+3. Code Complete 2: https://www.oreilly.com/library/view/code-complete-second/0735619670/
 
 ## Technical Management Books
 https://abookapart.com/products/resilient-management
