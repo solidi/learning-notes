@@ -22,6 +22,7 @@
 14. "Less lines leads to more maintainable code."
 15. "Two feet rule."
 16. "Code review is about crosspollination and successive improvement. It catches things as a side effect."
+17. "Skyhooks and cranes."
 
 ## What is a database index?
 
