@@ -24,6 +24,7 @@
 16. "Code review is about crosspollination and successive improvement. It catches things as a side effect."
 17. "Skyhooks and cranes."
 18. "Code is a liability."
+19. "Tests are documentation."
 
 ## What is a database index?
 
