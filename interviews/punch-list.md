@@ -47,6 +47,7 @@ To spark memory of events to tell specific stories.
 - Created shared context with staff meetings.
 - Going low and high when required.
 - Leading manager COP sessions with roles and titles.
+- Empathizing those who are on leave.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
