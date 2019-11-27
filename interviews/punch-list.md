@@ -15,12 +15,13 @@ To spark memory of events to tell specific stories.
 
 ## 2017
 - Managed first summer intern.
+- Grew first technical lead.
 
 ## 2018
 - Managing a team that already existed.
+- First difficult win (Foosball table).
 
 ## 2019
-- First difficult win (Foosball table).
 - Brilliant minds with opinions not accepted by peers.
 - Gating on compensation increases.
 - Dealing with difficulty in relationships. When they refuse help.
@@ -48,6 +49,7 @@ To spark memory of events to tell specific stories.
 - Going low and high when required.
 - Leading manager COP sessions with roles and titles.
 - Empathizing those who are on leave.
+- Growing tech leads within teams.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
