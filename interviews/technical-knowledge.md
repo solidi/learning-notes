@@ -25,6 +25,7 @@
 17. "Skyhooks and cranes."
 18. "Code is a liability."
 19. "Tests are documentation."
+20. "Agile is a team maturing framework."
 
 ## What is a database index?
 
