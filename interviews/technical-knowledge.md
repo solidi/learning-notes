@@ -26,6 +26,7 @@
 18. "Code is a liability."
 19. "Tests are documentation."
 20. "Agile is a team maturing framework."
+21. "Context over control."
 
 ## What is a database index?
 
