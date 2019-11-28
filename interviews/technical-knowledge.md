@@ -27,6 +27,7 @@
 19. "Tests are documentation."
 20. "Agile is a team maturing framework."
 21. "Context over control."
+22. "Process is documented culture."
 
 ## What is a database index?
 
