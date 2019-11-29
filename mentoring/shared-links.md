@@ -54,3 +54,6 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 ## Diagrams
 https://c4model.com/
+
+## Software Licenses
+https://tldrlegal.com/
