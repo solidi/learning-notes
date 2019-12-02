@@ -2,6 +2,9 @@
 
 To spark memory of events to tell specific stories.
 
+## 2011
+- Created tool for BIF parsing support for video trick play.
+
 ## 2012
 - First software engineer hire.
 
