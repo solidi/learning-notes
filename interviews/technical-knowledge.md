@@ -29,6 +29,7 @@
 21. "Context over control."
 22. "Process is documented culture."
 23. "Who does what by when."
+24. "Business speaks one language."
 
 ## What is a database index?
 
