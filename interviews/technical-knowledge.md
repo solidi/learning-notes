@@ -30,6 +30,7 @@
 22. "Process is documented culture."
 23. "Who does what by when."
 24. "Business speaks one language."
+25. "User stories are reminders for conversations."
 
 ## What is a database index?
 
