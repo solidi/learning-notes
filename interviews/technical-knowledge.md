@@ -31,6 +31,7 @@
 23. "Who does what by when."
 24. "Business speaks one language."
 25. "User stories are reminders for conversations."
+26. "Organize by concept, not by type."
 
 ## What is a database index?
 
