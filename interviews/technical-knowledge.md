@@ -32,6 +32,7 @@
 24. "Business speaks one language."
 25. "User stories are reminders for conversations."
 26. "Organize by concept, not by type."
+27. "There are no adults in the room, only people trying their best."
 
 ## What is a database index?
 
