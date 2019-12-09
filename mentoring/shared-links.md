@@ -9,6 +9,9 @@ https://keepachangelog.com/en/1.0.0/
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 https://myers.io/2017/04/04/the-joel-test-for-2017/
 
+## Time Management
+http://www.structuredprocrastination.com/
+
 ## Git
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
