@@ -15,6 +15,7 @@ To spark memory of events to tell specific stories.
 - Migrating to a monorepo.
 - First staff meetings and 1:1's.
 - Building numerous teams that align to product portfolios.
+- Rotating desks in team.
 
 ## 2017
 - Managed first summer intern.
