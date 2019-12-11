@@ -33,6 +33,8 @@
 25. "User stories are reminders for conversations."
 26. "Organize by concept, not by type."
 27. "There are no adults in the room, only people trying their best."
+28. "The boyscout rule."
+29. "There are no bad teams, only bad leaders."
 
 ## What is a database index?
 
