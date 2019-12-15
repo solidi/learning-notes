@@ -6,7 +6,10 @@ Not comprehension, but clarity.
 
 ## List
 1. How to demo.
-1. Summary on PR.
+1. Summary on PRs.
+  1. Summary comment.
+  1. Explaining the problem.
+  1. Capturing conversations and decisions.
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
