@@ -20,6 +20,7 @@ To spark memory of events to tell specific stories.
 ## 2017
 - Managed first summer intern.
 - Grew first technical lead.
+- Working with a Agile coach to reduce deploy times.
 
 ## 2018
 - Managing a team that already existed.
