@@ -35,6 +35,7 @@
 27. "There are no adults in the room, only people trying their best."
 28. "The boyscout rule."
 29. "There are no bad teams, only bad leaders."
+30. "Dates and processes should defend themselves."
 
 ## What is a database index?
 
