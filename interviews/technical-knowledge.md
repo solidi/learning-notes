@@ -36,6 +36,8 @@
 28. "The boyscout rule."
 29. "There are no bad teams, only bad leaders."
 30. "Dates and processes should defend themselves."
+31. "Put a stake in the ground."
+32. "Feedback is a gift. It is up to you to act on it."
 
 ## What is a database index?
 
