@@ -6,10 +6,13 @@ Not comprehension, but clarity.
 
 ## List
 1. How to demo.
-1. Summary on PRs.
+1. How to PR.
   1. Summary comment.
   1. Explaining the problem.
   1. Capturing conversations and decisions.
+  1. Self review.
+  1. Playful comment.
+  1. Keep it [respectful](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
