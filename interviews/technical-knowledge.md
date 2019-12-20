@@ -38,6 +38,7 @@
 30. "Dates and processes should defend themselves."
 31. "Put a stake in the ground."
 32. "Feedback is a gift. It is up to you to act on it."
+33. "The principle of least privilege."
 
 ## What is a database index?
 
