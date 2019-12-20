@@ -39,6 +39,7 @@
 31. "Put a stake in the ground."
 32. "Feedback is a gift. It is up to you to act on it."
 33. "The principle of least privilege."
+34. "Paint the picture of done."
 
 ## What is a database index?
 
