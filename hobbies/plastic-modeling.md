@@ -8,6 +8,11 @@ Notes on the hobby and learnings.
 1. Use a clip to hold the backing of the water slide decal when placing on the model.
 1. Use hobby knife and decal softener to flatten bubbled/silvered dried decals.
 
+### Body Prep
+
+1. Sand body with 600 grit before priming.
+1. Sand body with 3000 grit before base coat.
+
 ## Learning From Problems
 
 1. Fish eyes in paint occur from silicone on surface. Better surface prep is required.
