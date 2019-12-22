@@ -40,6 +40,7 @@
 32. "Feedback is a gift. It is up to you to act on it."
 33. "The principle of least privilege."
 34. "Paint the picture of done."
+35. "The only way to go fast is to go well."
 
 ## What is a database index?
 
