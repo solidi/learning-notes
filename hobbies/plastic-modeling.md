@@ -16,6 +16,8 @@ Notes on the hobby and learnings.
 ## Learning From Problems
 
 1. Fish eyes in paint occur from silicone on surface. Better surface prep is required.
+1. Do not attempt to polish paint surface if more painting is required.
+1. To avoid crazing lines, paint lacquers in thin layers.
 
 ## Showcase
 
