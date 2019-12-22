@@ -57,6 +57,7 @@ To spark memory of events to tell specific stories.
 - Growing tech leads within teams.
 - Created improved checklist for onboarding new engineers.
 - Worked through change control deployments.
+- Inspired an engineer to create tool that "reminds" teams of open pull requests.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
