@@ -13,7 +13,8 @@ Not comprehension, but clarity.
   1. Playful comment.
   1. Keep it timely and small.
   1. Keep it [respectful](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
-  1. Avoid gatekeeping, crosspollination, and incremental learning
+  1. A chance to changelog well.
+  1. Avoid gatekeeping, crosspollination, and incremental learning.
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
