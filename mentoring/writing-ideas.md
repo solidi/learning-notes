@@ -5,7 +5,6 @@
 Not comprehension, but clarity.
 
 ## List
-1. How to demo.
 1. How to PR.
   1. Summary comment.
   1. Explaining the problem.
@@ -25,3 +24,4 @@ Not comprehension, but clarity.
 ## Completed
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [How to write blogs](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
+1. [How to demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
