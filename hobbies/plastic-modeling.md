@@ -19,7 +19,8 @@ Notes on the hobby and learnings.
 
 ## Learning From Problems
 
-1. Always use respiration protection when using cleaners.
+1. Always use respiration protection when using cleaners/alcohol.
+1. Isopropyl alcohol fumes irritate the lungs.
 1. Fish eyes in paint occur from silicone on surface. Better surface prep is required.
 1. Do not attempt to polish paint surface if more painting is required.
 1. To avoid crazing lines, paint lacquers in thin layers.
