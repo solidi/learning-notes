@@ -2,6 +2,12 @@
 
 Notes on the hobby and learnings.
 
+## Principles
+
+1. Buy two of the same kits. You are bound to lose pieces or make unrecoverable mistakes.
+1. Never touch the model with bare hands. Use gloves so oils do not get on model.
+1. Resist the temptation to touch the model unnecessarily. Excessive touching leads to breakage.
+
 ## Techniques
 
 1. Use a clip to hold the backing of the water slide decal when placing on the model.
