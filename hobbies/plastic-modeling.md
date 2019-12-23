@@ -10,7 +10,9 @@ Notes on the hobby and learnings.
 ## Rituals
 
 1. Clean top of jar of paint before closing the lid.
-1. Clean airbrush needle and pot well with q-tip after every use. 
+1. Clean airbrush needle and pot well with q-tip after every use.
+1. Build up a clear coat by a barrier coat first, then wet coats.
+1. Use a bright light and an angle to see how the clear coat is being applied.
 
 ### Body Prep
 
