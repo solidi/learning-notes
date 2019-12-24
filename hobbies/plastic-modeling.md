@@ -14,6 +14,7 @@ Notes on the hobby and learnings.
 1. Use hobby knife and decal softener to flatten bubbled/silvered dried decals.
 1. Use black marker and trace borders of lens to simulate rubber grommets.
 1. When using light colors such as red over dark areas, use white as a base coat.
+1. When brushing paint, brush over area once completely. Let dry and paint again.
 
 ## Rituals
 
