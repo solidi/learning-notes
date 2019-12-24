@@ -13,6 +13,7 @@ Notes on the hobby and learnings.
 1. Use a clip to hold the backing of the water slide decal when placing on the model.
 1. Use hobby knife and decal softener to flatten bubbled/silvered dried decals.
 1. Use black marker and trace borders of lens to simulate rubber grommets.
+1. When using light colors such as red over dark areas, use white as a base coat.
 
 ## Rituals
 
