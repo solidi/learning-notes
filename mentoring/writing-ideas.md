@@ -16,6 +16,7 @@ Not comprehension, but clarity.
   1. A chance to changelog well.
   1. Prefer pairing.
   1. Prefer tooling to increase abstraction of conversation.
+  1. All red PR's are preferred.
   1. Avoid gatekeeping, crosspollination, and incremental learning - bug catching is a side effect.
 1. Meta becomes more important.
 1. User experience with fans.
