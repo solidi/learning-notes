@@ -32,6 +32,7 @@ Notes on the hobby and learnings.
 
 1. Always use respiration protection when using cleaners/alcohol.
 1. Isopropyl alcohol fumes irritate the lungs.
+1. Use fan to ventilate area by pointing out window.
 
 ## Learning From Problems
 
