@@ -25,6 +25,7 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 3. Code Complete 2: https://www.oreilly.com/library/view/code-complete-second/0735619670/
 4. Clean Code: https://www.oreilly.com/library/view/clean-code/9780136083238/
 5. Design Patterns: https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+6. [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ## Technical Management Books
 https://abookapart.com/products/resilient-management
