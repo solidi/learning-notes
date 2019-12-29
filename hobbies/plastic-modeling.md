@@ -18,6 +18,7 @@ Notes on the hobby and learnings.
 
 ## Rituals
 
+1. Always replace the knife blade right before decaling.
 1. Clean top of jar of paint before closing the lid.
 1. Clean airbrush needle and pot well with q-tip after every use.
 1. Build up a clear coat by a barrier coat first, then wet coats.
