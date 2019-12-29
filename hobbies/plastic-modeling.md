@@ -29,6 +29,10 @@ Notes on the hobby and learnings.
 1. Sand body with 600 grit before priming.
 1. Sand body with 3000 grit before base coat.
 
+### Clear Coat
+
+1. Water down paint area before spraying to reduce dust.
+
 ## Health and Safety
 
 1. Always use respiration protection when using cleaners/alcohol.
