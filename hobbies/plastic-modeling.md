@@ -26,6 +26,7 @@ Notes on the hobby and learnings.
 
 ### Body Prep
 
+1. Wash sprues in warm water with dish detergent and a splash of vinegar.
 1. Sand body with 600 grit before priming.
 1. Sand body with 3000 grit before base coat.
 
