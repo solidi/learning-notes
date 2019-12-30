@@ -33,6 +33,7 @@ Notes on the hobby and learnings.
 ### Clear Coat
 
 1. Water down paint area before spraying to reduce dust.
+1. Use a strong light source to see what is being sprayed.
 
 ## Health and Safety
 
