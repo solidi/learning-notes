@@ -46,6 +46,7 @@ Notes on the hobby and learnings.
 1. Fish eyes in paint occur from silicone on surface. Better surface prep is required.
 1. Do not attempt to polish paint surface if more painting is required.
 1. To avoid crazing lines, paint lacquers in thin layers.
+1. For a smooth shine after a not so good coat, hit model with leveling thinner.
 
 ## Showcase
 
