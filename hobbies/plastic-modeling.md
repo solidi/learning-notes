@@ -30,10 +30,20 @@ Notes on the hobby and learnings.
 1. Sand body with 600 grit before priming.
 1. Sand body with 3000 grit before base coat.
 
+### Painting
+
+1. Perform a barrier or tack coat before heavier coats.
+1. A light coating of thinner after basecoat can help level the finish and make it shine.
+
 ### Clear Coat
 
 1. Water down paint area before spraying to reduce dust.
 1. Use a strong light source to see what is being sprayed.
+
+### Body Details
+
+1. Use wash to fill panel lines. Do not go too heavy on the application.
+1. Use naptha on a cotton swab perpendicular to the panel line to remove excess.
 
 ## Health and Safety
 
