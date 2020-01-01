@@ -12,7 +12,6 @@ Notes on the hobby and learnings.
 
 1. Use a clip to hold the backing of the water slide decal when placing on the model.
 1. Use hobby knife and decal softener to flatten bubbled/silvered dried decals.
-1. Use black marker and trace borders of lens to simulate rubber grommets.
 1. When using light colors such as red over dark areas, use white as a base coat.
 1. When brushing paint, brush over area once completely. Let dry and paint again.
 
@@ -44,6 +43,8 @@ Notes on the hobby and learnings.
 
 1. Use wash to fill panel lines. Do not go too heavy on the application.
 1. Use naptha on a cotton swab perpendicular to the panel line to remove excess.
+1. Use a marker to paint window trim after the final coat of paint is sprayed.
+1. Use a marker and trace borders of lens to simulate rubber grommets.
 
 ## Health and Safety
 
