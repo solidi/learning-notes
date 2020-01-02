@@ -22,7 +22,7 @@ Not comprehension, but clarity.
   1. Embrace TODO's.
   1. Improve tooling everytime.
   1. Respect others efforts always. Best PR is one that adds/fixes on top of another.
-  1. Its all about team context and opinion. Clarify expectations.
+  1. Its all about team context and opinion. Clarify expectations. State philosophies.
   1. Open to feedback - crosspollination, and incremental learning - bug catching is a side effect.
 1. Meta becomes more important.
 1. User experience with fans.
