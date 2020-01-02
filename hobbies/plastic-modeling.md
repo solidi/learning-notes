@@ -31,6 +31,8 @@ Notes on the hobby and learnings.
 
 ### Painting
 
+1. Use white primer for light colors like yellow and and green.
+1. Use pink primer for red.
 1. Perform a barrier or tack coat before heavier coats.
 1. A light coating of thinner after basecoat can help level the finish and make it shine.
 
