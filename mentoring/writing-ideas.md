@@ -11,7 +11,7 @@ Not comprehension, but clarity.
   1. Capturing conversations and decisions.
   1. Self review.
   1. Playful comment.
-  1. Keep it timely and small.
+  1. Keep it timely and small. Avoid batching.
   1. Keep it [respectful](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
   1. A chance to changelog well.
   1. Prefer pairing.
