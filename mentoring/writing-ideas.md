@@ -24,6 +24,11 @@ Not comprehension, but clarity.
   1. Respect others efforts always. Best PR is one that adds/fixes on top of another. Make it easy to run all checks locally.
   1. Its all about team context and opinion. Clarify expectations. State philosophies.
   1. Open to feedback - crosspollination, and incremental learning - bug catching is a side effect.
+1. What is an Engineering Manager Anyway?
+  1. Results and hiring.
+  1. Mentorship and sponsorship.
+  1. The brutality are the lengthly feedback loops.
+  1. Ender: all the books and the followers.
 1. Meta becomes more important.
 1. User experience with fans.
 1. Python's EOL.
