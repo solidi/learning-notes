@@ -18,7 +18,7 @@ Not comprehension, but clarity.
   1. Prefer tooling to increase abstraction of conversation.
   1. All red PR's are preferred.
   1. Checklist and basics of "will not break things".
-  1. Avoid gatekeeping.
+  1. Avoid gatekeeping, ratchet instead.
   1. Embrace TODO's.
   1. Improve tooling everytime.
   1. Respect others efforts always. Best PR is one that adds/fixes on top of another. Make it easy to run all checks locally.
