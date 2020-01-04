@@ -47,6 +47,7 @@ Notes on the hobby and learnings.
 1. Use naptha on a cotton swab perpendicular to the panel line to remove excess.
 1. Use a marker to paint window trim after the final coat of paint is sprayed.
 1. Use a marker and trace borders of lens to simulate rubber grommets.
+1. Use motolow marker for chrome accents.
 
 ## Health and Safety
 
