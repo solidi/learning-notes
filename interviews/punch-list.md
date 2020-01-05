@@ -59,6 +59,7 @@ To spark memory of events to tell specific stories.
 - Worked through change control deployments.
 - Inspired an engineer to create tool that "reminds" teams of open pull requests.
 - Lead team by working through architecture design docs called DEPs.
+- Shepherded an highly effective engineer from another department and then converted.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
