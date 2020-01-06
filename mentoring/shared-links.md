@@ -33,9 +33,9 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 1. [Debugging Teams](http://shop.oreilly.com/product/0636920042372.do)
 
 ## Versioning
-https://semver.org/
-http://calver.org/
-http://sentimentalversioning.org/
+1. [Semantic Versioning 2.0.0](https://semver.org/)
+1. [Calendar Versioning](http://calver.org/)
+1. [Sentimental Versioning](http://sentimentalversioning.org/)
 
 ## Bash
 http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/
