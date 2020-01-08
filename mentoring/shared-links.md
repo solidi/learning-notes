@@ -61,4 +61,4 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 https://c4model.com/
 
 ## Software Licenses
-https://tldrlegal.com/
+1. [Software Licenses in Plain English](https://tldrlegal.com/)
