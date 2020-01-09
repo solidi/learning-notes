@@ -17,7 +17,8 @@ http://www.structuredprocrastination.com/
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ## Testing
-https://martinfowler.com/articles/practical-test-pyramid.html
+1. https://martinfowler.com/articles/practical-test-pyramid.html
+1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 
 ## Software Engineering Books
 1. The pragmatic Programmer: https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
