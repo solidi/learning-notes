@@ -48,6 +48,7 @@ To spark memory of events to tell specific stories.
 - Use of recognition system, Spark.
 - Managed second summer intern with success.
 - Assisted in recruiting/student job fairs, picked up a successful hire.
+- Worked with directs to formulate job descriptions.
 - Realized power of currency of maintaining decks in leadership/partner discussions.
 - Experimented with the concept of management by walking/wandering around.
 - 9 box and promoting those cross career ladder.
