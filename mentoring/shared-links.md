@@ -53,7 +53,8 @@ https://12factor.net/
 https://caniuse.com/
 
 ## Open Source
-https://rfc.zeromq.org/spec:42/C4/
+1. https://rfc.zeromq.org/spec:42/C4/
+1. [First Timers Only](https://www.firsttimersonly.com/)
 
 ## Project Management
 https://en.wikipedia.org/wiki/Parkinson%27s_law
