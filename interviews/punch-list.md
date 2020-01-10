@@ -65,6 +65,9 @@ To spark memory of events to tell specific stories.
 - Shepherded an highly effective engineer from another department and then converted.
 - Work through IDPs (individual development plans) for high performers.
 
+## 2020
+- Negotiated product and technical roadmap by using historical velocity data of teams.
+
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
 Eras: 2006-2009, 2011-2013, 2015-2018
