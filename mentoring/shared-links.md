@@ -53,7 +53,7 @@ https://12factor.net/
 https://caniuse.com/
 
 ## Open Source
-1. https://rfc.zeromq.org/spec:42/C4/
+1. [Collective Code Construction Contract (C4)](https://rfc.zeromq.org/spec:42/C4/)
 1. [First Timers Only](https://www.firsttimersonly.com/)
 
 ## Project Management
