@@ -35,7 +35,7 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 
 ## 2020
 
-### One
+### Exploratory
 1. What your duties as an engineering management?
     - The buckets.
 1. Roles that you manage?
