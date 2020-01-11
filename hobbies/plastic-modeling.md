@@ -67,6 +67,7 @@ Notes on the hobby and learnings.
 ## Tips and Tricks
 
 1. If brush does not touch extra thin glue, extend applicator.
+1. Use a fiberglass pencil to erase pin injector marks.
 
 ## Showcase
 
