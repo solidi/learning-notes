@@ -64,6 +64,10 @@ Notes on the hobby and learnings.
 1. To avoid crazing lines, paint lacquers in thin layers.
 1. For a smooth shine after a not so good coat, hit model with leveling thinner.
 
+## Tips and Tricks
+
+1. If brush does not touch extra thin glue, extend applicator.
+
 ## Showcase
 
 [Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
