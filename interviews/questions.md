@@ -32,3 +32,20 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 ## Career highlight?
 ## First started in career?
 ## Future in career?
+
+## 2020
+
+### One
+1. What your duties as an engineering management?
+    - The buckets.
+1. Roles that you manage?
+1. What are the products you manage and technologies they use?
+1. Why are you considering you moving on?
+1. Approach to building and developing engineers/teams, growing them, and keeping them motivated?
+    - The investor - multipliers.
+1. As you grow the team, are you running an interview process of representation?
+1. As you ensure trust/collaboration between your directs/engineers?
+1. When will be looking to start?
+1. How long are you in your search?
+1. To set expectations with compensation (a range is discussed)
+    - LinkedIn now provides the range and total comp.
