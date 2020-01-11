@@ -43,6 +43,7 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 1. Why are you considering you moving on?
 1. Approach to building and developing engineers/teams, growing them, and keeping them motivated?
     - The investor - multipliers.
+    - Recognition.
 1. As you grow the team, are you running an interview process of representation?
 1. As you ensure trust/collaboration between your directs/engineers?
 1. When will be looking to start?
