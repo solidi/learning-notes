@@ -1,6 +1,5 @@
-# Technical Knowledge
+# Philosophies and Tropes
 
-## Philosophies and Tropes
 1. "Engineers own the quality and QA should find nothing."
 2. "SOLID Principles."
     - Single Responsibility Principle.
@@ -42,9 +41,3 @@
 34. "Paint the picture of done."
 35. "The only way to go fast is to go well."
 36. "Tools create silos."
-
-## What is a database index?
-
-A database index is an optimization to minimize the disk access when a query is run. It is a data structure that quickly locates and accesses the data from a database table. The structure is usually a b-tree or a hash table but can be any other logical structure.
-
-## Tell me all you know about garbage collection
