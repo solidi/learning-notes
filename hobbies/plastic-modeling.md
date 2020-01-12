@@ -68,6 +68,8 @@ Notes on the hobby and learnings.
 
 1. If brush does not touch extra thin glue, extend applicator.
 1. Use a fiberglass pencil to erase pin injector marks.
+1. Use a reverse tweezer to hold a small piece of foam sander.
+1. Use extra thin glue to smooth out rough sanding spots.
 
 ## Showcase
 
