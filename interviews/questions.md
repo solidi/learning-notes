@@ -39,6 +39,10 @@ As an engineering manager, we have to fill gaps for the larger success of the te
 1. What your duties as an engineering management?
     - The buckets.
 1. Roles that you manage?
+1. Products that roll up to you?
+1. How much time do you are on people management vs. technical?
+1. Have you promoted anyone to management?
+    - TLM.
 1. What are the products you manage and technologies they use?
 1. Why are you considering you moving on?
 1. Approach to building and developing engineers/teams, growing them, and keeping them motivated?
