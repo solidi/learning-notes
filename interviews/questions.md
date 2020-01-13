@@ -46,6 +46,7 @@ As an engineering manager, we have to fill gaps for the larger success of the te
     - Recognition.
 1. As you grow the team, are you running an interview process of representation?
 1. As you ensure trust/collaboration between your directs/engineers?
+    - Retrospectives.
 1. When will be looking to start?
 1. How long are you in your search?
 1. To set expectations with compensation (a range is discussed)
