@@ -66,6 +66,7 @@ To spark memory of events to tell specific stories.
 - Work through IDPs (individual development plans) for high performers.
 
 ## 2020
+- Worked through test plan of TradeDriver product. Learned importance of third party consumers.
 - Negotiated product and technical roadmap by using historical velocity data of teams.
 
 ## Transitions and Eras
