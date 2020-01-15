@@ -41,3 +41,4 @@
 34. "Paint the picture of done."
 35. "The only way to go fast is to go well."
 36. "Tools create silos."
+37. "On Management: small things done well."
