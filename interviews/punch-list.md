@@ -68,6 +68,7 @@ To spark memory of events to tell specific stories.
 ## 2020
 - Worked through test plan of TradeDriver product. Learned importance of third party consumers.
 - Negotiated product and technical roadmap by using historical velocity data of teams.
+- Worked through on-call outages via NOC, working through RCA's related to products.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
