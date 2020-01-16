@@ -44,6 +44,10 @@ Notes on the hobby and learnings.
 1. Water down paint area before spraying to reduce dust.
 1. Use a strong light source to see what is being sprayed.
 
+### Interior
+
+1. Use gray wash to accent black interior detail.
+
 ### Body Details
 
 1. Use wash to fill panel lines. Do not go too heavy on the application.
