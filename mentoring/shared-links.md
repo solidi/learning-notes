@@ -11,7 +11,8 @@ https://myers.io/2017/04/04/the-joel-test-for-2017/
 https://deviq.com/boy-scout-rule/
 
 ## Time Management
-http://www.structuredprocrastination.com/
+1. [Structured Procrastination](http://www.structuredprocrastination.com/)
+1. [Makers Schedule](http://www.paulgraham.com/makersschedule.html)
 
 ## Git
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
