@@ -12,6 +12,7 @@ To spark memory of events to tell specific stories.
 ## 2015
 - Working in a team separated from the rest of the corporation.
 - Built first team from IC role.
+- First managed an Android and iOS team.
 
 ## 2016
 - Migrating to a monorepo.
