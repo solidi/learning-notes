@@ -57,9 +57,20 @@ As an engineering manager, we have to fill gaps for the larger success of the te
     - LinkedIn now provides the range and total comp.
 
 ### Initial
+1. What do you want to build?
+1. Tell me about your background / work / highlights of jobs / path?
+1. What do want to get out of your next move?
+1. Have you grown engineers to promote engineers? Have you grown a manager?
 1. Have you managed a team that had already existed? Had you found friction?
     - Listen and observe. Understand processes exist for reasons.
     - Choose a problem no one wants to solve and solve it.
+    - First 90 day book?
+    - Sin of management?
+1. What are engineering manager KPI's?
+1. What does a typical day looks like?
+1. Growing engineers, and partnering with product and confidence, and then efficiency of teams
+1. Sussing out patterns in code?
+1. Empowering individual contributors?
 
 ### Technical
 1. What is a database index?
