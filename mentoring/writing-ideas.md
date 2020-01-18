@@ -30,6 +30,8 @@ Not comprehension, but clarity.
   1. The brutality are the lengthy feedback loops.
   1. Organizational continuity.
   1. Organizational engineering.
+  1. Fairness, impact to other lives.
+  1. Investor attitude.
   1. Ender: all the books and the followers.
 1. Meta becomes more important.
 1. User experience with fans.
