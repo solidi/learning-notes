@@ -42,3 +42,4 @@
 35. "The only way to go fast is to go well." - Bob Martin
 36. "Tools create silos."
 37. "On Management: small things done well." - Michael Lopp
+38. "[Nothing changes until you do.](https://blog.armory.io/nothing-changes-until-you-do/)" - Mike Robbins 
