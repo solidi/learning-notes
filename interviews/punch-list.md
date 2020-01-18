@@ -67,6 +67,7 @@ To spark memory of events to tell specific stories.
 - Work through IDPs (individual development plans) for high performers.
 
 ## 2020
+- Reviewed and improved environment through measuring accelerate metrics.
 - Worked through test plan of TradeDriver product. Learned importance of third party consumers.
 - Negotiated product and technical roadmap by using historical velocity data of teams.
 - Worked through on-call outages via NOC, working through RCA's related to products.
