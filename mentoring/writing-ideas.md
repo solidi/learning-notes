@@ -27,7 +27,9 @@ Not comprehension, but clarity.
 1. What is an Engineering Manager Anyway?
   1. Results and hiring.
   1. Mentorship and sponsorship.
-  1. The brutality are the lengthly feedback loops.
+  1. The brutality are the lengthy feedback loops.
+  1. Organizational continuity.
+  1. Organizational engineering.
   1. Ender: all the books and the followers.
 1. Meta becomes more important.
 1. User experience with fans.
