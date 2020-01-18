@@ -1,21 +1,21 @@
 # Philosophies and Tropes
 
-1. "Engineers own the quality and QA should find nothing."
-2. "SOLID Principles."
+1. "Engineers own the quality and QA should find nothing." - Bob Martin
+2. "SOLID Principles." - Bob Martin
     - Single Responsibility Principle.
     - Open for extension, closed for modification.
     - Liskov Substitution Principle.
     - Interface Segregation Principle.
     - Dependency Inversion Principle.
-3. "10 minute rule on testing."
-4. "The code is the truth."
-5. "Pull in the morning, push in the evening."
-6. "Developer experience."
-7. "It's a journey."
-8. "Documentation as close to code as possible."
-9. "The project will fill the time alloted."
-10. "Strong opinions, loosely held."
-11. "Respect previous engineering efforts."
+3. "10 minute rule on testing." - Self
+4. "The code is the truth." - Self
+5. "Pull in the morning, push in the evening." - Self
+6. "Developer experience." - Unknown
+7. "It's a journey." - Coworker
+8. "Documentation as close to code as possible." - Self
+9. "The project will fill the time alloted." - Parkinson's Law
+10. "Strong opinions, loosely held." - Coworker
+11. "Respect previous engineering efforts." - Self
 12. "The only ownership are the learnings."
 13. "The philosophy of least astonishment."
 14. "Less lines leads to more maintainable code."
@@ -29,16 +29,16 @@
 22. "Process is documented culture."
 23. "Who does what by when."
 24. "Business speaks one language."
-25. "User stories are reminders for conversations."
+25. "User stories are reminders for conversations." - Coworker
 26. "Organize by concept, not by type."
 27. "There are no adults in the room, only people trying their best."
-28. "The boyscout rule."
-29. "There are no bad teams, only bad leaders."
+28. "The boyscout rule." - Bob Martin
+29. "There are no bad teams, only bad leaders." - Jock Willink
 30. "Dates and processes should defend themselves."
-31. "Put a stake in the ground."
-32. "Feedback is a gift. It is up to you to act on it."
-33. "The principle of least privilege."
-34. "Paint the picture of done."
-35. "The only way to go fast is to go well."
+31. "Put a stake in the ground." - Coworker
+32. "Feedback is a gift. It is up to you to act on it." - Michael Lopp
+33. "The principle of least privilege." - Taji
+34. "Paint the picture of done." - Brené Brown
+35. "The only way to go fast is to go well." - Bob Martin
 36. "Tools create silos."
-37. "On Management: small things done well."
+37. "On Management: small things done well." - Michael Lopp
