@@ -35,6 +35,10 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 1. [Resilient Management](https://abookapart.com/products/resilient-management)
 1. [Debugging Teams](http://shop.oreilly.com/product/0636920042372.do)
 
+## Agile and Scrum Books
+1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+1. [Clean Agile: Back to Basics](https://www.oreilly.com/library/view/clean-agile-back/9780135782002/)
+
 ## Versioning
 1. [Semantic Versioning 2.0.0](https://semver.org/)
 1. [Calendar Versioning](http://calver.org/)
