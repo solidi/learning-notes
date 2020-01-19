@@ -70,3 +70,6 @@ https://c4model.com/
 
 ## Software Licenses
 1. [Software Licenses in Plain English](https://tldrlegal.com/)
+
+## Engineering KPI's
+1. [Four Magic Numbers for Measuring Software Delivery](https://medium.com/onzo-tech/four-magic-numbers-for-measuring-software-delivery-55b1dd01eca)
