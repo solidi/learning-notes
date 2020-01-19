@@ -67,6 +67,8 @@ As an engineering manager, we have to fill gaps for the larger success of the te
     - First 90 day book?
     - Sin of management?
 1. What are engineering manager KPI's?
+    - Accelerate metrics.
+    - 20% / Tick / Tock.
 1. What does a typical day looks like?
 1. Growing engineers, and partnering with product and confidence, and then efficiency of teams
 1. Sussing out patterns in code?
