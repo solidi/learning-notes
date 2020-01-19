@@ -23,12 +23,12 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 
 ## Software Engineering Books
-1. The pragmatic Programmer: https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
-2. The Mythical Man Month: https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/
-3. Code Complete 2: https://www.oreilly.com/library/view/code-complete-second/0735619670/
-4. Clean Code: https://www.oreilly.com/library/view/clean-code/9780136083238/
-5. Design Patterns: https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
-6. [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+1. [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+1. [The Mythical Man Month](https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/)
+1. [Code Complete 2](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+1. [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
+1. [Design Patterns](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+1. [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ## Software Management Books
 1. [An Elegant Puzzle - Systems of Engineering Management](https://lethain.com/elegant-puzzle/)
