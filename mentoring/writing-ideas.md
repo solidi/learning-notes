@@ -32,7 +32,7 @@ Not comprehension, but clarity.
   1. Organizational continuity.
   1. Organizational and meta engineering.
   1. Fairness, impact to other lives.
-  1. Investor attitude.
+  1. Investor attitude and pointing those to resources books, podcasts, etc.
   1. COPs, COAs, and the three powers, partnerships.
   1. Trust, respect, having their back.
   1. Ender: all the books and the followers.
