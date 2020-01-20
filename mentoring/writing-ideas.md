@@ -30,7 +30,7 @@ Not comprehension, but clarity.
   1. Admin work, project management, disciplines.
   1. The brutality are the lengthy feedback loops.
   1. Organizational continuity.
-  1. Organizational engineering.
+  1. Organizational and meta engineering.
   1. Fairness, impact to other lives.
   1. Investor attitude.
   1. COPs, COAs, and the three powers, partnerships.
