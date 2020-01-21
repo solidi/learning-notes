@@ -45,6 +45,7 @@ Not comprehension, but clarity.
 1. Miscommunication in writing.
 1. Finishing things.
 1. Investors, destroyers, and culture.
+1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
 
 ## Completed
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
