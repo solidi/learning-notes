@@ -14,7 +14,7 @@ Not comprehension, but clarity.
   1. Organizational and meta engineering.
   1. Fairness, impact to other lives.
   1. Investor attitude and pointing those to resources books, podcasts, etc.
-  1. Trying to stay technical is futile, invest in meta.
+  1. Trying to stay technical is futile, invest in meta and reading.
   1. COPs, COAs, and the three powers, partnerships.
   1. Stews and sleepless nights.
   1. Trust, respect, having their back.
