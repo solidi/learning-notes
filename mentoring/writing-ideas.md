@@ -16,6 +16,7 @@ Not comprehension, but clarity.
   1. Investor attitude and pointing those to resources books, podcasts, etc.
   1. Trying to stay technical is futile, invest in meta.
   1. COPs, COAs, and the three powers, partnerships.
+  1. Stews and sleepless nights.
   1. Trust, respect, having their back.
   1. No surprises.
   1. Ender: all the books and the followers.
