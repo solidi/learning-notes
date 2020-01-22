@@ -5,25 +5,6 @@
 Not comprehension, but clarity.
 
 ## List
-1. How to PR.
-  1. Summary comment.
-  1. Explaining the problem.
-  1. Capturing conversations and decisions.
-  1. Self review.
-  1. Playful comment.
-  1. Keep it timely and small. Avoid batching.
-  1. Keep it [respectful](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
-  1. A chance to changelog well.
-  1. Prefer pairing.
-  1. Prefer tooling to increase abstraction of conversation.
-  1. All red PR's are preferred.
-  1. Checklist and basics of "will not break things".
-  1. Avoid gatekeeping, ratchet instead.
-  1. Embrace TODO's.
-  1. Improve tooling everytime.
-  1. Respect others efforts always. Best PR is one that adds/fixes on top of another. Make it easy to run all checks locally.
-  1. Its all about team context and opinion. Clarify expectations. State philosophies.
-  1. Open to feedback - crosspollination, and incremental learning - bug catching is a side effect.
 1. What is an Engineering Manager Anyway?
   1. Results and hiring.
   1. Mentorship and sponsorship.
@@ -52,3 +33,4 @@ Not comprehension, but clarity.
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
 1. [How to write blogs](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
 1. [How to demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
+1. [Be a Rockstar at Pull Requests](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
