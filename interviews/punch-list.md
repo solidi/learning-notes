@@ -47,6 +47,7 @@ To spark memory of events to tell specific stories.
 - Quarterly performance reviews.
 - Deck driven information sharing.
 - Use of recognition system, Spark.
+- Marking those offtrack due to tech debt and monitoring.
 - Managed second summer intern with success.
 - Assisted in recruiting/student job fairs, picked up a successful hire.
 - Worked with directs to formulate job descriptions.
@@ -72,6 +73,7 @@ To spark memory of events to tell specific stories.
 - Negotiated product and technical roadmap by using historical velocity data of teams.
 - Worked through on-call outages via NOC, working through RCA's related to products.
 - Worked with the performance assurance team to soak test and analyze API's on project.
+- Worked through how sessions on technical decisions.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
