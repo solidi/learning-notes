@@ -19,6 +19,7 @@ Not comprehension, but clarity.
   1. Stews and sleepless nights.
   1. Trust, respect, having their back.
   1. No surprises.
+  1. The final frontier are people and soft skills.
   1. Ender: all the books and the followers.
 1. Meta becomes more important.
 1. User experience with fans.
