@@ -79,7 +79,7 @@ Notes on the hobby and learnings.
 
 ## Showcase
 
-[Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
-[Le Mans 24h Racing](https://scaledworld.net/le-mans-24h-racing-2018)
-[Round 2 1980 Datsun ZX TurboSubject](https://scaledworld.net/round-2-1980-datsun-zx-turbosubject)
-[Ford Escort RS 1800 MK.II](https://scaledworld.net/ford-escort-rs-1800-mk-ii-2020)
+1. [Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
+1. [Le Mans 24h Racing](https://scaledworld.net/le-mans-24h-racing-2018)
+1. [Round 2 1980 Datsun ZX TurboSubject](https://scaledworld.net/round-2-1980-datsun-zx-turbosubject)
+1. [Ford Escort RS 1800 MK.II](https://scaledworld.net/ford-escort-rs-1800-mk-ii-2020)
