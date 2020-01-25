@@ -18,6 +18,7 @@ Not comprehension, but clarity.
   1. COPs, COAs, and the three powers, partnerships.
   1. Stews, optionality, and sleepless nights.
   1. Trust, respect, having their back.
+  1. Systems and identity of a great manager.
   1. No surprises.
   1. The final frontier are people and soft skills.
   1. Ender: all the books and the followers.
