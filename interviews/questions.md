@@ -12,6 +12,7 @@
     - TLM.
 1. What are the products you manage and technologies they use?
 1. Why are you considering you moving on?
+    - Mobile, growing people.
 1. Approach to building and developing engineers/teams, growing them, and keeping them motivated?
     - The investor - multipliers.
     - Recognition.
@@ -22,6 +23,12 @@
 1. How long are you in your search?
 1. To set expectations with compensation (a range is discussed)
     - LinkedIn now provides the range and total comp.
+    - What is the range?
+1. Are you comfortable with the commute at this location?
+    - Remote opportunity?
+1. How typically remove roadblocks for the team?
+    - Agile process.
+1. How did you apply?
 
 ### Initial
 1. What do you want to build?
