@@ -20,6 +20,7 @@ Not comprehension, but clarity.
   1. Trust, respect, having their back.
   1. Systems and identity of a great manager.
   1. No surprises.
+  1. Learning and mistakes.
   1. The final frontier are people and soft skills.
   1. Ender: all the books and the followers.
 1. Pro tips on interviewing.
