@@ -57,6 +57,14 @@ Notes on the hobby and learnings.
 1. Use a marker and trace borders of lens to simulate rubber grommets.
 1. Use motolow marker for chrome accents.
 
+## Stripping Paint
+
+If all else fails, you can strip the paint and start over.
+
+1. Use oven cleaner to start.
+1. The use brake fluid (DOT 3 or DOT 4) if oven cleaner fails.
+1. Then use IPA/Tamiya lacquer thinner if brake fluid fails.
+
 ## Health and Safety
 
 1. Always use respiration protection when using cleaners/alcohol.
