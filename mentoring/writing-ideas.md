@@ -6,7 +6,7 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Engineering Manager Anyway?
-  1. Results and hiring.
+  1. Results, alignment, and hiring.
   1. Mentorship, sponsorship and initiatives.
   1. Admin work, project management, disciplines.
   1. The brutality are the lengthy feedback loops.
