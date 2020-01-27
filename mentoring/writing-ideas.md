@@ -6,24 +6,24 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Engineering Manager Anyway?
-  1. Managers keep train on time. Leaders show here to there.
-  1. Results, alignment, and hiring.
-  1. Mentorship, sponsorship and initiatives.
-  1. Admin work, project management, disciplines.
-  1. The brutality are the lengthy feedback loops.
-  1. Organizational continuity.
-  1. Organizational and meta engineering.
-  1. Fairness, impact to other lives.
-  1. Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
-  1. Trying to stay technical is futile, invest in meta and reading.
-  1. COPs, COAs, and the three powers, partnerships.
-  1. Stews, optionality, and sleepless nights.
-  1. Trust, respect, having their back.
-  1. Systems and identity of a great manager.
-  1. No surprises.
-  1. Learning and mistakes.
-  1. The final frontier are people and soft skills.
-  1. Ender: all the books and the followers.
+  - Managers keep train on time. Leaders show here to there.
+  - Results, alignment, and hiring.
+  - Mentorship, sponsorship and initiatives.
+  - Admin work, project management, disciplines.
+  - The brutality are the lengthy feedback loops.
+  - Organizational continuity.
+  - Organizational and meta engineering.
+  - Fairness, impact to other lives.
+  - Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
+  - Trying to stay technical is futile, invest in meta and reading.
+  - COPs, COAs, and the three powers, partnerships.
+  - Stews, optionality, and sleepless nights.
+  - Trust, respect, having their back.
+  - Systems and identity of a great manager.
+  - No surprises.
+  - Learning and mistakes.
+  - The final frontier are people and soft skills.
+  - Ender: all the books and the followers.
 1. Pro tips on interviewing.
 1. Meta becomes more important.
 1. User experience with fans.
