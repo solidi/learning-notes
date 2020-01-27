@@ -6,6 +6,7 @@ Not comprehension, but clarity.
 
 ## List
 1. What is an Engineering Manager Anyway?
+  1. Managers keep train on time. Leaders show here to there.
   1. Results, alignment, and hiring.
   1. Mentorship, sponsorship and initiatives.
   1. Admin work, project management, disciplines.
@@ -13,7 +14,7 @@ Not comprehension, but clarity.
   1. Organizational continuity.
   1. Organizational and meta engineering.
   1. Fairness, impact to other lives.
-  1. Investor attitude and pointing those to resources books, podcasts, etc.
+  1. Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
   1. Trying to stay technical is futile, invest in meta and reading.
   1. COPs, COAs, and the three powers, partnerships.
   1. Stews, optionality, and sleepless nights.
