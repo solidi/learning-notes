@@ -24,6 +24,7 @@ Not comprehension, but clarity.
   - Learning and mistakes.
   - The final frontier are people and soft skills.
   - Ender: all the books and the followers.
+1. What to do starting a new job.
 1. Pro tips on interviewing.
 1. Meta becomes more important.
 1. User experience with fans.
