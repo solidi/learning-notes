@@ -8,6 +8,7 @@ Not comprehension, but clarity.
 1. What is an Engineering Manager Anyway?
   - Managers keep train on time. Leaders show here to there.
   - Results, alignment, and hiring.
+  - Not a promotion, a different discipline.
   - Mentorship, sponsorship and initiatives.
   - Admin work, project management, disciplines.
   - The brutality are the lengthy feedback loops.
