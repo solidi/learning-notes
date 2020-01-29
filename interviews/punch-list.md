@@ -76,6 +76,7 @@ To spark memory of events to tell specific stories.
 - Worked through how sessions on technical decisions.
 - Supported SOP's, queries, and run-decks with NOC so that the product is well supported in level 1.
 - Worked through converting consultant to staff engineer.
+- Major Learning: Continuing mapping issues can be resolved by BA's.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
