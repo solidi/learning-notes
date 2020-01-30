@@ -31,6 +31,8 @@
 1. How did you apply?
 
 ### Initial
+
+### Given
 1. What do you want to build?
 1. Tell me about your background / work / highlights of jobs / path?
 1. What do want to get out of your next move?
@@ -47,6 +49,10 @@
 1. Growing engineers, and partnering with product and confidence, and then efficiency of teams
 1. Sussing out patterns in code?
 1. Empowering individual contributors?
+
+#### Asked
+1. What are you optimizing for with this position?
+1. Tell me about the last three software releases on the team?
 
 ## Tell me a time when you had to stretch to meet a team commitment?
 
