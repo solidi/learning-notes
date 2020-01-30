@@ -7,13 +7,14 @@ Not comprehension, but clarity.
 ## List
 1. What is an Engineering Manager Anyway?
   - Managers keep train on time. Leaders show here to there.
+  - Ruthlessly delegate and paint the picture of done.
   - Results, alignment, and hiring.
   - Not a promotion, a different discipline.
   - Mentorship, sponsorship and initiatives.
   - Admin work, project management, disciplines.
   - The brutality are the lengthy feedback loops.
   - Organizational continuity.
-  - Organizational and meta engineering.
+  - Organizational and meta engineering. Build the machine that builds the machine.
   - Knowledge, org, relationship power.
   - Fairness, impact to other lives.
   - Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
