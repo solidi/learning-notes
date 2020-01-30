@@ -10,6 +10,7 @@ https://uvwx.github.io/hierarchy.html
 1. https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 1. https://myers.io/2017/04/04/the-joel-test-for-2017/
 1. https://deviq.com/boy-scout-rule/
+1. [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 
 ## Time Management
 1. [Structured Procrastination](http://www.structuredprocrastination.com/)
