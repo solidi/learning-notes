@@ -20,7 +20,7 @@ https://uvwx.github.io/hierarchy.html
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ## Testing
-1. https://martinfowler.com/articles/practical-test-pyramid.html
+1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 
 ## Software Engineering Books
