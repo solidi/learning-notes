@@ -14,7 +14,7 @@ Not comprehension, but clarity.
   - Admin work, project management, disciplines.
   - The brutality are the lengthy feedback loops.
   - Organizational continuity.
-  - Organizational and meta engineering. Build the machine that builds the machine.
+  - Organizational and meta engineering. Build the machine that builds the machine. Higher order.
   - Knowledge, org, relationship power.
   - Fairness, impact to other lives.
   - Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
