@@ -9,7 +9,7 @@ Not comprehension, but clarity.
   - Managers keep train on time. Leaders show here to there.
   - Ruthlessly delegate and paint the picture of done.
   - Results, alignment, and hiring.
-  - Not a promotion, a different discipline.
+  - Not a promotion, a different discipline. First make it work, then make it right, finally make it fast.
   - Mentorship, sponsorship and initiatives.
   - Admin work, project management, disciplines.
   - The brutality are the lengthy feedback loops.
