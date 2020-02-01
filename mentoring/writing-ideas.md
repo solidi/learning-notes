@@ -25,6 +25,7 @@ Not comprehension, but clarity.
   - Systems and identity of a great manager.
   - No surprises.
   - Learning and mistakes.
+  - Forcing functions catalyst.
   - The final frontier are people and soft skills.
   - Ender: all the books and the followers.
 1. What to do starting a new job.
