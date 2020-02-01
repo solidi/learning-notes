@@ -17,7 +17,7 @@ Not comprehension, but clarity.
   - Organizational and meta engineering. Build the machine that builds the machine. Higher order.
   - Knowledge, org, relationship power.
   - Fairness, impact to other lives.
-  - Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
+  - Search & Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
   - Trying to stay technical is futile, invest in meta and reading.
   - COPs, COAs, and the three powers, partnerships.
   - Stews, optionality, and sleepless nights.
