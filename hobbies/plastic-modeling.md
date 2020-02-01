@@ -18,6 +18,7 @@ Notes on the hobby and learnings.
 1. When using light colors such as red over dark areas, use white as a base coat.
 1. When brushing paint, brush over area once completely. Let dry and paint again.
 1. Use a wax pencil to pick up small pieces to place and glue on model.
+1. Drill small hole in back of part for ease placing on toothpick for painting.
 
 ## Rituals
 
