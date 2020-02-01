@@ -10,14 +10,14 @@ Not comprehension, but clarity.
   - Ruthlessly delegate and paint the picture of done.
   - Results, alignment, and hiring.
   - Not a promotion, a different discipline. First make it work, then make it right, finally make it fast.
-  - Mentorship, sponsorship and initiatives.
+  - Mentorship, sponsorship (advocacy) and initiatives.
   - Admin work, project management, disciplines.
   - The brutality are the lengthy feedback loops.
   - Organizational continuity.
   - Organizational and meta engineering. Build the machine that builds the machine. Higher order.
   - Knowledge, org, relationship power.
   - Fairness, impact to other lives.
-  - Search & Sourcing: Investor attitude and pointing those to resources books, podcasts, etc.
+  - Search & Sourcing: Investor attitude and pointing those to resources books, podcasts, etc. - highest bandwidth conversation.
   - Trying to stay technical is futile, invest in meta and reading.
   - COPs, COAs, and the three powers, partnerships.
   - Stews, optionality, and sleepless nights.
