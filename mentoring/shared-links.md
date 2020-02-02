@@ -78,3 +78,6 @@ https://c4model.com/
 
 ## Engineering KPI's
 1. [Four Magic Numbers for Measuring Software Delivery](https://medium.com/onzo-tech/four-magic-numbers-for-measuring-software-delivery-55b1dd01eca)
+
+## Cheat Sheets
+1. [Python](https://gto76.github.io/python-cheatsheet/)
