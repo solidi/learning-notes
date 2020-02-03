@@ -59,6 +59,10 @@ Notes on the hobby and learnings.
 1. Use a marker and trace borders of lens to simulate rubber grommets.
 1. Use motolow marker for chrome accents.
 
+### Decals
+
+1. Use a coffee cup warmer plate to keep water room temperature while decaling.
+
 ## Stripping Paint
 
 If all else fails, you can strip the paint and start over.
