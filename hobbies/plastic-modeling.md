@@ -62,6 +62,7 @@ Notes on the hobby and learnings.
 ### Decals
 
 1. Use a coffee cup warmer plate to keep water room temperature while decaling.
+1. Always use a new/sharp blade to cut out decals.
 
 ## Stripping Paint
 
