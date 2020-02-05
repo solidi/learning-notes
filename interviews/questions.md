@@ -1,5 +1,9 @@
 # Questions
 
+## Gudiance
+
+- STAR model. Situation, action and result format.
+
 ## 2020
 
 ### Exploratory
