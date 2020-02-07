@@ -78,6 +78,7 @@ To spark memory of events to tell specific stories.
 - Worked through converting consultant to staff engineer.
 - Major Learning: Continuing mapping issues can be resolved by BA's.
 - Supported initiative to accelerate project on migration of on-prem apps to cloud.
+- Major Learning: Business logic and validations has effects throughout disparate systems.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
