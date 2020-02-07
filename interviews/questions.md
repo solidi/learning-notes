@@ -1,6 +1,6 @@
 # Questions
 
-## Gudiance
+## Guidance
 
 - STAR model. Situation, action and result format.
 
