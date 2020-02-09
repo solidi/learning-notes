@@ -2,7 +2,8 @@
 
 ## Guidance
 
-- STAR model. Situation, action and result format.
+- Behavioral: STAR model. Situation, action and result format.
+- Batching: Delay in communication can be related to batching other candidates in a pipeline.
 
 ## 2020
 
@@ -17,6 +18,8 @@
 1. What are the products you manage and technologies they use?
 1. Why are you considering you moving on?
     - Mobile, growing people.
+    - Commute.
+    - Leading team.
 1. Approach to building and developing engineers/teams, growing them, and keeping them motivated?
     - The investor - multipliers.
     - Recognition.
@@ -28,11 +31,15 @@
 1. To set expectations with compensation (a range is discussed)
     - LinkedIn now provides the range and total comp.
     - What is the range?
+    - Respect range, respect the process.
 1. Are you comfortable with the commute at this location?
     - Remote opportunity?
 1. How typically remove roadblocks for the team?
     - Agile process.
 1. How did you apply?
+1. Non-competes?
+1. Do you have experience in automated test strategies?
+1. Do you require sponsorship?
 
 ### Initial
 
