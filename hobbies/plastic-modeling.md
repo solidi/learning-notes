@@ -46,6 +46,7 @@ Notes on the hobby and learnings.
 
 1. Water down paint area before spraying to reduce dust.
 1. Use a strong light source to see what is being sprayed.
+1. After clear coat use 8000 then 12000 micromesh. Finally use polish.
 
 ### Interior
 
