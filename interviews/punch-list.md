@@ -81,6 +81,7 @@ To spark memory of events to tell specific stories.
 - Major Learning: Business logic and validations has effects throughout disparate systems.
 - Major Learning: Making recommendation of reducing performance ambiguity by suggesting calibration culture.
 - Major Learning: How do we effectively build new managers in the organization?
+- Worked through compensation / merit / equity cycle.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
