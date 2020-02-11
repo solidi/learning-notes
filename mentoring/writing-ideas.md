@@ -28,7 +28,7 @@ Not comprehension, but clarity.
   - Forcing functions catalyst.
   - The final frontier are people and soft skills.
   - Ender: all the books and the followers.
-1. Five engineering books.
+1. Five engineering books on meta.
   - Pragmatic programmer
   - Mythical man month
   - Refactoring
