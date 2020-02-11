@@ -31,6 +31,7 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 1. [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 1. [Design Patterns](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
 1. [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+1. [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 ## Software Management Books
 1. [An Elegant Puzzle - Systems of Engineering Management](https://lethain.com/elegant-puzzle/)
