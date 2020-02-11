@@ -28,6 +28,12 @@ Not comprehension, but clarity.
   - Forcing functions catalyst.
   - The final frontier are people and soft skills.
   - Ender: all the books and the followers.
+1. Five engineering books.
+  - Pragmatic programmer
+  - Mythical man month
+  - Refactoring
+  - Clean Code
+  - XP Explained
 1. What to do starting a new job.
 1. Pro tips on interviewing.
 1. Meta becomes more important.
