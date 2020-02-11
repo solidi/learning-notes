@@ -45,3 +45,4 @@
 38. "[Nothing changes until you do.](https://blog.armory.io/nothing-changes-until-you-do/)" - Mike Robbins 
 39. "The cheapest investment in people is hardware." - Self
 40. "The habit/ritual/process should defend itself."
+41. "Plan to throw one away." - [Fred Brooks](https://wiki.c2.com/?PlanToThrowOneAway)
