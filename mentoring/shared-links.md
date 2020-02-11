@@ -39,6 +39,7 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ## Engineering Management
 1. [Lara Hogan: First 1:1 Questions](https://docs.google.com/document/d/1ALVJFA8gp7H53iIyPQqoBN1IvZku-5YYcjKpMx6HCXE/edit)
+1. [Take a Real Sick Day](https://www.atlassian.com/blog/productivity/take-real-sick-days-work-life-balance)
 
 ## Agile and Scrum Books
 1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
