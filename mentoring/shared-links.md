@@ -42,6 +42,9 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 1. [Lara Hogan: First 1:1 Questions](https://docs.google.com/document/d/1ALVJFA8gp7H53iIyPQqoBN1IvZku-5YYcjKpMx6HCXE/edit)
 1. [Take a Real Sick Day](https://www.atlassian.com/blog/productivity/take-real-sick-days-work-life-balance)
 
+## Product Management
+1. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
+
 ## Agile and Scrum Books
 1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 1. [Clean Agile: Back to Basics](https://www.oreilly.com/library/view/clean-agile-back/9780135782002/)
