@@ -47,3 +47,4 @@
 40. "The habit/ritual/process should defend itself."
 41. "Plan to throw one away." - [Fred Brooks](https://wiki.c2.com/?PlanToThrowOneAway)
 42. "Initial conditions matter." - Michael Lopp
+43. "To have predictable results, you must have unpredictable latency."
