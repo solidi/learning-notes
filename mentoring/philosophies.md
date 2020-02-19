@@ -48,3 +48,4 @@
 41. "Plan to throw one away." - [Fred Brooks](https://wiki.c2.com/?PlanToThrowOneAway)
 42. "Initial conditions matter." - Michael Lopp
 43. "To have predictable results, you must have unpredictable latency."
+44. "People don't leave their job, they leave their manager."
