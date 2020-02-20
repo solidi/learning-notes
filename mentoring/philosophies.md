@@ -49,3 +49,4 @@
 42. "Initial conditions matter." - Michael Lopp
 43. "To have predictable results, you must have unpredictable latency."
 44. "People don't leave their job, they leave their manager."
+45. "Live by design, not by default."
