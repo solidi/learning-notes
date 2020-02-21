@@ -51,3 +51,4 @@
 44. "People don't leave their job, they leave their manager."
 45. "Live by design, not by default."
 46. "Assert all your assumptions."
+47. "Sometimes it's not about excellence, it's about eliminating problems."
