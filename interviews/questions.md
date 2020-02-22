@@ -65,6 +65,12 @@
 1. What are you optimizing for with this position?
 1. Tell me about the last three software releases on the team?
 
+### Final
+
+#### Asked
+1. Tell me about your management style?
+    - Managers Trinity. Get to know them. Ask for more. Delegate down.
+
 ## Tell me a time when you had to stretch to meet a team commitment?
 
 ### 2019
