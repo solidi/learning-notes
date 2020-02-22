@@ -70,6 +70,9 @@
 #### Asked
 1. Tell me about your management style?
     - Managers Trinity. Get to know them. Ask for more. Delegate down.
+1. Items you innovated on directly?
+    - Slack bot on PR's.
+    - Biff reader.
 
 ## Tell me a time when you had to stretch to meet a team commitment?
 
