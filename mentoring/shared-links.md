@@ -15,6 +15,7 @@ https://uvwx.github.io/hierarchy.html
 ## Time Management
 1. [Structured Procrastination](http://www.structuredprocrastination.com/)
 1. [Makers Schedule](http://www.paulgraham.com/makersschedule.html)
+1. [Burnout Index](https://burnoutindex.org/)
 
 ## Git
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
