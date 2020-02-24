@@ -11,6 +11,7 @@ https://uvwx.github.io/hierarchy.html
 1. https://myers.io/2017/04/04/the-joel-test-for-2017/
 1. https://deviq.com/boy-scout-rule/
 1. [AHA Programming](https://kentcdodds.com/blog/aha-programming)
+1. [SLAP Principle](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
 
 ## Time Management
 1. [Structured Procrastination](http://www.structuredprocrastination.com/)
