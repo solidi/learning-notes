@@ -83,6 +83,7 @@ To spark memory of events to tell specific stories.
 - Major Learning: How do we effectively build new managers in the organization?
 - Worked through compensation / merit / equity cycle.
 - Handled numerous RCA's around outages and issues related to infrastructure upgrades.
+- Worked through knowledge capture sessions in AWS and Docker to improve organizational awareness.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019
