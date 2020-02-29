@@ -89,3 +89,6 @@ https://c4model.com/
 
 ## Cheat Sheets
 1. [Python](https://gto76.github.io/python-cheatsheet/)
+
+## Useful Tools
+1. [Explain Regex](http://rick.measham.id.au/paste/explain.pl)
