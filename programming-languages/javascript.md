@@ -2,6 +2,10 @@
 
 Useful links to brush up and refresh on the language.
 
+## Philosophy
+
+JavaScript's philosophy is revenge over complaints. It is also lazy.
+
 ## Language Mechanics
 
 1. [Creating Iterables](https://medium.com/@chanakyabhardwaj/es6-reverse-iterable-for-an-array-5dae91c02904)
