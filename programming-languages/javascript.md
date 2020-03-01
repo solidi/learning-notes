@@ -16,3 +16,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 ## Language Analysis
 
 1. ['use strict';](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+
+# Node
+
+1. [API docs](https://node.readthedocs.io/en/latest/)
