@@ -73,6 +73,9 @@
 1. Items you innovated on directly?
     - Slack bot on PR's.
     - Biff reader.
+1. What do you think about process?
+    - Process needs to defend itself.
+    - Rituals/Habits are a powerful thing.
 
 ## Tell me a time when you had to stretch to meet a team commitment?
 
