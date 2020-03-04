@@ -92,3 +92,6 @@ https://c4model.com/
 
 ## Useful Tools
 1. [Explain Regex](http://rick.measham.id.au/paste/explain.pl)
+
+## Writing / Blogging
+1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
