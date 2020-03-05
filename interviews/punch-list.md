@@ -66,6 +66,7 @@ To spark memory of events to tell specific stories.
 - Lead team by working through architecture design docs called DEPs.
 - Shepherded an highly effective engineer from another department and then converted.
 - Work through IDPs (individual development plans) for high performers.
+- Transitioned skilled QA to a different team.
 
 ## 2020
 - Reviewed and improved environment through measuring accelerate metrics.
