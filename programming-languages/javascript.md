@@ -13,6 +13,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. [Has Whitespace?](https://stackoverflow.com/questions/1731190/check-if-a-string-has-white-space)
 1. [Iterate Over Maps](https://stackoverflow.com/questions/33946567/iterate-over-values-of-object)
 1. [for vs in iteration](https://alligator.io/js/for-of-for-in-loops/)
+1. [try...catch](https://javascript.info/try-catch)
 
 ## Language Analysis
 
