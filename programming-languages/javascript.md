@@ -15,6 +15,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. [for vs in iteration](https://alligator.io/js/for-of-for-in-loops/)
 1. [try...catch](https://javascript.info/try-catch)
 1. [convert string to int](https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/)
+1. [Using class](https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a)
 
 ## Language Analysis
 
