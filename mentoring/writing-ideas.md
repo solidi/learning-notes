@@ -5,29 +5,6 @@
 Not comprehension, but clarity.
 
 ## List
-1. What is an Engineering Manager Anyway?
-  - Managers keep train on time. Leaders show here to there.
-  - Ruthlessly delegate and paint the picture of done.
-  - Results, alignment, and hiring.
-  - Not a promotion, a different discipline. First make it work, then make it right, finally make it fast.
-  - Mentorship, sponsorship (advocacy) and initiatives.
-  - Admin work, project management, disciplines.
-  - The brutality are the lengthy feedback loops.
-  - Organizational continuity.
-  - Organizational and meta engineering. Build the machine that builds the machine. Higher order.
-  - Knowledge, org, relationship power.
-  - Fairness, impact to other lives.
-  - Search & Sourcing: Investor attitude and pointing those to resources books, podcasts, etc. - highest bandwidth conversation.
-  - Trying to stay technical is futile, invest in meta and reading.
-  - COPs, COAs, and the three powers, partnerships.
-  - Stews, optionality, and sleepless nights.
-  - Trust, respect, having their back.
-  - Systems and identity of a great manager.
-  - No surprises.
-  - Learning and mistakes.
-  - Forcing functions catalyst.
-  - The final frontier are people and soft skills.
-  - Ender: all the books and the followers.
 1. Five engineering books on meta.
   - Pragmatic programmer
   - Mythical man month
@@ -51,3 +28,4 @@ Not comprehension, but clarity.
 1. [How to write blogs](https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b)
 1. [How to demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
 1. [Be a Rockstar at Pull Requests](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
+1. [What is an Engineering Manager Anyway?](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
