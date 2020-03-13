@@ -95,3 +95,7 @@ https://c4model.com/
 
 ## Writing / Blogging
 1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
+
+## Remote
+1. [Gitlab Guide to Remote Working](https://about.gitlab.com/company/culture/all-remote/guide/)
+1. [Managing Teams Remotely Crach Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
