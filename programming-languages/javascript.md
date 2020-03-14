@@ -17,6 +17,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. [convert string to int](https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/)
 1. [Using class](https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a)
 1. [Using arrays](https://www.hostingadvice.com/how-to/javascript-remove-element-array/)
+1. [heredoc](https://hutter.io/2015/03/16/heredoc-in-javascript/)
 
 ## Language Analysis
 
