@@ -12,3 +12,9 @@
 1. Lean Canvas
 1. Customer Success Letter
 1. Customer Discovery Program (Minimum of six)
+
+## Test Product
+1. Feasibility
+1. Value
+1. User Experience
+1. Viability
