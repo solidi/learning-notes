@@ -6,6 +6,19 @@ Useful links to brush up and refresh on the language.
 
 JavaScript's philosophy is revenge over complaints. It is also lazy.
 
+## General
+
+1. ECMA SCript 5 - most JavaScript browsers use this since 2012.
+1. Transpilers translate backward. babeljs.io is such a tool.
+
+## IDE's
+
+1. VSCode
+1. Sublime
+1. Atom
+1. brackets.io
+1. phpstorm
+
 ## Language Mechanics
 
 1. [Creating Iterables](https://medium.com/@chanakyabhardwaj/es6-reverse-iterable-for-an-array-5dae91c02904)
@@ -25,6 +38,46 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. ['use strict';](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 1. ['getMethods'](https://flaviocopes.com/how-to-list-object-methods-javascript/)
 
-# Node
+## Node
 
 1. [API docs](https://node.readthedocs.io/en/latest/)
+
+## Books & Resources
+
+1. Eloquent JavaScript
+1. exploringjs.com
+1. you don't know JS
+1. JavaScript - the good parts + github notes
+1. MDN web docs on JavaScript reference
+1. caniuse.com
+1. quirksmode.org
+1. prettier.io
+1. lodash.com
+1. [axios for http get](https://github.com/axios/axios)
+1. webpack and rolljs.org for modularization.
+1. npm and yarn for package management.
+1. babeljs for transpiling.
+
+## Small Bits
+1. Use \ to extend strings to next line.
+1. Infinity and NaN exist.
+1. Math.random();
+1. ```delete``` keyword to remove key from object.
+1. Objects are assigned by reference.
+1. To copy objects, use ```JSON.parse(JSON.stringify(object));```
+1. Arrays are objects, does not care about types, and preserve order.
+1. array.push(item) places item on end of array.
+1. array.splice(index, itemsToRemove) to cut array.
+1. Use ```/<this item>/``` for regex literal expression.
+1. ```window.confirm``` vs ```window.prompt```
+1. ```typeof variable``` to check type. ```variable.hasOwnProperty("length")``` for arrays.
+1. ```Number.isNan(item)``` for checking for NaN.
+1. Access DOM by using the ```document``` object.
+1. ES6 supports default parameters for functions.
+1. Each function has an object called ```arguments```.
+1. Type check default ```item = item || "default";```.
+1. functions are objects from ```Function```.
+1. Arrow functions can take the place of anonymous functions in ES6+.
+1. ```array.map(function)``` walks all items in an array and applies the passed function to it.
+1. **polyfill** means to patch the spec which is missing from the browser.
+1. Syntactic sugar examples in JavaScript are ```class``` which ulimately boils down to prototypal chains.
