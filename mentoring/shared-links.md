@@ -14,6 +14,7 @@ https://uvwx.github.io/hierarchy.html
 1. [SLAP Principle](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
 
 ## Time Management
+1. [Benjamin Franklin's Schedule](https://thefocuscourse.com/franklin-schedule/)
 1. [Structured Procrastination](http://www.structuredprocrastination.com/)
 1. [Makers Schedule](http://www.paulgraham.com/makersschedule.html)
 1. [Burnout Index](https://burnoutindex.org/)
