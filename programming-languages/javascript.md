@@ -40,6 +40,32 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 
 ## Node
 
+### Node History
+
+1. Founded in 2009 based on the chrome v8 engine.
+1. NPM founded in 2011 and hit 1.0.
+1. Node Foundation was formed in 2015.
+
+### Details
+
+1. Node is single threaded and async.
+1. Has a ```global``` object that others prototype off of.
+1. Has a ```require(lib)``` function to import.
+1. Has a ```process``` global object to access meta about node.
+1. Has ```process.on``` that will review data and exit events.
+1. ```__dirname``` and ```__filename``` are also useful.
+1. Use ```module.exports``` to export functions and properties.
+1. Explore ```events.EventEmitter``` for pub sub models.
+1. In the module ```fs``` has functions for async and sync for reading, writing files, directors etc.
+1. Core way to develop apps is with the streams interface.
+
+### Core Modules
+
+1. ```v8, path, util, readline, fs, child_process``` are very useful.
+1. Can destructure the module by use ```const { log } = require("util");``` 
+
+### Node Resources
+
 1. [API docs](https://node.readthedocs.io/en/latest/)
 
 ## Books & Resources
