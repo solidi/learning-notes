@@ -48,6 +48,7 @@ https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 ## Product Management
 1. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
 1. [Google's HEART Framework](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf)
+1. [Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 
 ## Agile and Scrum Books
 1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
