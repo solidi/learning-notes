@@ -23,17 +23,25 @@ Not comprehension, but clarity.
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
 1. Learning how to work remotely.
-  - Basics
-    - Schedule.
-    - Dressing.
-    - Commuting.
-  - Being intentional.
-  - Setting Pace.
-  - Workspace vs homespace.
-  - Keep it consistent.
-  - Standup.
-  - Team hangout.
-  - Video on.
+  - Individual
+    - Equipment
+      - Mic.
+      - Video on.
+    - Basics
+      - Schedule.
+      - Dressing.
+      - Commuting.
+    - Being intentional.
+    - Setting Pace.
+    - Workspace vs homespace.
+    - Keep it consistent.
+    - Standup.
+  - Team
+    - Team hangout. Synchronous vs async communication.
+    - Lean harder on discoverability - writing, dx, and asynchornous docs.
+    - Meeting together every once awhile.
+  - Finally
+    - Remote working is about effective writing.
 
 ## Completed
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
