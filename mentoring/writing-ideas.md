@@ -23,8 +23,17 @@ Not comprehension, but clarity.
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
 1. Learning how to work remotely.
+  - Basics
+    - Schedule.
+    - Dressing.
+    - Commuting.
   - Being intentional.
   - Setting Pace.
+  - Workspace vs homespace.
+  - Keep it consistent.
+  - Standup.
+  - Team hangout.
+  - Video on.
 
 ## Completed
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
