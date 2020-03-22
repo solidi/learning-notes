@@ -33,6 +33,8 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. [heredoc](https://hutter.io/2015/03/16/heredoc-in-javascript/)
 1. [Reversing a String](https://medium.com/sonyamoisset/reverse-a-string-in-javascript-a18027b8e91c)
 1. [Using reduce to sum](https://medium.com/@chrisburgin95/rewriting-javascript-sum-an-array-dbf838996ed0)
+1. [Modify array in arrow function](https://stackoverflow.com/questions/12482961/is-it-possible-to-change-values-of-the-array-when-doing-foreach-in-javascript)
+1. [Modifying prototype with arrow function](https://teamtreehouse.com/community/does-arrow-function-syntax-works-for-prototype)
 
 ## Language Analysis
 
