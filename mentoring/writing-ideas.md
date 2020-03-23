@@ -25,6 +25,7 @@ Not comprehension, but clarity.
 1. Learning how to work remotely.
   - Individual
     - Equipment
+      - Noise canceling headphones.
       - Mic.
       - Video on.
     - Basics
