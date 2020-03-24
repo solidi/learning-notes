@@ -41,6 +41,10 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. ['use strict';](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 1. ['getMethods'](https://flaviocopes.com/how-to-list-object-methods-javascript/)
 
+## IDE
+
+1. [JavaScript Typehints in VSCode](https://dev.to/henryjw/better-javascript-type-autocomplete-with-jsdoc-3bdo)
+
 ## Node
 
 ### Node History
