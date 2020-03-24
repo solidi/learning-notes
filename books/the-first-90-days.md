@@ -20,4 +20,23 @@
 - Actively search out people in your organization whose skills are sharp in these areas, so that they can serve as a backstop for you and you can learn from them. A network of advisors and counselors can also help you move beyond your comfort zone.
 - New challenges and associated fears of incompetence can set up a vicious cycle of denial and defensiveness. Put bluntly, you can decide to learn and adapt, or you can become brittle and fail. Your failure may be dramatic, like Julia's or it may be death by a thousand cuts, but it is inevitable.
 - If you have been hired from the outside, ask for help in identifying and connecting with key stakeholders of finding a cultural interpreter. These people often are natural historians who can give you insight into how organization has evolved and changed.
-- p. 41
+
+* Accelerate Your Learning
+    - The more efficiently and effectively you learn, the more quickly you will close the window of vulerability.
+    - Remember: simply dipslaying a geuine desire to learn and understand translates into increased credibility and influence.
+    - Leaders who onboard into new organizations must therefore focus on learning and adapting to the new culture. Otherwise they risk suffering the organization equivlent of organ rejection syndrome (with the new leaders being the organs.)
+    - He would have planned to engage in systematic learning process--creating a virtuous cycle of information gathering, analyzing, hypothesizing and testing.
+    - In the political domain, you must understand the *shadow organization*--the informal set of processes and alliances that exist in the shadow of the formal structure and strongly influence how the work actually gets done.
+    - Many leaders tend to dive in and start talking to people. You will pick up much soft information in this way, but it is not efficient.
+    - Five questions to start 1:1's with
+        1. What are the biggest challenges the organization is facing (or will face in the near future)?
+        1. Why is the organization facing (or going to face) these challenges?
+        1. What are the most promising unexploited opportunities for growth?
+        1. What would need to happen for the organization to exploit the potential of these opportunities?
+        1. If you were me, what would you focus attention on?
+    - Meet one-on-one with your direct reports and ask them the questions you compiled. You will learn about convergent and divergent views and about your reports as people.
+    - There is much that bosses, peers, and even directs can do to accelerate your learning. However, to enlist their aid you need to be clear about what you're trying to do and how they can help.
+
+* Match Strategy to Situtation
+    - The first question is, what kind of change am I being called upon to lead? Only by answering this question will you know how to match your strategy to the situation. The second qestion is, what kind of change leader am I?
+- p. 72
