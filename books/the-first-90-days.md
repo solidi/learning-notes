@@ -43,4 +43,9 @@
 
 * Match Strategy to Situtation
     - The first question is, what kind of change am I being called upon to lead? Only by answering this question will you know how to match your strategy to the situation. The second qestion is, what kind of change leader am I?
-- p. 72
+    - STARS model. Start-up, Turnaround, Accelerating Growth, Realignment, and Sustaining Success.
+    - In realignment ... The clouds are gathering on the horizon, but the storm has not yet broken--and many people may not even see the clouds. The biggest challenge often is to create a sense of urgency.
+    - Specifically you must establish priorities, define strategic intent, identify where you can secure early wins, build the right leadership team, and create supporting alliances.
+    - Technial comprehension was still important, obviously, but cultural and political learning mattered more.
+    - In relaignment ... the most important early win was to raise peoples awareness of the need for change. He accomplished that by putting more empahsis on facts and figures,; he revamped the companies performance metrics in manufacturing and customer service to focus employee's attention to critical weakness in those areas, and he also introduced external benchmarks and hard-nosed assessments by respected consultants--drawing on impartial voices from outside the company.
+- p. 81
