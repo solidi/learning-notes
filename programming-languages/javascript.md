@@ -88,6 +88,16 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
         - ``pm2 list``
         - ``pm2 monit``
         - ``pm2 reload app``
+1. Scale the z axis by using partitions
+    - Simplest database for Node.js is node-localstorage.
+    - For testing, use ``node-localstorage`` for a simplistic database.
+    - Hortizonal partitioning "Sharding".
+    - Why
+        - Too much data.
+        - More write operations than the server can handle.
+        - Slow performance.
+        - Often cheaper to host shards than one database.
+
 
 ### Scaling Knowledge
 
@@ -97,6 +107,10 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. Workers are cluster processes.
 1. Create an exit event to know when a process has exited or been killed.
 1. Use ``monit`` command to watch logging in realtime with PM2.
+1. To ensure that data is consistent across instances, have a database with Node.js applications scaled across instances.
+1. To find potential bugs before moving to production, consider using a database early in the app development process.
+1. Sharding describes scaling on the z-axis.
+1. What is the purpose of a sharding function is to decide which database to use.
 
 ### Node Resources
 
