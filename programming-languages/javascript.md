@@ -75,8 +75,8 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 
 1. Scaling cube, three dimensions
     - X axis - instances.
-    - Y axis - services.
     - Z axis - partitioning.
+    - Y axis - services.
 1. Node uses forks for scaling in the X axis.
     - Architecting zero downtime.
     - Use cluster module for forking processes.
