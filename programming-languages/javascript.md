@@ -71,6 +71,33 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. ```v8, path, util, readline, fs, child_process``` are very useful.
 1. Can destructure the module by use ```const { log } = require("util");``` 
 
+### Scaling
+
+1. Scaling cube, three dimensions
+    - X axis - instances.
+    - Y axis - services.
+    - Z axis - partitioning.
+1. Node uses forks for scaling in the X axis.
+    - Architecting zero downtime.
+    - Use cluster module for forking processes.
+        - Main and worker processes.
+    - Use loadtest package to test these forked processes.
+        - ``loadtest -n 300 http://localhost:3000``
+    - PM2 is a module package for above.
+        - ``pm2 start app.js -i -1``
+        - ``pm2 list``
+        - ``pm2 monit``
+        - ``pm2 reload app``
+
+### Scaling Knowledge
+
+1. Monoliths represent the bottom left corner of the scale cube.
+1. Run separate instances of the application to scale an application on the x-axis.
+1. Forking is to clone an application and run it using multiple instances.
+1. Workers are cluster processes.
+1. Create an exit event to know when a process has exited or been killed.
+1. Use ``monit`` command to watch logging in realtime with PM2.
+
 ### Node Resources
 
 1. [API docs](https://node.readthedocs.io/en/latest/)
