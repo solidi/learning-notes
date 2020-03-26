@@ -88,6 +88,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
         - ``pm2 list``
         - ``pm2 monit``
         - ``pm2 reload app``
+    - PM2 can maintain zero downtime restart.
 1. Scale the z axis by using partitions
     - Simplest database for Node.js is node-localstorage.
     - For testing, use ``node-localstorage`` for a simplistic database.
@@ -97,7 +98,13 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
         - More write operations than the server can handle.
         - Slow performance.
         - Often cheaper to host shards than one database.
-
+1. Scale the y axis by using microservices
+    - To decompose a monolith, start with splitting data first.
+    - Orchestration of services sometimes happen on front end, but we should try to make an abstratcion on the backend.
+        - API Orchestration.
+            - Sercurity benefit.
+        - Messaging Layer.
+            - Fault Tolerance with queuing and messaging benefit.
 
 ### Scaling Knowledge
 
@@ -111,10 +118,15 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. To find potential bugs before moving to production, consider using a database early in the app development process.
 1. Sharding describes scaling on the z-axis.
 1. What is the purpose of a sharding function is to decide which database to use.
+1. Microservices allow you to scale teams, since specialized sets of engineers can focus on and deploy a specific service.
+1. Microservices focus on specific application features.
+1. Orchestration is the process of bringing together microservices under one gateway or umbrella.
+1. Orchestration API improve security by exposing only the parts of the underlying service that we want clients to consume.
 
 ### Node Resources
 
 1. [API docs](https://node.readthedocs.io/en/latest/)
+1. [pm2](https://pm2.io/)
 
 ## Books & Resources
 
