@@ -54,4 +54,4 @@
 47. "Sometimes it's not about excellence, it's about eliminating problems."
 48. "Monitor the customers pain throughout the system."
 49. "Consider silence as dissent."
-50. "Firrst make the change easy, then make the easy change." - Kent Beck
+50. "First make the change easy, then make the easy change." - Kent Beck
