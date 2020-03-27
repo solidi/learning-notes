@@ -79,6 +79,38 @@
     - NoSQL trends toward parition-tolerance
     - CouchDB is AP (available and partition tolerant)
 
+## CouchDB vs Others
+
+1. MongoDB
+    - Is consistent and partition tolerant.
+    - Queries use drivers
+    - Does not support views
+    - Master/Slave replicas
+    - Based on shards
+    - Structured on dbs/collections/records
+    - Map reduce functions
+1. Cassandra
+    - Invented by FB.
+    - Available., partition tolerant with some config on consistency.
+    - Queries use drives
+    - KV and tabular
+    - No downtime by adding nodes
+    - Keys mapped to columns
+    - CQL query language
+1. Riak are similar to CouchDB
+    - AP database
+    - Bucket/key/value
+    - Query syntax is close to Lucene
+    - MapReduce functions.
+1. Redis
+    - Is consistent, partition-tolerant db.
+    - Native drivers
+    - KV store
+    - Mac and Linux
+    - Master/Slave
+    - Query by key, and sometimes hash
+        - lists, sets, hashes
+
 ## Trivia
 
 1. Hashes are mostly associated with NoSQL databases.
@@ -95,3 +127,6 @@
 1. ``if (doc._attachments.hasOwnProperty(key) && typeof(key) !== 'function')``
 1. Horizontal partitioning puts different rows on different partitions.
 1. CAP Theorem only guarantees two of the three attributes (consistent, available, partition-tolerant).
+1. MongoDB has native drivers for each language.
+1. Cassandra is available, and partition-tolerant.
+1. You cannot query over HTTP with Redis.
