@@ -48,8 +48,27 @@
 1. JavaScript
 1. JSON
 
+## CouchDB
+
+1. [Fauxton](http://127.0.0.1:5984/_utils)
+1. [All dbs](http://127.0.0.1:5984/_all_dbs)
+1. [All docs for db](http://127.0.0.1:5984/db/_all_docs)
+
+### CouchDB Map
+
+1. Map functions are used to only extract the data you need.
+1. Design doc used for mapping to app.
+1. Reduce functions are run on map function keys, once.
+
 ## Trivia
 
 1. Hashes are mostly associated with NoSQL databases.
 1. When data is best represented as interconnected nodes, the NoSQL database type is a graph.
 1. A couple of the ways you can use NoSQL include as a caching layer or to store binary files.
+1. When you run CouchDB on your local computer, the Futon user interface comes up automatically.
+1. Use ``sudo apt-get install couchdb`` to install CouchDB on Ubuntu.
+1. ``_rev`` gets automatically added when adding fields to a newly created document.
+1. ``[]`` is used to creating a field that is an array of values.
+1. ``/db/_all_docs`` to the URL to get the records in the Student database.
+1. Use JavaScript to query for data in CouchDB.
+1. If there are four documents with the key of "abc", a reduce function will be called 1 time.
