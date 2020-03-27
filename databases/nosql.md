@@ -58,7 +58,9 @@
 
 1. Map functions are used to only extract the data you need.
 1. Design doc used for mapping to app.
+    - Design documents contain views and all parts of the app through attachments.
 1. Reduce functions are run on map function keys, once.
+1. Use ``cradle`` as an NPM package to connect to it.
 
 ## Trivia
 
@@ -72,3 +74,5 @@
 1. ``/db/_all_docs`` to the URL to get the records in the Student database.
 1. Use JavaScript to query for data in CouchDB.
 1. If there are four documents with the key of "abc", a reduce function will be called 1 time.
+1. The db name, id of the document, and the name of the file makes up the url of the image.
+1. ``if (doc._attachments.hasOwnProperty(key) && typeof(key) !== 'function')``
