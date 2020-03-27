@@ -62,6 +62,23 @@
 1. Reduce functions are run on map function keys, once.
 1. Use ``cradle`` as an NPM package to connect to it.
 
+## Other Concepts
+1. Partitions include
+    1. Ranges: A-M M-Z
+    1. List: types, etc.
+    1. Hash: Determes membership
+    1. Why?
+        1. Storage limitations
+        1. Performance
+        1. Availability
+1. Relational dbs can be partitioned horizontally or vertically
+1. Horizontal partitions rows, Vertical partitions columns
+1. Parititoning non-relational dbs depends on type.
+1. CAP Theorem - Consistency, Availability, Partition Tolerance. Only two of the three.
+    - Relational db trends toward consistency and availability
+    - NoSQL trends toward parition-tolerance
+    - CouchDB is AP (available and partition tolerant)
+
 ## Trivia
 
 1. Hashes are mostly associated with NoSQL databases.
@@ -76,3 +93,5 @@
 1. If there are four documents with the key of "abc", a reduce function will be called 1 time.
 1. The db name, id of the document, and the name of the file makes up the url of the image.
 1. ``if (doc._attachments.hasOwnProperty(key) && typeof(key) !== 'function')``
+1. Horizontal partitioning puts different rows on different partitions.
+1. CAP Theorem only guarantees two of the three attributes (consistent, available, partition-tolerant).
