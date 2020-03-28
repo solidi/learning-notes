@@ -35,6 +35,7 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. [Using reduce to sum](https://medium.com/@chrisburgin95/rewriting-javascript-sum-an-array-dbf838996ed0)
 1. [Modify array in arrow function](https://stackoverflow.com/questions/12482961/is-it-possible-to-change-values-of-the-array-when-doing-foreach-in-javascript)
 1. [Modifying prototype with arrow function](https://teamtreehouse.com/community/does-arrow-function-syntax-works-for-prototype)
+1. [Date names](https://stackoverflow.com/questions/24998624/day-name-from-date-in-js/45464959)
 
 ## Language Analysis
 
