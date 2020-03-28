@@ -5,6 +5,7 @@
 
 ## Onboarding
 * Understand People
+  - [ ] Understand team structure.
   - [ ] Setup first staff meeting.
   - [ ] Setup first 1:1's.
   - [ ] Biggest problem to solve?
