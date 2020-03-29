@@ -22,27 +22,6 @@ Not comprehension, but clarity.
 1. Finishing things.
 1. Investors, destroyers, and culture.
 1. Hitting the wall on aglos, and weird land of conditionals getting the tests to pass.
-1. Learning how to work remotely.
-  - Individual
-    - Equipment
-      - Noise canceling headphones.
-      - Mic.
-      - Video on.
-    - Basics
-      - Schedule.
-      - Dressing.
-      - Commuting.
-    - Being intentional.
-    - Setting Pace.
-    - Workspace vs homespace.
-    - Keep it consistent.
-    - Standup.
-  - Team
-    - Team hangout. Synchronous vs async communication.
-    - Lean harder on discoverability - writing, dx, and asynchornous docs.
-    - Meeting together every once awhile.
-  - Finally
-    - Remote working is about effective writing.
 
 ## Completed
 1. [Becoming a tech lead.](https://dev.to/solidi/what-is-a-tech-lead-anyway-483p)
@@ -50,3 +29,4 @@ Not comprehension, but clarity.
 1. [How to demo](https://dev.to/solidi/how-to-crush-your-next-team-demo-2bb5)
 1. [Be a Rockstar at Pull Requests](https://dev.to/solidi/be-a-rockstar-at-pull-requests-1e4f)
 1. [What is an Engineering Manager Anyway?](https://dev.to/solidi/what-is-an-engineering-manager-anyway-4and)
+1. [Do Great at Working Remotely](https://dev.to/solidi/do-great-at-working-remotely-1oh9)
