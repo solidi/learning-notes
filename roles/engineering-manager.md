@@ -9,6 +9,7 @@
   - [ ] Setup first staff meeting.
   - [ ] Setup first 1:1's.
   - [ ] Biggest problem to solve?
+  - [ ] Managers Community of practice?
 * Understand Product
   - [ ] How does discovery and prototypes work.
   - [ ] Who is the customer and what they want.
