@@ -145,6 +145,14 @@ JavaScript's philosophy is revenge over complaints. It is also lazy.
 1. npm and yarn for package management.
 1. babeljs for transpiling.
 
+## Iterators
+1. ```javascript
+   // Item values of an iteratable
+   for (let item of items) { }
+   // Item positions or properties
+   for (let item in items) { }
+   ```
+
 ## Small Bits
 1. Use \ to extend strings to next line.
 1. Infinity and NaN exist.
