@@ -18,6 +18,7 @@
   - [ ] Review current road map up to 3 months.
   - [ ] Understand how code is reviewed.
   - [ ] KPI's for engineering and product.
+  - [ ] Architecture?
 * Understanding Technical Solutions
   - [ ] Pull any documentation and diagrams.
     - [ ] Draw out solution without diagram.
