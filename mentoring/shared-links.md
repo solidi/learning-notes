@@ -100,6 +100,7 @@ https://c4model.com/
 
 ## Writing / Blogging
 1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
+1. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
 
 ## Remote
 1. [Gitlab Guide to Remote Working](https://about.gitlab.com/company/culture/all-remote/guide/)
