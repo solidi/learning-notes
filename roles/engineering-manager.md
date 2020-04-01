@@ -11,6 +11,7 @@
   - [ ] Biggest problem to solve?
   - [ ] Managers Community of practice?
   - [ ] Team agreement?
+  - [ ] How to praise?
 * Understand Product
   - [ ] How does discovery and prototypes work.
   - [ ] Who is the customer and what they want.
