@@ -107,3 +107,6 @@ https://c4model.com/
 1. [Gitlab Guide to Remote Working](https://about.gitlab.com/company/culture/all-remote/guide/)
 1. [Managing Teams Remotely Crach Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
 1. [Managing Remotely](https://www.forbes.com/sites/forbeshumanresourcescouncil/2018/04/06/how-to-be-a-remote-manager-and-not-feel-so-remote/#7cd97ed34e6f)
+
+## System Design
+1. [Scaling Cube](https://akfpartners.com/growth-blog/scale-cube)
