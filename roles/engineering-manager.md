@@ -15,6 +15,7 @@
 * Understand Product
   - [ ] How does discovery and prototypes work.
   - [ ] Who is the customer and what they want.
+  - [ ] What are the themes of product?
 * Understand Process
   - [ ] Review current road map up to 3 months.
   - [ ] Understand how code is reviewed.
