@@ -10,7 +10,6 @@
   - [ ] Setup first 1:1's.
   - [ ] Biggest problem to solve?
   - [ ] Managers Community of practice?
-  - [ ] Team agreement?
   - [ ] How to praise?
 * Understand Product
   - [ ] How does discovery and prototypes work.
@@ -27,3 +26,7 @@
   - [ ] Clone repo and review how to build.
 * Monitoring Solution
   - [ ] Sign up for alerts and thresholds.
+* Understand Team
+  - [ ] Team agreement?
+  - [ ] DoR and DoD?
+  - [ ] Capacity Plan?
