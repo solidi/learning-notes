@@ -30,3 +30,5 @@
   - [ ] Team agreement?
   - [ ] DoR and DoD?
   - [ ] Capacity Plan?
+  - [ ] Vacation calendar?
+  
