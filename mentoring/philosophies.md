@@ -56,3 +56,4 @@
 49. "Consider silence as dissent."
 50. "First make the change easy, then make the easy change." - Kent Beck
 51. "Always think a clean machine approach." - Self
+52. "Learn by tracing."
