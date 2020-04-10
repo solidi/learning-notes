@@ -110,3 +110,6 @@ https://c4model.com/
 
 ## System Design
 1. [Scaling Cube](https://akfpartners.com/growth-blog/scale-cube)
+
+## Monitoring
+1. [The Four Golden Signals](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/)
