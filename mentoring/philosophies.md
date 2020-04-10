@@ -57,3 +57,4 @@
 50. "First make the change easy, then make the easy change." - Kent Beck
 51. "Always think a clean machine approach." - Self
 52. "Learn by tracing."
+53. "You don't hire for skills, you hire for attitude. You can always teach skills."
