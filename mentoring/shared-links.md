@@ -80,7 +80,7 @@ https://caniuse.com/
 1. [Core Infrastructure Initiative](https://bestpractices.coreinfrastructure.org/en)
 
 ## Project Management
-https://en.wikipedia.org/wiki/Parkinson%27s_law
+1. [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
 
 ## Diagrams
