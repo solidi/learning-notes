@@ -81,6 +81,7 @@ https://caniuse.com/
 
 ## Project Management
 https://en.wikipedia.org/wiki/Parkinson%27s_law
+1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
 
 ## Diagrams
 https://c4model.com/
