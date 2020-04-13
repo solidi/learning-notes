@@ -51,7 +51,10 @@ https://uvwx.github.io/hierarchy.html
 1. [Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 1. [ProductHunt](https://www.producthunt.com/)
 
-## Agile and Scrum Books
+## Agile Tools
+1. [Planning Poker](https://www.planitpoker.com/board/#/rooms)
+
+## Agile Books
 1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 1. [Clean Agile: Back to Basics](https://www.oreilly.com/library/view/clean-agile-back/9780135782002/)
 
