@@ -11,6 +11,7 @@
   - [ ] Biggest problem to solve?
   - [ ] Managers Community of practice?
   - [ ] How to praise?
+  - [ ] Career Architecture?
 * Understand Product
   - [ ] How does discovery and prototypes work.
   - [ ] Who is the customer and what they want.
