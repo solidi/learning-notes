@@ -21,6 +21,7 @@ https://uvwx.github.io/hierarchy.html
 
 ## Git
 1. [A Note About Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+1. [Submodules](https://devconnected.com/how-to-add-and-update-git-submodules/)
 
 ## Testing
 1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
