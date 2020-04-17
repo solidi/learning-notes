@@ -124,3 +124,6 @@ https://c4model.com/
 
 ## Interviewing
 1. [On whiteboard interviews](https://gist.github.com/lazywithclass/86644ea379d8de27979d2bd6c97421fd)
+
+## Development
+1. [3 Ways](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
