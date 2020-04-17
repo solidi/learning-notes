@@ -116,6 +116,7 @@ https://c4model.com/
 
 ## System Design
 1. [Scaling Cube](https://akfpartners.com/growth-blog/scale-cube)
+1. [Istio](https://istio.io/)
 
 ## Monitoring
 1. [The Four Golden Signals](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/)
