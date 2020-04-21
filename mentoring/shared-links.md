@@ -127,3 +127,6 @@ https://c4model.com/
 
 ## Development
 1. [3 Ways](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+
+## Mac Development
+1. [Hardened Runtime and Sandboxing Revisited](https://lapcatsoftware.com/articles/hardened-runtime-sandboxing2.html)
