@@ -130,3 +130,6 @@ https://c4model.com/
 
 ## Mac Development
 1. [Hardened Runtime and Sandboxing Revisited](https://lapcatsoftware.com/articles/hardened-runtime-sandboxing2.html)
+
+## Onboarding
+1. [Valve's Onboarding](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
