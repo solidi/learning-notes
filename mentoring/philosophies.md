@@ -58,3 +58,4 @@
 51. "Always think a clean machine approach." - Self
 52. "Learn by tracing."
 53. "You don't hire for skills, you hire for attitude. You can always teach skills."
+54. "Culture eats strategy for breakfast." - Peter Drucker
