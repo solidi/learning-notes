@@ -4,6 +4,7 @@ Utils that cover handling debugging and information on application packaging on 
 
 1. ``codesign  --display --verbose --entitlements - ~/Downloads/SomeApp.app``
 1. ``plutil Somefile.plist``
+1. ``tccutil reset AddressBook``
 
 ## Resources
 
@@ -13,3 +14,4 @@ Utils that cover handling debugging and information on application packaging on 
 1. [Using plutil](https://stackoverflow.com/questions/15488872/how-to-know-which-line-of-plist-file-is-incorrect)
 1. [Add Capabilities](https://developer.apple.com/documentation/xcode/adding_capabilities_to_your_app)
 1. [Entitlements Missing](https://stackoverflow.com/questions/31215425/how-to-ensure-os-x-app-entitlements-are-applied)
+1. [Reset user access controls](https://developer.apple.com/library/archive/qa/qa1906/_index.html)
