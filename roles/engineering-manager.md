@@ -32,4 +32,5 @@
   - [ ] DoR and DoD?
   - [ ] Capacity Plan?
   - [ ] Vacation calendar?
-  
+* Understand Management
+  - [ ] Manager runbook?
