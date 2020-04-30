@@ -46,6 +46,7 @@ https://uvwx.github.io/hierarchy.html
 1. [Lara Hogan: First 1:1 Questions](https://docs.google.com/document/d/1ALVJFA8gp7H53iIyPQqoBN1IvZku-5YYcjKpMx6HCXE/edit)
 1. [Take a Real Sick Day](https://www.atlassian.com/blog/productivity/take-real-sick-days-work-life-balance)
 1. [Engineering Staff Meetings](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/)
+1. [Managers Playbook](https://github.com/ksindi/managers-playbook)
 
 ## Product Management
 1. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
