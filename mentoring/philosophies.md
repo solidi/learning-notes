@@ -59,3 +59,4 @@
 52. "Learn by tracing."
 53. "You don't hire for skills, you hire for attitude. You can always teach skills."
 54. "Culture eats strategy for breakfast." - Peter Drucker
+55. "A balance between recklessness and craft." - Anonymous
