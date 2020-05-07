@@ -135,3 +135,6 @@ https://c4model.com/
 ## Onboarding
 1. [Valve's Onboarding](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 1. [Netflix's Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
+
+## Managing Up
+1. [Brag Document](https://jvns.ca/blog/brag-documents/)
