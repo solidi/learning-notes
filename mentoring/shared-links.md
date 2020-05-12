@@ -138,3 +138,6 @@ https://c4model.com/
 
 ## Managing Up
 1. [Brag Document](https://jvns.ca/blog/brag-documents/)
+
+## Rewrites
+1. [On Rewriting Software](https://www.mcls.io/blog/before-embarking-on-a-rewrite)
