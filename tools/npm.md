@@ -55,3 +55,7 @@ Watch for semver - this will break the package.
 Temporary install packages.
 
 - `npx -p @angular/cli ng new myapp`
+
+## Resources
+
+1. [NPM Enterprise Settings](https://docs.npmjs.com/configuring-your-registry-settings-as-an-npm-enterprise-user)
