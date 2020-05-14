@@ -61,3 +61,4 @@
 54. "Culture eats strategy for breakfast." - Peter Drucker
 55. "A balance between recklessness and craft." - Anonymous
 56. "Plans are worthless, but planning is indispensable." - Dwight D. Eisenhower
+57. "Focus on who you are fighting for, not against." - Unknown
