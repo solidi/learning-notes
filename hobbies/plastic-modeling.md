@@ -12,6 +12,17 @@ Notes on the hobby and learnings.
 1. Devil is in the detail. The more time you spend on detail, the more impactful the piece is.
 1. Always use the right tool, and reserve that tool for its purpose.
 
+## Laws
+
+* The Law of Least Touch
+    - With each touch of the model, whether it be by hand or by tool, errors and defects increase.
+* The Law of Imperfect Application
+    - Applications of detail that are considered imperfect are at best perfect.
+* The Law of Diminished Finish
+    - As the model subject draws to a close, more and more detail are observed to be absent on the model.
+* The Law of Preparation
+    - The more preparation is invested in a model, the better its result but the less models are completed. And completion is the most important concept in modeling to capture satisfaction.
+
 ## Techniques
 
 1. Use a clip to hold the backing of the water slide decal when placing on the model.
