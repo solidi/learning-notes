@@ -46,6 +46,7 @@
 - My family, motorcycle and plastic modeling.
 
 ## FINAL CAREER TIP
+- Chasing humanities - software is about people.
 - Ask for feedback; learn from others.
 
 ## Resources
