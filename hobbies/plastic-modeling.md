@@ -105,6 +105,10 @@ If all else fails, you can strip the paint and start over.
 1. Use a reverse tweezer to hold a small piece of foam sander.
 1. Use extra thin glue to smooth out rough sanding spots.
 
+## Tools
+
+1. Use a jewelery wax pencil to pick up and place small items onto model.
+
 ## Showcase
 
 1. [Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
