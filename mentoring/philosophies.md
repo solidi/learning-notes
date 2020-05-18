@@ -62,3 +62,4 @@
 55. "A balance between recklessness and craft." - Anonymous
 56. "Plans are worthless, but planning is indispensable." - Dwight D. Eisenhower
 57. "Focus on who you are fighting for, not against." - Unknown
+58. "The future is already here — it's just not very evenly distributed." - William Gibson
