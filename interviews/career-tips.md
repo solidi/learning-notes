@@ -8,6 +8,7 @@
 
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
+    - Convert the bad to good, process diagram and learning its a skillset with Dan.
 
 ## CAREER HIGHLIGHT
 - Launching a product at nick.
@@ -20,7 +21,8 @@
 ## THE REVEAL
 
 ### What attracted you to IT?
-- Being able to modify things, create things.
+- Being able to modify things, create things, in its our world.
+    - TV story being a kid.
 
 ### What’s the best career advice you received?
 - Don't be so purpose driven.
@@ -48,6 +50,8 @@
 ## FINAL CAREER TIP
 - Chasing humanities - software is about people.
 - Ask for feedback; learn from others.
+- Everything in software is learning, which can be a creative output.
+    - The meta.
 
 ## Resources
 
