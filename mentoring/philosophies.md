@@ -64,3 +64,4 @@
 57. "Focus on who you are fighting for, not against." - Unknown
 58. "The future is already here — it's just not very evenly distributed." - William Gibson
 59. "Future proof or bare bones?" - Unknown
+60. "Where attention goes, energy flows." - Unknown
