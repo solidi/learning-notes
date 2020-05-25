@@ -100,6 +100,7 @@ https://c4model.com/
 1. [Four Magic Numbers for Measuring Software Delivery](https://medium.com/onzo-tech/four-magic-numbers-for-measuring-software-delivery-55b1dd01eca)
 
 ## Cheat Sheets
+1. [devhints.io](https://devhints.io/)
 1. [Python](https://gto76.github.io/python-cheatsheet/)
 
 ## Useful Tools
@@ -141,3 +142,6 @@ https://c4model.com/
 
 ## Rewrites
 1. [On Rewriting Software](https://www.mcls.io/blog/before-embarking-on-a-rewrite)
+
+## Code Review
+[Deepcode.ai](https://www.deepcode.ai/)
