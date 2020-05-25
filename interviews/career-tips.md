@@ -9,6 +9,7 @@
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
     - Convert the bad to good, process diagram and learning its a skillset with Dan.
+    - Learned about engineering day books. Powerful, and reflect direction years later.
 
 ## CAREER HIGHLIGHT
 - Launching a product at nick.
