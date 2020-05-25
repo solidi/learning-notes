@@ -63,3 +63,4 @@
 56. "Plans are worthless, but planning is indispensable." - Dwight D. Eisenhower
 57. "Focus on who you are fighting for, not against." - Unknown
 58. "The future is already here — it's just not very evenly distributed." - William Gibson
+59. "Future proof or bare bones?" - Unknown
