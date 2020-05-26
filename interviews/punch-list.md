@@ -86,8 +86,10 @@ To spark memory of events to tell specific stories.
 - Handled numerous RCA's around outages and issues related to infrastructure upgrades.
 - Worked through knowledge capture sessions in AWS and Docker to improve organizational awareness.
 - Major Learning: Performance is not binary, it is multidimensional. Establish rubric?
+
 - Worked to trasition legacy queue system cut over.
 - Worked to transition mentor app to another team by building a partnership.
+- Worked to forumlate a plan and execute reduction of security vulnerabilities with npm. 
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
