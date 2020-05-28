@@ -65,3 +65,4 @@
 58. "The future is already here — it's just not very evenly distributed." - William Gibson
 59. "Future proof or bare bones?" - Unknown
 60. "Where attention goes, energy flows." - Unknown
+61. "Different is not always better, but better is always different." - Unknown 
