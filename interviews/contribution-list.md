@@ -89,7 +89,8 @@ To spark memory of events to tell specific stories.
 
 - Worked to trasition legacy queue system cut over.
 - Worked to transition mentor app to another team by building a partnership.
-- Worked to forumlate a plan and execute reduction of security vulnerabilities with npm. 
+- Worked to forumlate a plan and execute reduction of security vulnerabilities with npm.
+- Leading through difficult world and social environments.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
