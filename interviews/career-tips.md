@@ -47,6 +47,8 @@
 
 ### What do you do away from technology?
 - My family, motorcycle and plastic modeling.
+    - Tutoring my daughter
+    - Building things
 
 ## FINAL CAREER TIP
 - Chasing humanities - software is about people.
