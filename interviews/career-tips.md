@@ -52,8 +52,10 @@
 
 ## FINAL CAREER TIP
 - Chasing humanities - software is about people.
+    - Impact to others.
 - Ask for feedback; learn from others.
 - Everything in software is learning, which can be a creative output.
+    - Creative exhaust.
     - The meta.
 
 ## Resources
