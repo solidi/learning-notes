@@ -66,3 +66,4 @@
 59. "Future proof or bare bones?" - Unknown
 60. "Where attention goes, energy flows." - Unknown
 61. "Different is not always better, but better is always different." - Unknown 
+62. "When you move furntinure around, people stub their toes and get upset." - Unknown
