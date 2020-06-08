@@ -68,3 +68,4 @@
 61. "Different is not always better, but better is always different." - Unknown 
 62. "When you move furntinure around, people stub their toes and get upset." - Unknown
 63. "Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowcharts; they'll be obvious." - Fred Brooks
+64. "The most important victory is the one which has to arrive." - Enzo Ferrari
