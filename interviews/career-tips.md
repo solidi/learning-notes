@@ -26,6 +26,7 @@
     - TV story being a kid.
 
 ### What’s the best career advice you received?
+- When things are burning around you, stay calm.
 - Don't be so purpose driven.
 - Don't judge immediately. Observe, observe, observe, then make a judgement.
 
@@ -34,6 +35,7 @@
 
 ### What would you do if you started your career now?
 - Focus on the people and relationship building - technical will come.
+- Focus on the constraints others where in before me and recognize their accomplishments in their environment.
 
 ### What are your current career objectives?
 - Continue a path on management, building grgenerative engineering teams.
