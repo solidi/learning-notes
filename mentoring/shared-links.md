@@ -107,6 +107,7 @@ https://c4model.com/
 1. [Explain Regex](http://rick.measham.id.au/paste/explain.pl)
 1. [Regex 101](https://regex101.com/)
 1. [Regular Expressions Info](https://www.regular-expressions.info/)
+1. [Will it CORS?](https://httptoolkit.tech/will-it-cors/)
 
 ## Writing / Blogging
 1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
