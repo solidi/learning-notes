@@ -104,6 +104,7 @@ If all else fails, you can strip the paint and start over.
 1. Use a fiberglass pencil to erase pin injector marks.
 1. Use a reverse tweezer to hold a small piece of foam sander.
 1. Use extra thin glue to smooth out rough sanding spots.
+1. Use drill and long socket to sand wheels effectively.
 
 ## Tools
 
