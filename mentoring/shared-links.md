@@ -27,6 +27,7 @@ https://uvwx.github.io/hierarchy.html
 1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 1. [Mockaroo](https://mockaroo.com/)
+1. [Practical Guide to Load Testing](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
 
 ## Software Engineering Books
 1. [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
