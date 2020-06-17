@@ -109,7 +109,7 @@ If all else fails, you can strip the paint and start over.
 
 ## Tools
 
-1. Use a jewelery wax pencil to pick up and place small items onto model.
+1. Use a jewelry wax pencil to pick up and place small items onto model.
 
 ## Showcase
 
