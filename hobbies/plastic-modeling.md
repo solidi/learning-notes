@@ -98,6 +98,7 @@ If all else fails, you can strip the paint and start over.
 1. Do not attempt to polish paint surface if more painting is required.
 1. To avoid crazing lines, paint lacquers in thin layers.
 1. For a smooth shine after a not so good coat, hit model with leveling thinner.
+1. Metal details can break down from brake cleaner.
 
 ## Tips and Tricks
 
