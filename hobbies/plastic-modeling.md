@@ -89,6 +89,7 @@ If all else fails, you can strip the paint and start over.
 ## Health and Safety
 
 1. Always use respiration protection when using cleaners/alcohol.
+1. Always use gloves when handling paints or thinners.
 1. Isopropyl alcohol fumes irritate the lungs.
 1. Use fan to ventilate area by pointing out window.
 
