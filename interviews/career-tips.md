@@ -32,10 +32,12 @@
 
 ### What’s the worst career advice you received?
 - Make things up.
+    - Comes from good intentions, typically.
 
 ### What would you do if you started your career now?
 - Focus on the people and relationship building - technical will come.
-- Focus on the constraints others where in before me and recognize their accomplishments in their environment.
+- Focus on the constraints others were in before me and recognize their accomplishments in their environment.
+    - Horrible code quality wasn;t horrible, it was a learnign artifact.
 
 ### What are your current career objectives?
 - Continue a path on management, building grgenerative engineering teams.
