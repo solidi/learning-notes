@@ -13,6 +13,7 @@
 
 ## CAREER HIGHLIGHT
 - Launching a product at nick.
+- Juniors/Interns - Growing others, and giving them room.
 
 ## THE FUTURE OF CAREERS IN I.T
 - Software is about people. Seen, heard, treated with kindness.
@@ -59,7 +60,7 @@
     - Impact to others.
 - Ask for feedback; learn from others.
 - Everything in software is learning, which can be a creative output.
-    - Creative exhaust.
+    - Creative exhaust (Brad Frost)
     - The meta.
 
 ## Resources
