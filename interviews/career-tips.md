@@ -61,8 +61,8 @@
 
 ## FINAL CAREER TIP
 - Ask for feedback; learn from others.
-    - Its a gift, what got you here won't get you there - 
-- Chasing humanities - software is about people. marshall goldsmith
+    - Its a gift, what got you here won't get you there - marshall goldsmith
+- Chasing humanities - software is about people. 
     - Impact to others.
 - Everything in software is learning, which can be a creative output.
     - Creative exhaust (Brad Frost)
