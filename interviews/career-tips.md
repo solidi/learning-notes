@@ -47,6 +47,7 @@
 
 ### What’s your number one non-technical skill?
 - My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
+    - xkcd, etc.
 
 ### How do you keep your own career energized?
 - Focus on hobbies
