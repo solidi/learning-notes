@@ -11,10 +11,11 @@
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
     - Convert the bad to good, process diagram and learning its a skillset with Dan.
+    - Finding weakness, working the muscle to improve it.
     - Learned about engineering day books. Powerful, and reflect direction years later.
 
 ## CAREER HIGHLIGHT
-- Launching a product at nick.
+- Launching a product at nick - impact.
 - Juniors/Interns - Growing others, and giving them room.
 
 ## THE FUTURE OF CAREERS IN I.T
@@ -67,6 +68,7 @@
 - Everything in software is learning, which can be a creative output.
     - Creative exhaust (Brad Frost)
     - The meta.
+- Name it to tame it - anxiety and the association to preparedness
 
 ## Resources
 
