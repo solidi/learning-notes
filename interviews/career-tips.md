@@ -1,10 +1,12 @@
 ## INTRO
 - Talk about years in software expereince.
+    - Highlight ic / manager, mobile/web.
 
 ## TOP CAREER TIP
-- Take a job you may fail at.
-- Every learning has potential to be a creative artifact.
+-  Every learning has potential to be a creative artifact for others to learn.
     - Writing to an audience - Viacom.
+    - TDD, team, and lately - understanding roles.
+- Take a job you may fail at.
 
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
@@ -33,15 +35,15 @@
 
 ### What’s the worst career advice you received?
 - Make things up.
-    - Comes from good intentions, typically.
+    - Comes from good intentions, typically - what was being said was priority.
 
 ### What would you do if you started your career now?
 - Focus on the people and relationship building - technical will come.
 - Focus on the constraints others were in before me and recognize their accomplishments in their environment.
-    - Horrible code quality wasn;t horrible, it was a learnign artifact.
+    - Horrible code quality wasn't horrible, it was a learnign artifact.
 
 ### What are your current career objectives?
-- Continue a path on management, building grgenerative engineering teams.
+- Continue a path on management, building generative engineering teams.
 
 ### What’s your number one non-technical skill?
 - My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
@@ -49,6 +51,7 @@
 ### How do you keep your own career energized?
 - Focus on hobbies
 - Proritize and execute
+- Look to something that is interesting. "adjcent possible" - Stuart Kauffman 
 
 ### What do you do away from technology?
 - My family, motorcycle and plastic modeling.
@@ -56,9 +59,10 @@
     - Building things
 
 ## FINAL CAREER TIP
-- Chasing humanities - software is about people.
-    - Impact to others.
 - Ask for feedback; learn from others.
+    - Its a gift, what got you here won't get you there - 
+- Chasing humanities - software is about people. marshall goldsmith
+    - Impact to others.
 - Everything in software is learning, which can be a creative output.
     - Creative exhaust (Brad Frost)
     - The meta.
