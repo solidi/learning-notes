@@ -6,6 +6,7 @@
 -  Every learning has potential to be a creative artifact for others to learn.
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
+    - philosophies on engineering, hiring.
 - Take a job you may fail at.
 
 ## WORST CAREER MOMENT
@@ -28,6 +29,7 @@
 ### What attracted you to IT?
 - Being able to modify things, create things, in its our world.
     - TV story being a kid.
+    - Half life and modifying things - side effects working with those remotely.
 
 ### What’s the best career advice you received?
 - When things are burning around you, stay calm.
@@ -36,7 +38,7 @@
 
 ### What’s the worst career advice you received?
 - Make things up.
-    - Comes from good intentions, typically - what was being said was priority.
+    - The Veil - Comes from good intentions, typically - what was being said was priority.
 
 ### What would you do if you started your career now?
 - Focus on the people and relationship building - technical will come.
@@ -45,20 +47,24 @@
 
 ### What are your current career objectives?
 - Continue a path on management, building generative engineering teams.
+    - Building engineering leaders
 
 ### What’s your number one non-technical skill?
 - My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
     - xkcd, etc.
+    - build respect effectively because the language is spoken.
 
 ### How do you keep your own career energized?
-- Focus on hobbies
+- Focus on family hobbies
 - Proritize and execute
 - Look to something that is interesting. "adjcent possible" - Stuart Kauffman 
 
 ### What do you do away from technology?
 - My family, motorcycle and plastic modeling.
     - Tutoring my daughter
-    - Building things
+    - Building things (tangibles)
+- Quick story about my daugther and her on the management call.
+    - proud
 
 ## FINAL CAREER TIP
 - Ask for feedback; learn from others.
