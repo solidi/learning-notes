@@ -1,6 +1,7 @@
 ## INTRO
 - Talk about years in software expereince.
     - Highlight ic / manager, mobile/web.
+    - Mobile to data intensive applications
 
 ## TOP CAREER TIP
 -  Every learning has potential to be a creative artifact for others to learn.
@@ -20,6 +21,8 @@
 - Juniors/Interns - Growing others, and giving them room.
 
 ## THE FUTURE OF CAREERS IN I.T
+- Two things: Economy at scale, and engineering at scale.
+    - AWS, better tools.
 - Software is about people. Seen, heard, treated with kindness.
 - Learning to be smooth in execution, worked with very senior leaders.
     - Having a continuing conversation as the work ulimately is achieved.
@@ -77,5 +80,8 @@
 - Name it to tame it - anxiety and the association to preparedness
 
 ## Resources
+
+1. solid - I on medium and dev.to
+1. @dougarcuri on twitter
 
 1. [The flow](http://itcareerenergizer.com/flow/)
