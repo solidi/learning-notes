@@ -2,11 +2,14 @@
 - Talk about years in software expereince.
     - Highlight ic / manager, mobile/web.
     - Mobile to data intensive applications
+    - eng manager, bluepages, people search, expert search
+        - metrics - delivery / accelerate / nps / etc
 
 ## TOP CAREER TIP
 -  Every learning has potential to be a creative artifact for others to learn.
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
+    - softwareleadweekly.com Oren Ellenbogen #380
     - philosophies on engineering, hiring.
 - Take a job you may fail at.
 
@@ -17,22 +20,27 @@
     - Learned about engineering day books. Powerful, and reflect direction years later.
 
 ## CAREER HIGHLIGHT
+- finite or infinite hightlights - delivery is always finite
+    - Growing two Tech leads - succession 
+        - three attributes, technical, mentorship, and project management
 - Launching a product at nick - impact.
 - Juniors/Interns - Growing others, and giving them room.
 
 ## THE FUTURE OF CAREERS IN I.T
+- Tools will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+    - piping data from one system to another without effort.
+    - migration headaches, always.
 - Two things: Economy at scale, and engineering at scale.
     - AWS, better tools.
 - Software is about people. Seen, heard, treated with kindness.
-- Learning to be smooth in execution, worked with very senior leaders.
-    - Having a continuing conversation as the work ulimately is achieved.
 
 ## THE REVEAL
 
 ### What attracted you to IT?
-- Being able to modify things, create things, in its our world.
+- Being able to modify things, create things, in its own world.
     - TV story being a kid.
     - Half life and modifying things - side effects working with those remotely.
+    - The detail, and escapism of humans.
 
 ### What’s the best career advice you received?
 - When things are burning around you, stay calm.
@@ -44,6 +52,8 @@
     - The Veil - Comes from good intentions, typically - what was being said was priority.
 
 ### What would you do if you started your career now?
+- Learning to be smooth in execution, worked with very senior leaders.
+    - Having a continuing conversation as the work ulimately is achieved.
 - Focus on the people and relationship building - technical will come.
 - Focus on the constraints others were in before me and recognize their accomplishments in their environment.
     - Horrible code quality wasn't horrible, it was a learnign artifact.
