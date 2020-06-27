@@ -1,5 +1,6 @@
 ## INTRO
 - Talk about years in software expereince.
+    - In New York
     - Highlight ic / manager, mobile/web.
     - Mobile to data intensive applications
     - eng manager, bluepages, people search, expert search
@@ -10,6 +11,7 @@
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
     - softwareleadweekly.com Oren Ellenbogen #380
+    - Roles - and Yony at Peleton.
     - philosophies on engineering, hiring.
 - Take a job you may fail at.
 
@@ -43,8 +45,8 @@
     - The detail, and escapism of humans.
 
 ### What’s the best career advice you received?
-- When things are burning around you, stay calm.
 - Don't be so purpose driven.
+- When things are burning around you, stay calm.
 - Don't judge immediately. Observe, observe, observe, then make a judgement.
 
 ### What’s the worst career advice you received?
