@@ -7,7 +7,8 @@
         - metrics - delivery / accelerate / nps / etc
 
 ## TOP CAREER TIP
--  Every learning has potential to be a creative artifact for others to learn.
+-  Every conversation, learning has potential to be a creative artifact for others to learn.
+    - we learn from experiences.
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
     - softwareleadweekly.com Oren Ellenbogen #380
@@ -20,9 +21,10 @@
     - Convert the bad to good, process diagram and learning its a skillset with Dan.
     - Finding weakness, working the muscle to improve it.
     - Learned about engineering day books. Powerful, and reflect direction years later.
+    - Stories at the tip of your tongue.
 
 ## CAREER HIGHLIGHT
-- finite or infinite hightlights - delivery is always finite
+- First, framing - finite or infinite hightlights - delivery is always finite
     - Growing two Tech leads - succession 
         - three attributes, technical, mentorship, and project management
 - Launching a product at nick - impact.
@@ -30,8 +32,8 @@
 
 ## THE FUTURE OF CAREERS IN I.T
 - Tools will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-    - piping data from one system to another without effort.
     - migration headaches, always.
+    - order of magnitutdes - piping data from one system to another without effort.
 - Two things: Economy at scale, and engineering at scale.
     - AWS, better tools.
 - Software is about people. Seen, heard, treated with kindness.
@@ -46,6 +48,8 @@
 
 ### What’s the best career advice you received?
 - Don't be so purpose driven.
+    - Always driving to deliver, but there is more.
+    - Connect with the team, lunch, people etc.
 - When things are burning around you, stay calm.
 - Don't judge immediately. Observe, observe, observe, then make a judgement.
 
@@ -70,7 +74,7 @@
     - build respect effectively because the language is spoken.
 
 ### How do you keep your own career energized?
-- Focus on family hobbies
+- Focus on family, hobbies
 - Proritize and execute
 - Look to something that is interesting. "adjcent possible" - Stuart Kauffman 
 
