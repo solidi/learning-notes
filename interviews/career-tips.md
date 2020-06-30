@@ -4,6 +4,7 @@
     - Highlight ic / manager, mobile/web.
     - Mobile to data intensive applications
     - eng manager, bluepages, people search, expert search
+        - ask questions, meta, understand roles / retain and results
         - metrics - delivery / accelerate / nps / etc
 
 ## TOP CAREER TIP
@@ -14,7 +15,7 @@
     - softwareleadweekly.com Oren Ellenbogen #380
     - Roles - and Yony at Peleton.
     - philosophies on engineering, hiring.
-- Take a job you may fail at.
+- [Take a job you may fail at.]
 
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
