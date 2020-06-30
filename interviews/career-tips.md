@@ -5,6 +5,7 @@
     - Mobile to data intensive applications
     - eng manager, bluepages, people search, expert search
         - ask questions, meta, understand roles / retain and results
+        - books (managers path, systems of engineering mgmt, making of a manager, etc)
         - metrics - delivery / accelerate / nps / etc
 
 ## TOP CAREER TIP
@@ -19,7 +20,8 @@
 
 ## WORST CAREER MOMENT
 - Being laid off, but ulimately becoming a better person
-    - Convert the bad to good, process diagram and learning its a skillset with Dan.
+    - writing somethign now on it.
+    - Convert the bad to good, process diagram and learning is a skillset with Dan.
     - Finding weakness, working the muscle to improve it.
     - Learned about engineering day books. Powerful, and reflect direction years later.
     - Stories at the tip of your tongue.
@@ -28,16 +30,17 @@
 - First, framing - finite or infinite hightlights - delivery is always finite
     - Growing two Tech leads - succession 
         - three attributes, technical, mentorship, and project management
-- Launching a product at nick - impact.
-- Juniors/Interns - Growing others, and giving them room.
+            - time, people, quality, scope
+- [Launching a product at nick - impact.]
+- [Juniors/Interns - Growing others, and giving them room.]
 
 ## THE FUTURE OF CAREERS IN I.T
 - Tools will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
     - migration headaches, always.
     - order of magnitutdes - piping data from one system to another without effort.
-- Two things: Economy at scale, and engineering at scale.
+- [Two things: Economy at scale, and engineering at scale.]
     - AWS, better tools.
-- Software is about people. Seen, heard, treated with kindness.
+- [Software is about people. Seen, heard, treated with kindness.]
 
 ## THE REVEAL
 
@@ -45,7 +48,7 @@
 - Being able to modify things, create things, in its own world.
     - TV story being a kid.
     - Half life and modifying things - side effects working with those remotely.
-    - The detail, and escapism of humans.
+    - The detail, and escapism of humans - but thats a paradox as software is a team sport.
 
 ### What’s the best career advice you received?
 - Don't be so purpose driven.
@@ -71,8 +74,8 @@
 
 ### What’s your number one non-technical skill?
 - My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
-    - xkcd, etc.
-    - build respect effectively because the language is spoken.
+    - xkcd, commit strip, timely humor etc.
+    - build respect effectively because we speak the same language.
 
 ### How do you keep your own career energized?
 - Focus on family, hobbies
@@ -80,7 +83,7 @@
 - Look to something that is interesting. "adjcent possible" - Stuart Kauffman 
 
 ### What do you do away from technology?
-- My family, motorcycle and plastic modeling.
+- My family, motorcycle and plastic modeling and F1.
     - Tutoring my daughter
     - Building things (tangibles)
 - Quick story about my daugther and her on the management call.
