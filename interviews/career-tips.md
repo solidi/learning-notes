@@ -1,5 +1,5 @@
 ## INTRO
-- Talk about years in software expereince.
+- Talk about years in software experience.
     - In New York
     - Highlight ic / manager, mobile/web.
     - Mobile to data intensive applications
@@ -16,6 +16,7 @@
     - softwareleadweekly.com Oren Ellenbogen #380
     - Roles - and Yony at Peleton.
     - philosophies on engineering, hiring.
+    - nothing should be unaccounted for - and the writing clarifies your approach.
 - [Take a job you may fail at.]
 
 ## WORST CAREER MOMENT
@@ -55,11 +56,12 @@
     - Always driving to deliver, but there is more.
     - Connect with the team, lunch, people etc.
 - When things are burning around you, stay calm.
-- Don't judge immediately. Observe, observe, observe, then make a judgement.
 
 ### What’s the worst career advice you received?
 - Make things up.
     - The Veil - Comes from good intentions, typically - what was being said was priority.
+    - same thing with code, respecting the effort of others past.
+    - Don't judge immediately. Observe, observe, observe, then make a judgement.
 
 ### What would you do if you started your career now?
 - Learning to be smooth in execution, worked with very senior leaders.
@@ -71,11 +73,13 @@
 ### What are your current career objectives?
 - Continue a path on management, building generative engineering teams.
     - Building engineering leaders
+    - showing others the meta
 
 ### What’s your number one non-technical skill?
 - My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
     - xkcd, commit strip, timely humor etc.
     - build respect effectively because we speak the same language.
+    - "hit box story" how i bumped into a wall and blamed it on faulty hitboxes.
 
 ### How do you keep your own career energized?
 - Focus on family, hobbies
