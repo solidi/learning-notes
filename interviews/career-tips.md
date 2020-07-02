@@ -15,6 +15,9 @@
     - TDD, team, and lately - understanding roles.
     - softwareleadweekly.com Oren Ellenbogen #380
     - Roles - and Yony at Peleton.
+        - Rubics, and other items.
+    - "The one about blogging"
+        https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b
     - philosophies on engineering, hiring.
     - nothing should be unaccounted for
 - [Take a job you may fail at.]
