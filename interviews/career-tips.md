@@ -10,13 +10,13 @@
 
 ## TOP CAREER TIP
 -  Every conversation, learning has potential to be a creative artifact for others to learn.
-    - we learn from experiences.
+    - we learn from experiences - and the writing clarifies your approach.
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
     - softwareleadweekly.com Oren Ellenbogen #380
     - Roles - and Yony at Peleton.
     - philosophies on engineering, hiring.
-    - nothing should be unaccounted for - and the writing clarifies your approach.
+    - nothing should be unaccounted for
 - [Take a job you may fail at.]
 
 ## WORST CAREER MOMENT
@@ -39,6 +39,10 @@
 - Tools will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
     - migration headaches, always.
     - order of magnitutdes - piping data from one system to another without effort.
+- AI as a tooled sidecar - people may not understand its power yet.
+    - pattern recognition and correctness
+    - not about the what, but about the "how" better to outcomes.
+        - Grammarly example.
 - [Two things: Economy at scale, and engineering at scale.]
     - AWS, better tools.
 - [Software is about people. Seen, heard, treated with kindness.]
@@ -49,12 +53,14 @@
 - Being able to modify things, create things, in its own world.
     - TV story being a kid.
     - Half life and modifying things - side effects working with those remotely.
+    - Website story in ihgh school - building a website to be heard.
     - The detail, and escapism of humans - but thats a paradox as software is a team sport.
 
 ### What’s the best career advice you received?
 - Don't be so purpose driven.
     - Always driving to deliver, but there is more.
     - Connect with the team, lunch, people etc.
+    - find their strengths.
 - When things are burning around you, stay calm.
 
 ### What’s the worst career advice you received?
@@ -64,11 +70,12 @@
     - Don't judge immediately. Observe, observe, observe, then make a judgement.
 
 ### What would you do if you started your career now?
-- Learning to be smooth in execution, worked with very senior leaders.
-    - Having a continuing conversation as the work ulimately is achieved.
-- Focus on the people and relationship building - technical will come.
 - Focus on the constraints others were in before me and recognize their accomplishments in their environment.
     - Horrible code quality wasn't horrible, it was a learnign artifact.
+    - launch off of them for a better result.
+- [Learning to be smooth in execution, worked with very senior leaders.]
+    - Having a continuing conversation as the work ulimately is achieved.
+- [Focus on the people and relationship building - technical will come.]
 
 ### What are your current career objectives?
 - Continue a path on management, building generative engineering teams.
@@ -98,6 +105,7 @@
     - Its a gift, what got you here won't get you there - marshall goldsmith
 - Chasing humanities - software is about people. 
     - Impact to others.
+    - Story about a leader at IBM. Why wait until the end when you can share right now.
 - Everything in software is learning, which can be a creative output.
     - Creative exhaust (Brad Frost)
     - The meta.
