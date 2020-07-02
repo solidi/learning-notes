@@ -11,6 +11,7 @@ Notes on the hobby and learnings.
 1. Less is more in any application. Except when thinning paint. Thin more.
 1. Devil is in the detail. The more time you spend on detail, the more impactful the piece is.
 1. Always use the right tool, and reserve that tool for its purpose.
+1. Before applying, experiment on a similar test mule to learn about the outcome.
 
 ## Laws
 
