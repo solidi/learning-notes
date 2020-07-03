@@ -4,6 +4,7 @@
     - Highlight ic / manager, mobile/web.
     - Mobile to data intensive applications
     - eng manager, bluepages, people search, expert search
+        - anti-entropy
         - ask questions, meta, understand roles / retain and results
         - books (managers path, systems of engineering mgmt, making of a manager, etc)
         - metrics - delivery / accelerate / nps / etc
@@ -43,7 +44,7 @@
     - migration headaches, always.
     - order of magnitutdes - piping data from one system to another without effort.
 - AI as a tooled sidecar - people may not understand its power yet.
-    - pattern recognition and correctness
+    - pattern recognition and correctness, with decisive power
     - not about the what, but about the "how" better to outcomes.
         - Grammarly example.
 - [Two things: Economy at scale, and engineering at scale.]
@@ -81,12 +82,12 @@
 - [Focus on the people and relationship building - technical will come.]
 
 ### What are your current career objectives?
-- Continue a path on management, building generative engineering teams.
+- Continue a path on management, building generative engineering teams. ron westrum.
     - Building engineering leaders
     - showing others the meta
 
 ### What’s your number one non-technical skill?
-- My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer.
+- My sense of humor and playfulness with engineering humor. Understanding how to speak to an engineer. little things are important.
     - xkcd, commit strip, timely humor etc.
     - build respect effectively because we speak the same language.
     - "hit box story" how i bumped into a wall and blamed it on faulty hitboxes.
