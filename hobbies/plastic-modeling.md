@@ -80,6 +80,7 @@ Notes on the hobby and learnings.
 1. Use a coffee cup warmer plate to keep water room temperature while decaling.
 1. Always use a new/sharp blade to cut out decals.
 1. Tamiya TS-13 is too hot for water slide decals. Do not use directly over.
+1. Use a sharp knife to cut away more clear border around the decal before dipping into water.
 
 ## Stripping Paint
 
