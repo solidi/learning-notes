@@ -56,6 +56,7 @@ Notes on the hobby and learnings.
 1. Use pink primer for red.
 1. Perform a barrier or tack coat before heavier coats.
 1. A light coating of thinner after basecoat can help level the finish and make it shine.
+1. To build nice gloss on focus areas, first coat edges and then the larger surfaces last.
 
 ### Clear Coat
 
