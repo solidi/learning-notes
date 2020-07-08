@@ -1,3 +1,31 @@
+https://app.zencastr.com/itcareerenergizer/itce-doug-arcuri
+
+## INTRO - Talk about years in software experience.
+
+## TOP CAREER TIP - Don't be so purpose driven.
+
+## WORST CAREER MOMENT - layoff - study group, walking, bullet journaling
+
+## CAREER HIGHLIGHT - growing two tech leads
+
+## THE FUTURE OF CAREERS IN I.T - migrations
+
+## What attracted you to IT? - Modify things
+
+## What’s the best career advice you received? - write to the communinty
+
+## What’s the worst career advice you received? - make things up
+
+## What are your current career objectives? - growing leaders, new managements, focus on meta
+
+### What would you do if you started your career now? - focus on people
+
+## What’s your number one non-technical skill? - humor with engineers
+
+### What do you do away from technology? - family, scale modeling
+
+## FINAL CAREER TIP - feedback is a gift (marshall goldsmiths)
+
 ## INTRO
 - Talk about years in software experience.
     - In New York
@@ -15,7 +43,7 @@
     - Writing to an audience - Viacom.
     - TDD, team, and lately - understanding roles.
     - softwareleadweekly.com Oren Ellenbogen #380
-    - Roles - and Yony at Peleton.
+    - Roles - and Yony Feng at Peleton.
         - Rubics, and other items.
     - "The one about blogging"
         https://medium.com/@solidi/the-one-about-blogging-cd9e65a2055b
@@ -40,7 +68,7 @@
 - [Juniors/Interns - Growing others, and giving them room.]
 
 ## THE FUTURE OF CAREERS IN I.T
-- Tools will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- Tools are primitive, will become more powerful, convo i heard from another podcast with martin kleppmann - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
     - migration headaches, always.
     - order of magnitutdes - piping data from one system to another without effort.
 - AI as a tooled sidecar - people may not understand its power yet.
