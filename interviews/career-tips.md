@@ -10,9 +10,9 @@ https://app.zencastr.com/itcareerenergizer/itce-doug-arcuri
 
 ## THE FUTURE OF CAREERS IN I.T - migrations
 
-## What attracted you to IT? - Modify things
+## What attracted you to IT? - Modify things, nes color changing
 
-## What’s the best career advice you received? - write to the communinty
+## What’s the best career advice you received? - write to the community - clarifies thinking, approach, communication (blog post)
 
 ## What’s the worst career advice you received? - make things up
 
@@ -24,7 +24,7 @@ https://app.zencastr.com/itcareerenergizer/itce-doug-arcuri
 
 ### What do you do away from technology? - family, scale modeling
 
-## FINAL CAREER TIP - feedback is a gift (marshall goldsmiths)
+## FINAL CAREER TIP - feedback is a gift (marshall goldsmiths), story about ibm
 
 ## INTRO
 - Talk about years in software experience.
