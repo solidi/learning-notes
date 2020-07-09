@@ -4,7 +4,7 @@ https://app.zencastr.com/itcareerenergizer/itce-doug-arcuri
 
 ## TOP CAREER TIP - Don't be so purpose driven.
 
-## WORST CAREER MOMENT - layoff - study group, walking, bullet journaling
+## WORST CAREER MOMENT - layoff - study group, walking + stews, bullet journaling
 
 ## CAREER HIGHLIGHT - growing two tech leads
 
