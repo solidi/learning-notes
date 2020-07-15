@@ -93,6 +93,7 @@ To spark memory of events to tell specific stories.
 - Leading through difficult world and social environments.
 - Lead transition of two teams to one team with optimization of software delivery.
 - Lead effort of numerous RCA's and improved cultue of response and learning.
+- Took training course on license to interviewing interviewees.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
