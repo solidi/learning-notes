@@ -5,11 +5,11 @@ https://uvwx.github.io/hierarchy.html
 
 ## Discipline
 1. [Frequency Reduces Difficulty](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
-1. https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html
-1. https://keepachangelog.com/en/1.0.0/
-1. https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
-1. https://myers.io/2017/04/04/the-joel-test-for-2017/
-1. https://deviq.com/boy-scout-rule/
+1. [10 Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+1. [keepachangelog](https://keepachangelog.com/en/1.0.0/)
+1. [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+1. [The Joel Test 2017](https://myers.io/2017/04/04/the-joel-test-for-2017/)
+1. [Boy Scout Rule](https://deviq.com/boy-scout-rule/)
 1. [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 1. [SLAP Principle](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
 
@@ -69,18 +69,18 @@ https://uvwx.github.io/hierarchy.html
 1. [Sentimental Versioning](http://sentimentalversioning.org/)
 
 ## Bash
-http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/
+1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
 
 ## Branching
-https://nvie.com/posts/a-successful-git-branching-model/
-https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+1. [Successful Git Branching](https://nvie.com/posts/a-successful-git-branching-model/)
+1. [Using Fork Branch Git Workflow](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
 
 ## Version Notes
-https://enterprise.github.com/releases
+1. [Github Enterprise Release Notes](https://enterprise.github.com/releases)
 
 ## Modernization
-https://12factor.net/
-https://caniuse.com/
+1. [12 Factor](https://12factor.net/)
+1. [Can I Use?](https://caniuse.com/)
 
 ## Open Source
 1. [Collective Code Construction Contract (C4)](https://rfc.zeromq.org/spec:42/C4/)
@@ -92,7 +92,7 @@ https://caniuse.com/
 1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
 
 ## Diagrams
-https://c4model.com/
+1. [c4 Model](https://c4model.com/)
 
 ## Software Licenses
 1. [Software Licenses in Plain English](https://tldrlegal.com/)
@@ -147,4 +147,4 @@ https://c4model.com/
 1. [On Rewriting Software](https://www.mcls.io/blog/before-embarking-on-a-rewrite)
 
 ## Code Review
-[Deepcode.ai](https://www.deepcode.ai/)
+1. [Deepcode.ai](https://www.deepcode.ai/)
