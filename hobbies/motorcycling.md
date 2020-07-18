@@ -12,6 +12,7 @@ Notes on learning and being on the road motorcycling.
 ## Safety Tips
 
 1. Be seen. Use the three lanes (left, middle, right) so those around see you.
+1. Hover with two fingers over the front brake while riding.
 
 ## Tricks
 
