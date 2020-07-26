@@ -23,6 +23,8 @@ Notes on the hobby and learnings.
     - As the model subject draws to a close, more and more detail is observed to be absent on the model.
 * The Law of Preparation
     - The more preparation is invested in a model, the better its result, but the fewer models are completed. And completion is the most crucial concept in modeling to capture satisfaction.
+* The Law of Concealment
+    - The camera hides minor issues with the build. This can be imperfections with the clear coat, or angles simply not shown.
 
 ## Techniques
 
