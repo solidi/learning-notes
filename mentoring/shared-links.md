@@ -148,3 +148,6 @@ https://uvwx.github.io/hierarchy.html
 
 ## Code Review
 1. [Deepcode.ai](https://www.deepcode.ai/)
+
+## Design / UX
+1. [Laws of UX](https://lawsofux.com/)
