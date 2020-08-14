@@ -108,6 +108,7 @@ If all else fails, you can strip the paint and start over.
 1. For a smooth shine after a not so good coat, hit the model with leveling thinner.
 1. Metal details can break down from brake cleaner.
 1. Using plastic cement on clear-coated gaps will peel the coat.
+1. Clear coat will "pop" and highlight dark paint - be careful on marker touch up - it will show.
 
 ## Tips and Tricks
 
