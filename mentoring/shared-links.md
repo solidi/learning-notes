@@ -12,6 +12,7 @@
 1. [Boy Scout Rule](https://deviq.com/boy-scout-rule/)
 1. [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 1. [SLAP Principle](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
+1. [Optimize for Simplicity First](https://qvault.io/2020/08/15/optimize-for-simplicity-first/)
 
 ## Time Management
 1. [Benjamin Franklin's Schedule](https://thefocuscourse.com/franklin-schedule/)
