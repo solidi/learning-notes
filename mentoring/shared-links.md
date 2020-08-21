@@ -2,6 +2,7 @@
 
 ## Discussion
 1. [On a hierarchy of software engineering discourse](https://uvwx.github.io/hierarchy.html)
+1. [Architectural Decision Records](https://adr.github.io/)
 
 ## Discipline
 1. [Frequency Reduces Difficulty](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
