@@ -148,6 +148,7 @@
 
 ## Rewrites
 1. [On Rewriting Software](https://www.mcls.io/blog/before-embarking-on-a-rewrite)
+1. [What We Mean By Rewrite and Refactor](http://www.bennorthrop.com/rewrite-or-refactor-book/chapter-1-what-we-mean-by-rewrite-and-refactor.php)
 
 ## Code Review
 1. [Deepcode.ai](https://www.deepcode.ai/)
