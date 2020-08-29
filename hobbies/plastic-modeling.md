@@ -4,7 +4,8 @@ Notes on the hobby and learnings.
 
 ## Principles
 
-1. Surface preparation is everything.
+1. Patience is everything.
+1. Surface preparation is also everything.
 1. Buy two of the same kits. You are bound to lose pieces or make unrecoverable mistakes.
 1. Never touch the model with bare hands. Use gloves, so oils do not get on the model.
 1. Resist the temptation to touch the model unnecessarily. Excessive touching leads to breakage.
