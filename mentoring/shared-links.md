@@ -113,6 +113,11 @@
 1. [Will it CORS?](https://httptoolkit.tech/will-it-cors/)
 1. [crontab guru](https://crontab.guru/)
 
+# Reading
+1. [How I Read](https://robertheaton.com/2018/06/25/how-to-read/)
+1. [10 Reading Habits](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc)
+1. [What to write down when reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
+
 ## Writing / Blogging
 1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
 1. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
