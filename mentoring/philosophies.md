@@ -69,3 +69,4 @@
 1. "When you move furntinure around, people stub their toes and get upset." - Unknown
 1. "Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowcharts; they'll be obvious." - Fred Brooks
 1. "The most important victory is the one which has to arrive." - Enzo Ferrari
+1. "Truth may be vital, but without love it is also unbearable." - Jorge Bergoglio (Anthony McCarten)
