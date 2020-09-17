@@ -1,30 +1,43 @@
 https://app.zencastr.com/itcareerenergizer/itce-doug-arcuri
 
-## INTRO - Talk about years in software experience.
+## INTRO
+Talk about years in software experience.
 
-## TOP CAREER TIP - Don't be so purpose driven.
+## TOP CAREER TIP
+Don't be so purpose driven.
 
-## WORST CAREER MOMENT - layoff - study group, walking + stews, bullet journaling
+## WORST CAREER MOMENT
+layoff - study group, walking + stews, bullet journaling
 
-## CAREER HIGHLIGHT - growing two tech leads
+## CAREER HIGHLIGHT
+growing two tech leads
 
-## THE FUTURE OF CAREERS IN I.T - migrations
+## THE FUTURE OF CAREERS IN I.T
+migrations
 
-## What attracted you to IT? - Modify things, nes color changing
+## What attracted you to IT?
+Modify things, nes color changing
 
-## What’s the best career advice you received? - write to the community - clarifies thinking, approach, communication (blog post)
+## What’s the best career advice you received?
+write to the community - clarifies thinking, approach, communication (blog post)
 
-## What’s the worst career advice you received? - make things up
+## What’s the worst career advice you received?
+make things up
 
-## What are your current career objectives? - growing leaders, new managements, focus on meta
+## What are your current career objectives?
+growing leaders, new managements, focus on meta
 
-### What would you do if you started your career now? - focus on people
+### What would you do if you started your career now?
+focus on people
 
-## What’s your number one non-technical skill? - humor with engineers
+## What’s your number one non-technical skill?
+humor with engineers
 
-### What do you do away from technology? - family, scale modeling
+### What do you do away from technology?
+family, scale modeling
 
-## FINAL CAREER TIP - feedback is a gift (marshall goldsmiths), story about ibm
+## FINAL CAREER TIP
+feedback is a gift (marshall goldsmiths), story about ibm
 
 ## INTRO
 - Talk about years in software experience.
