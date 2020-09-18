@@ -46,6 +46,7 @@
 1. [Debugging Teams](http://shop.oreilly.com/product/0636920042372.do)
 
 ## Engineering Management
+1. [What to Talk About in 1:1s](https://wizardzines.com/comics/1-1s/)
 1. [Lara Hogan: First 1:1 Questions](https://docs.google.com/document/d/1ALVJFA8gp7H53iIyPQqoBN1IvZku-5YYcjKpMx6HCXE/edit)
 1. [Take a Real Sick Day](https://www.atlassian.com/blog/productivity/take-real-sick-days-work-life-balance)
 1. [Engineering Staff Meetings](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/)
