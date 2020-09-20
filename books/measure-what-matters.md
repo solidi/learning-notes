@@ -20,3 +20,14 @@
 - Many companies have a "rule of seven." Google flipped that rule to a minimum of seven. The higher the ratio, the flatter the org--which means less top-down oversight, greater frontline autonomy, and more fertile soil for the next breakthrough.
 - OKRs drive clarity, accountability, and the uninhibited pursuit of greatness. Take it from Eric Schmidt, who credits OKRs with "changing the course of the company forever."
 - Where OKRs take root, merit trumps seniority. Managers become coaches, mentors, and architects. Actions--and data--speak louder than words.
+
+### Chapter 2: The Father of OKRs
+- Fairchild was the industry gold standard, but it had one great flaw: a lack of "achievement orientation."
+- The key result has to be measurable. But at the end you can loo, and without any arguments: Did I do that or did I not do it? Yes? No? Simple. No judgements in it.
+- Taylor and Ford: They held that the most efficient and profitable organization was authoriarian.
+- Drucker: When people help cose a course of action, they are more likely to see it through.
+- Grove wrestled with two riddles: How can we define and measure output by knowledge workers? And what can be done to increase it?
+- A place where goals are transparent: I found it illuminating, a beacon of focus. And it was liberating, too. When people came to me mid-quarter, with requests to draft new data sheets, I felt I could say no without fear of reprercussion.
+- The bestw way to solve a managment problem, he believed, wa through creative confrontation--by facing people bluntly, directly, and unapologetically.
+- Set goals from the bottom up. To promote engagement, teams and individuals should be encouraged to create roughly half of their own OKRs, in consultation with managers. When all goals are set top-down, motivation is corroded.
+- OKRs are to put a stopwatch in his own hand so he can gauge his own performance. It is not a legal document upon which to base a performance review. To encourage risk taking and prevent sandbagging. OKRs and bonsues are best kept separate.
