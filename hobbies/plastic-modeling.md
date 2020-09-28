@@ -123,6 +123,10 @@ If all else fails, you can strip the paint and start over.
 
 1. Use a jewelry wax pencil to pick up and place small items onto the model.
 
+## Full Technique
+
+1. Soak all spures, including clear parts, in dish soap overnight. Rise next morning.
+
 ## Showcase
 
 1. [Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
