@@ -95,8 +95,9 @@ To spark memory of events to tell specific stories.
 - Lead effort of numerous RCA's and improved cultue of response and learning.
 - Took training course on license to interviewing interviewees.
 - Set up interview loop with docs and team buy in on yes/no's.
-- Refined the teams mission, and aligned on priorities and delivery.
-- Sucsessfully offered and hired three engineers in one week with onboarding.
+- Refined the teams  mission, and aligned on priorities and delivery.
+- Successfully offered and hired three engineers in one week with onboarding.
+- Worked with remote team by migrating both API and UI to new managed infrastructured.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
