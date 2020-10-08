@@ -71,3 +71,4 @@
 1. "The most important victory is the one which has to arrive." - Enzo Ferrari
 1. "Truth may be vital, but without love it is also unbearable." - Jorge Bergoglio (Anthony McCarten)
 1. "Hire for Attitude, Train for Skill" - Dr. Fernandopulle
+1. "The path to mastery is practice over time." - Unknown (Simon Simon Eskildsen)
