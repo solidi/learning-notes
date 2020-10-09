@@ -72,3 +72,5 @@
 1. "Truth may be vital, but without love it is also unbearable." - Jorge Bergoglio (Anthony McCarten)
 1. "Hire for attitude, train the skill." - Dr. Fernandopulle
 1. "The path to mastery is practice over time." - Unknown (Simon Eskildsen?)
+1. "Leaders are readers." - Unknown
+1. "Health things grow. Growing things change." - Unknown
