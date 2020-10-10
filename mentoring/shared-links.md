@@ -31,6 +31,11 @@
 1. [Mockaroo](https://mockaroo.com/)
 1. [Practical Guide to Load Testing](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
 
+## Testing Tools
+1. [Charles Proxy](https://www.charlesproxy.com/)
+1. [Restful Stress](https://chrome.google.com/webstore/detail/restful-stress/lljgneahfmgjmpglpbhmkangancgdgeb)
+1. [Artillery.io](https://artillery.io/)
+
 ## Software Engineering Books
 1. [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
 1. [The Mythical Man Month](https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/)
