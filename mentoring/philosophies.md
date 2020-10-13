@@ -75,3 +75,4 @@
 1. "Leaders are readers." - Unknown
 1. "Health things grow. Growing things change." - Unknown
 1. "To create, give yourself permission to make shit." - Unknown
+1. "Adaptation is half intelligence and half will." - Unknown
