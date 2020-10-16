@@ -76,3 +76,4 @@
 1. "Health things grow. Growing things change." - Unknown
 1. "To create, give yourself permission to make shit." - Unknown
 1. "Adaptation is half intelligence and half will." - Unknown
+1. "To craft the future, learn from the past, and live the present." - Unknown
