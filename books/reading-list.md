@@ -2,7 +2,9 @@
 
 Books that are currently on my reading list.
 
-## Culture
+## Philosophy and Culture
+
+1. [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
 
 ## Hobby
 
