@@ -18,3 +18,7 @@ Books that are currently on my reading list.
 ## Management
 
 1. [No Rules Rules](https://www.norulesrules.com/)
+
+## SKillset
+
+1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
