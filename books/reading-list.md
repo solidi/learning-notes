@@ -22,3 +22,4 @@ Books that are currently on my reading list.
 ## Skillset
 
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
+1. [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
