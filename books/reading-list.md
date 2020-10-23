@@ -19,6 +19,6 @@ Books that are currently on my reading list.
 
 1. [No Rules Rules](https://www.norulesrules.com/)
 
-## SKillset
+## Skillset
 
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
