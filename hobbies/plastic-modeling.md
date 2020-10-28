@@ -128,8 +128,14 @@ If all else fails, you can strip the paint and start over.
 1. Soak all spures, including clear parts, in dish soap overnight. Rise next morning.
 1. Dry-fit pieces by taping or tacking pieces together to understand the fit and finish of the model.
 1. Aseemble and glue body parts so that it can be painted.
-    1. Focus on sub-assembly areas of body, chassis, and interior.
+    1. Focus on sub-assembly areas:
+        1. Body
+        1. Chassis
+        1. Interior
+        1. Wheels
+        1. Engine
 1. Find ways to increase fidelity by drilling holes in exhausts, body work, vents, head rests, etc.
+
 ## Showcase
 
 1. [Hasegawa 1/24 Nissan Bluebird 1600 SSS](https://scaledworld.net/hasegawa-1-24-nissan-bluebird-1600-sss-2018)
