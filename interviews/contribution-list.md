@@ -99,6 +99,7 @@ To spark memory of events to tell specific stories.
 - Successfully offered and hired three engineers in one week with onboarding.
 - Worked with remote team by migrating both API and UI to new managed infrastructured.
 - Successfully lead improved rotation schedule and system ownership of self care.
+- Recognized equity and worked with peers to adjust.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
