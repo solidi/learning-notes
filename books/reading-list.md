@@ -42,6 +42,7 @@ Management
 
 #### Queue
 
+1. [Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 1. [No Rules Rules](https://www.norulesrules.com/)
 
 #### Completed
