@@ -8,6 +8,7 @@ Philosophy and Culture
 #### Queue
 
 1. [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
+1. [Letters from a Stoic](https://www.amazon.com/Letters-Stoic-Penguin-Classics-Hardcover/dp/0141395850)
 
 #### Completed
 
