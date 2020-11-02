@@ -45,6 +45,7 @@ Management
 
 1. [Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 1. [No Rules Rules](https://www.norulesrules.com/)
+1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
 
 #### Completed
 
