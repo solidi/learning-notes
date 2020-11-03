@@ -25,6 +25,7 @@ Hobby
 
 1. [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
 1. [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
+1. [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
 
 Team
 ----
