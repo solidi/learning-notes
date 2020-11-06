@@ -63,3 +63,15 @@ Skillset
 #### Completed
 
 1. 
+
+Problem Solving
+---------------
+
+#### Queue
+
+1. [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
+
+#### Completed
+
+1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254)
+
