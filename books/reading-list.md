@@ -75,3 +75,15 @@ Problem Solving
 
 1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254)
 
+Product
+--------
+
+#### Queue
+
+1. [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+1. [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+1. [Back of the Knapkin](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591843065)
+
+#### Completed
+
+1. [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
