@@ -2,12 +2,23 @@
 
 Books that are read or on my reading list.
 
-Philosophy and Culture
+Culture
 ----------------------
 
 #### Queue
 
+1. [The Culture Map](https://www.amazon.com/gp/product/1610392507)
 1. [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
+
+#### Completed
+
+1. 
+
+Philosophy
+----------------------
+
+#### Queue
+
 1. [Letters from a Stoic](https://www.amazon.com/Letters-Stoic-Penguin-Classics-Hardcover/dp/0141395850)
 1. [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0688002307)
 
