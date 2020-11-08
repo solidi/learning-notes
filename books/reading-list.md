@@ -88,3 +88,17 @@ Product
 #### Completed
 
 1. [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+
+
+Dystopian
+--------
+
+#### Queue
+
+1. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0062696122)
+1. [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
+
+#### Completed
+
+1. 
+
