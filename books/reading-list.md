@@ -107,6 +107,8 @@ Dystopian
 #### Queue
 
 1. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0062696122)
+1. [1984](https://www.amazon.com/Nineteen-Eighty-Four-George-Orwell/dp/0679417397)
+1. [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 1. [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
 
 #### Completed
