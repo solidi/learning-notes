@@ -174,3 +174,6 @@
 ## Career Growth
 1. [Levels.fyi](https://www.levels.fyi/)
 1. [roadmap.sh](https://roadmap.sh/)
+
+## Programming Philosophy
+1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
