@@ -32,6 +32,10 @@ Hobby
 #### Queue
 
 1. [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
+1. [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
+1. [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
+1. [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
+1. [Total Competition](https://www.amazon.com/gp/product/1471162354)
 
 #### Completed
 
