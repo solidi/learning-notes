@@ -56,6 +56,7 @@
 1. [Take a Real Sick Day](https://www.atlassian.com/blog/productivity/take-real-sick-days-work-life-balance)
 1. [Engineering Staff Meetings](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/)
 1. [Managers Playbook](https://github.com/ksindi/managers-playbook)
+1. [How to Structure Teams](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)
 
 ## Product Management
 1. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
