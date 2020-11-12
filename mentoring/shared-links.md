@@ -99,6 +99,7 @@
 ## Project Management
 1. [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
+1. [Icremental Migrations](https://addyosmani.com/blog/incremental-migrations/)
 
 ## Diagrams
 1. [c4 Model](https://c4model.com/)
