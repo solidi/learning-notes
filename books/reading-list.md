@@ -87,6 +87,7 @@ Problem Solving
 #### Queue
 
 1. [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
+1. [Systems Thinking for Curious Managers](https://www.amazon.com/Systems-Thinking-Curious-Managers-Management/dp/0956263151)
 
 #### Completed
 
