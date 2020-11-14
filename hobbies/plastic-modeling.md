@@ -127,7 +127,7 @@ If all else fails, you can strip the paint and start over.
 
 1. Soak all spures, including clear parts, in dish soap overnight. Rise next morning.
 1. Dry-fit pieces by taping or tacking pieces together to understand the fit and finish of the model.
-1. Aseemble and glue body parts so that it can be painted.
+1. Assemble and glue body parts so that it can be painted.
     1. Focus on sub-assembly areas:
         1. Body
         1. Chassis
@@ -135,6 +135,8 @@ If all else fails, you can strip the paint and start over.
         1. Wheels
         1. Engine
 1. Find ways to increase fidelity by drilling holes in exhausts, body work, vents, head rests, etc.
+1. Prime larger pieces like body and chassis. Sand at 1000 grit.
+1. Base coat color the same. Sand at 1000 grit.
 
 ## Showcase
 
