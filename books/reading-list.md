@@ -106,7 +106,6 @@ Product
 
 1. [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
-
 Dystopian
 --------
 
@@ -121,3 +120,14 @@ Dystopian
 
 1. 
 
+Ethics
+--------
+
+#### Queue
+
+1. [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
+1. [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043)
+
+#### Completed
+
+1. 
