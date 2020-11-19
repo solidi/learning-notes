@@ -131,3 +131,16 @@ Ethics
 #### Completed
 
 1. 
+
+Open Source
+--------
+
+#### Queue
+
+1. [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+1. [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
+1. [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
+
+#### Completed
+
+1. 
