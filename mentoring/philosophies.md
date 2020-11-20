@@ -79,3 +79,4 @@
 1. "To craft the future, learn from the past, and live the present." - Unknown
 1. "Fortune favors the prepared mind." - Louis Pasteur
 1. "It's all just text." - Wes / Unknown
+1. "Draw the box smaller." - Jason Lengstorf / IBM Manager
