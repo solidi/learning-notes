@@ -144,3 +144,14 @@ Open Source
 #### Completed
 
 1. 
+
+Software
+----------------------
+
+#### Queue
+
+1. [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
+
+#### Completed
+
+1. 
