@@ -3,7 +3,7 @@
 Books that are read or on my reading list.
 
 Culture
-----------------------
+-------
 
 #### Queue
 
@@ -15,7 +15,7 @@ Culture
 1. 
 
 Philosophy
-----------------------
+----------
 
 #### Queue
 
@@ -105,7 +105,7 @@ Problem Solving
 1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254)
 
 Product
---------
+-------
 
 #### Queue
 
@@ -118,7 +118,7 @@ Product
 1. [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
 Dystopian
---------
+---------
 
 #### Queue
 
@@ -132,7 +132,7 @@ Dystopian
 1. 
 
 Ethics
---------
+------
 
 #### Queue
 
@@ -144,7 +144,7 @@ Ethics
 1. 
 
 Open Source
---------
+-----------
 
 #### Queue
 
@@ -157,7 +157,7 @@ Open Source
 1. 
 
 Software
-----------------------
+--------
 
 #### Queue
 
