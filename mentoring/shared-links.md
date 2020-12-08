@@ -179,3 +179,6 @@
 
 ## Programming Philosophy
 1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+
+## Security
+1. [CORS - a guided tour](http://50linesofco.de/post/2017-03-06-cors-a-guided-tour)
