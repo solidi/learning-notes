@@ -43,18 +43,20 @@ Hobby
 
 #### Queue
 
+1. [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
+1. [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
-1. [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
 1. [Total Competition](https://www.amazon.com/gp/product/1471162354)
 
 #### Completed
 
-1. [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
-1. [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
+1. [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
+1. [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
 1. [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
-
+1. [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
+1. [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
 Team
 ----
 
@@ -163,6 +165,17 @@ Software
 
 1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
+
+#### Completed
+
+1. 
+
+Politics
+--------
+
+#### Queue
+
+1. [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189
 
 #### Completed
 
