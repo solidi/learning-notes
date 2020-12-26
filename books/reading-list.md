@@ -161,6 +161,7 @@ Software
 
 #### Queue
 
+1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 
 #### Completed
