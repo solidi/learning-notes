@@ -57,6 +57,7 @@ Hobby
 1. [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
 1. [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
 1. [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
+
 Team
 ----
 
@@ -89,6 +90,7 @@ Skillset
 
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
 1. [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
+1. [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 
 #### Completed
 
