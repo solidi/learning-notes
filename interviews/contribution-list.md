@@ -101,6 +101,8 @@ To spark memory of events to tell specific stories.
 - Successfully lead improved rotation schedule and system ownership of self care.
 - Recognized equity and worked with peers to adjust.
 - Worked to develop simple request tests and test framework for the team.
+- Launched numerous services to new infrastructure.
+- Held up team and deliveries through difficult and critical personnel transitions.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
