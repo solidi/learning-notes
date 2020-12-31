@@ -182,3 +182,14 @@ Politics
 #### Completed
 
 1. 
+
+Gaming
+------
+
+#### Queue
+
+1. [Game Engine Black Book https://fabiensanglard.net/gebbdoom/](https://fabiensanglard.net/gebbdoom/)
+
+#### Completed
+
+1. [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
