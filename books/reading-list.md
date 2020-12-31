@@ -188,7 +188,7 @@ Gaming
 
 #### Queue
 
-1. [Game Engine Black Book https://fabiensanglard.net/gebbdoom/](https://fabiensanglard.net/gebbdoom/)
+1. [Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 
 #### Completed
 
