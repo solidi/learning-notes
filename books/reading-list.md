@@ -193,3 +193,15 @@ Gaming
 #### Completed
 
 1. [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
+
+
+Economics
+---------
+
+#### Queue
+
+1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
+
+#### Completed
+
+1. 
