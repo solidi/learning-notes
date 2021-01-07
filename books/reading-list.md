@@ -83,11 +83,12 @@ Management
 
 1. [High Output Management](https://www.amazon.com/Output-Management-Andrew-Grove-1983-09-27/dp/B01NGZWYGV)
 
-Skillset
---------
+Skillset and Practice
+---------------------
 
-#### Queue
+#### Queueß
 
+1. [Sprint](https://www.thesprintbook.com/)
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
 1. [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
 1. [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
