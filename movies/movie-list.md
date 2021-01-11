@@ -14,3 +14,5 @@
 1. Moneyball
 1. 42
 1. Hard Boiled
+1. Escape from New York
+1. American Beauty
