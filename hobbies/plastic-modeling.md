@@ -147,3 +147,4 @@ If all else fails, you can strip the paint and start over.
 1. [Fiat 131 Rally Alitalia Italeri 3690](https://scaledworld.net/fiat-131-rally-alitalia-italeri-3690-2020)
 1. [Lotus Type 79 1979 “Martini”](https://scaledworld.net/lotus-type-79-1979-martini-2020)
 1. [Porsche 911 Turbo Arii Owners Club No. 34](https://scaledworld.net/porsche-911-turbo-arii-owners-club-no-34-2020)
+1. [Revell McLaren 570S](https://scaledworld.net/revell-mclaren-570s-2021)
