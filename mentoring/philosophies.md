@@ -80,3 +80,4 @@
 1. "Fortune favors the prepared mind." - Louis Pasteur
 1. "It's all just text." - Wes / Unknown
 1. "Draw the box smaller." - Jason Lengstorf / IBM Manager
+1. "To get along, you have to get along." 
