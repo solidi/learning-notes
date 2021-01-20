@@ -43,7 +43,6 @@ Hobby
 
 #### Queue
 
-1. [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
 1. [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
@@ -52,6 +51,7 @@ Hobby
 
 #### Completed
 
+1. [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
 1. [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
 1. [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
 1. [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
@@ -153,13 +153,12 @@ Open Source
 
 #### Queue
 
-1. [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 1. [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 1. [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
 
 #### Completed
 
-1. 
+1. [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
 Software
 --------
@@ -178,7 +177,7 @@ Politics
 
 #### Queue
 
-1. [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189
+1. [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189)
 
 #### Completed
 
