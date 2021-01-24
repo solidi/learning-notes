@@ -2,28 +2,28 @@
 ## Author: Brian Fitzpatrick
 
 ## General Notes
-- People are basically a pile of intermediate bugs
-- The answer is insecurity. People are afraid of others seeing and judging their work in progress
+- People are basically a pile of intermediate bugs.
+- The answer is insecurity. People are afraid of others seeing and judging their work in progress.
 - What is going to make or break you is how you collaborate with others.
-- As programmers we work best with tight feedback loops
-- Professional science is supposed to be about the free and open exchange of information. However if competition is introduced, great thinkers no longer share ideas. They cling to obsessively do their research in private and hide all mistakes along the path. Avoid duplication
-- Creating a superstar team is the real goal and is fiendishly difficult. The best teams make brilliant use of their superstars but the whole is always greater than the sum of its parts.
+- As programmers, we work best with tight feedback loops.
+- Professional science is supposed to be about the free and open exchange of information. However, if competition is introduced, great thinkers no longer share ideas. They cling to obsessively do their research in private and hide all mistakes along the path. Avoid duplication.
+- Creating a superstar team is the real goal and is fiendishly difficult. The best teams make brilliant use of their superstars, but the whole is always greater than the sum of its parts.
 - Almost every social conflict can be traced back to a lack of humility, respect, or trust.
-- Your self worth should not be connected to the code you write -- or any creative project you build.
+- Your self-worth should not be connected to the code you write -- or any creative project you build.
 - A proper postmortem should always contain an explanation of what was learned and what is going to change as a result of the learning experience.
 - The more you are open to influence, the more you are able to influence; the more vulnerable you are, the stronger you appear.
-- On team culture: in case of writing software, you might set up code reviews, and test driven development, and place a high value on having good design docs before starting out to crank out reams of code. Some elements would be more social, like going to lunch every Thursday or going out for drinks every friday night.
-- Some people think they can hire a whiz-bang architect and a bunch of mediocre programmers and create a good product. We think you can do that, but it's considered less exciting and fun than working with a team of great people who inspire challenge and teach you.
-- If you can find friends or colleagues who will constructively criticize your work when you ask them, hang on to these people because their worth their weight in unobtainium.
-- Writing a good mission statement takes some time and effort but it can potentially save you years of work clarifying what your team should and should not be working on.
+- On team culture: in case of writing software, you might set up code reviews, and test driven development and place a high value on having good design docs before starting out to crank out reams of code. Some elements would be more social, like going to lunch every Thursday or going out for drinks every Friday night.
+- Some people think they can hire a whiz-bang architect and a bunch of mediocre programmers and create a good product. We think you can do that, but it's considered less exciting and fun than working with a team of great people who inspire, challenge and teach you.
+- If you can find friends or colleagues who will constructively criticize your work when you ask them, hang on to these people because of their worth their weight in unobtainium.
+- Writing a good mission statement takes some time and effort, but it can potentially save you years of work clarifying what your team should and should not be working on.
 - If a company pivots suddenly, the mission statement needs to keep up.
 - By forcing conversations to be reposted to email lists, we gave the entire distributed team a chance to see how decisions were arrived at (and speak up if they wanted to).
-- A “noisy minority” is usually characterized by one or two people who repeatedly respond to every post in the thread.
+- A "noisy minority" is usually characterized by one or two people who repeatedly respond to every post in the thread.
 - While getting the right people on your team and the right values instilled in your team is important, the overwhelming majority of effort that goes into a culture turns out to be communication.
 - A boat without a captain is nothing more than a floating waiting room -- unless someone grabs the rudder and starts the engine, it is just going to drift along aimlessly in the current.
 - Knowledge workers can take months to get up to speed on a new team. Unlike the replaceable assembly line worker, these people need nurturing time and space to think and create.
-- The cure to management disease is a liberal application of what we call “servant leadership”, which is a nice way of saying the most important thing a leader can do is to serve her team much like a butler or majordomo tends to the health and well-being of a household.
-- If a low performer can't keep up, it will become quite obvious to the both of you early in the process.At this point, the person will often acknowledge that things aren't going well and decide to quit, or in other cases, determination will kick in and hell give up his game to meet expectations.
+- The cure to management disease is a liberal application of what we call "servant leadership," which is a nice way of saying the most important thing a leader can do is to serve her team much like a butler or majordomo tends to the health and well-being of a household.
+- If a low performer can't keep up, it will become quite obvious to both of you early in the process. At this point, the person will often acknowledge that things aren't going well and decide to quit, or in other cases, determination will kick in, and he'll give up his game to meet expectations.
 - If you still keep getting handed substandard engineers, maybe it's time to look for another job. Without the raw materials for a great team, you're doomed.
 - The leader is always on stage; you are always being watched.
 - A leader is a catalyst.
@@ -31,20 +31,20 @@
 - Instead of micromanaging and trying to make continuous course corrections, he spends most of his week carefully watching and listening.
 - In many cases, knowing the right person is more valuable than knowing the right answer.
 - On the mission statement: This not only frees up your time to handle other leadership tasks, but it drastically increases the efficiency of your teams.
-- One of the most valuable tools in tracking your teams happiness is, at the end of each one-on-one meeting to ask the team member “What do you need”.
-- If you've been leading teams for a while, and pick up a new team, one of the easiest ways to gain the teams respect and to get up to speed on what they are doing is to get your hands dirty--usually by taking on a grungy tasks no one else wants to do.
+- One of the most valuable tools in tracking your team's happiness is, at the end of each one-on-one meeting to ask the team member, "What do you need."
+- If you've been leading teams for a while and pick up a new team, one of the easiest ways to gain the team's respect and to get up to speed on what they are doing is to get your hands dirty--usually, by taking on a grungy tasks no one else wants to do.
 - You can increase intrinsic motivation by giving people three things: autonomy, mastery, and purpose.
-- Here are some classic signals to watch for. Whenever we see these patterns, we talk about “flipping the bozo bit” on the person -- that is, we make a mental note that the person is consistently exhibiting poisonous behaviors and that we should be extremely careful in dealing with him.
-- In our prior examples we didn't focus on botting the person, but rather on botting the behavior. Make it clear that bad behavior will not be tolerated. If, after repeated warningings, the behavior doesn't change, only does it make sense to consider formal rejection.
+- Here are some classic signals to watch for. Whenever we see these patterns, we talk about "flipping the bozo bit" on the person -- that is, we make a mental note that the person is consistently exhibiting poisonous behaviors and that we should be extremely careful in dealing with him.
+- In our prior examples, we didn't focus on botting the person, but rather on botting the behavior. Make it clear that bad behavior will not be tolerated. If, after repeated warnings, the behavior doesn't change, only does it make sense to consider formal rejection.
 - Always bring a conflict or disagreement back to a technical discussion.
-- It's not worth compromising your culture for the short term gains--particularly if its about a brilliant contributor who doesn't acknowledge the importance of HRT.
+- It's not worth compromising your culture for the short-term gains--particularly if it's about a brilliant contributor who doesn't acknowledge the importance of HRT.
 - Pursue extra responsibility as you're getting your work done. 
 - If your manager keeps checking on you, proactively sending her an email at the same frequency with which she checks in on you is a surefire way to get her to back off.
 - Even if a technically competent exec finds her way into this sort of company (non-tech), and fights to defend her org, shell frequently find herself replaced by someone who is willing to sacrifice the health and sanity of the employees to meet the needs of the business.
 - We recommend that you focus your energies on launching products over just about everything else.
 - Connectors are people who know people in very corner of the org, and if they don't know someone on a team, they can find the right person for you.
-- Use “Three bullets and a call to action” technique, and it will drastically increase your chances of getting action--or at the very least, a response--from just about anyone you email out of the blue asking for something.
+- Use the "Three bullets and a call to action" technique, and it will drastically increase your chances of getting action--or at the very least, a response -- from just about anyone you email out of the blue asking for something.
 - "Do the right thing, wait to get fired" - Google Motto.
-- "Perception is nine tenths of the law".
+- "Perception is nine-tenths of the law."
 - A much better interaction mode is to directly acknowledge users.
-- When a baker adds a surprise 13th donut to your dozen, this brings a smile to your face. This is called “lagniappe”.
+- When a baker adds a surprise 13th donut to your dozen, this brings a smile to your face. This is called "lagniappe."
