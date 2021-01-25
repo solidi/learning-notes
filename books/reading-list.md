@@ -188,7 +188,9 @@ Gaming
 
 #### Queue
 
-1. [Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
+1. [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
+1. [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
+1. [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 
 #### Completed
 
