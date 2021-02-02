@@ -182,3 +182,6 @@
 
 ## Security
 1. [CORS - a guided tour](http://50linesofco.de/post/2017-03-06-cors-a-guided-tour)
+
+## Encoding Issues
+1. [When Bad Things Happen to Good Characters](http://hcibib.org/multilingual/badchars.htm)
