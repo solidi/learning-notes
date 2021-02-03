@@ -86,7 +86,7 @@ Management
 Skillset and Practice
 ---------------------
 
-#### Queueß
+#### Queue
 
 1. [Sprint](https://www.thesprintbook.com/)
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
@@ -166,6 +166,7 @@ Software
 
 #### Queue
 
+1. [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 
