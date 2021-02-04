@@ -185,3 +185,6 @@
 
 ## Encoding Issues
 1. [When Bad Things Happen to Good Characters](http://hcibib.org/multilingual/badchars.htm)
+
+## APIs
+1. [The right way to turn off your old APIs](https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/)
