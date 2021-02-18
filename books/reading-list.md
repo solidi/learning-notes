@@ -179,23 +179,23 @@ Politics
 
 #### Queue
 
-1. [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189)
+1. 
 
 #### Completed
 
-1. 
+1. [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189)
 
 Gaming
 ------
 
 #### Queue
 
-1. [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 1. [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
 1. [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 
 #### Completed
 
+1. [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 1. [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
 
 
@@ -205,6 +205,18 @@ Economics
 #### Queue
 
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
+
+#### Completed
+
+1. 
+
+
+Data Science
+------------
+
+#### Queue
+
+1. [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130)
 
 #### Completed
 
