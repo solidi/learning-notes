@@ -48,6 +48,7 @@ Hobby
 1. [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
 1. [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
 1. [Total Competition](https://www.amazon.com/gp/product/1471162354)
+1. [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
 
 #### Completed
 
@@ -65,6 +66,7 @@ Team
 
 1. [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 1. [Astroball](https://www.amazon.com/Astroball-New-Way-Win-All/dp/0525576649)
+1. [Work Together From Anywhere](https://www.amazon.com/Work-Together-Anywhere-Successfully-Individuals/dp/1119745225)
 
 #### Completed
 
@@ -92,6 +94,7 @@ Skillset and Practice
 1. [The Practice: Ship creative work](https://geni.us/kD6UWdp)
 1. [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
 1. [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
+1. [Lean Software](https://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381)
 
 #### Completed
 
@@ -144,6 +147,7 @@ AI and Ethics
 1. [Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence)
 1. [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
 1. [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043)
+1. [The Singularity Is Near](https://www.amazon.com/gp/product/0670033847)
 
 #### Completed
 
@@ -204,6 +208,7 @@ Economics
 
 #### Queue
 
+1. [Freakonomics](https://www.amazon.com/gp/product/0061234001)
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
 
 #### Completed
@@ -217,6 +222,42 @@ Data Science
 #### Queue
 
 1. [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130)
+
+#### Completed
+
+1. 
+
+Career
+------
+
+#### Queue
+
+1. [The Happiness Advantage](https://www.amazon.com/gp/product/0307591549)
+1. [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer/dp/167287996)
+
+#### Completed
+
+1. 
+
+Architecture & Design
+---------------------
+
+#### Queue
+
+1. [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://www.amazon.com/99-Invisible-City-Hidden-Everyday/dp/0358126606)
+1. [The Power Broker](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+
+#### Completed
+
+1. 
+
+Environment
+-----------
+
+#### Queue
+
+1. [Silent Spring](https://www.amazon.com/Silent-Spring-Rachel-Carson-dp-061825305X)
+1. [The New Green Deal](https://www.amazon.com/gp/product/1250253209)
 
 #### Completed
 
