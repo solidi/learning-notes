@@ -1,6 +1,6 @@
 # Reading List
 
-Books that are read or on my reading list.
+Books that are read or on my reading list. [This post by Abi Noda](http://abinoda.com/reading-list) was the inspiration.
 
 Culture
 -------
