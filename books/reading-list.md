@@ -17,8 +17,6 @@ Culture
 Philosophy
 ----------
 
-#### Queue
-
 1. [ ] [Letters from a Stoic](https://www.amazon.com/Letters-Stoic-Penguin-Classics-Hardcover/dp/0141395850)
 1. [ ] [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0688002307)
 1. [ ] [As a Man Thinketh](https://www.amazon.com/As-Man-Thinketh-Complete-Original/dp/125078004) 
