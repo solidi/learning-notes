@@ -50,6 +50,8 @@ Management
 1. [ ] [No Rules Rules](https://www.norulesrules.com/)
 1. [ ] [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
 1. [x] [High Output Management](https://www.amazon.com/Output-Management-Andrew-Grove-1983-09-27/dp/B01NGZWYGV)
+1. [x] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+1. [x] [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
 
 Skillset and Practice
 ---------------------
@@ -101,10 +103,16 @@ Open Source
 Software
 --------
 
+1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
+1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+1. [x] [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+1. [x] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
 Politics
 --------
@@ -144,9 +152,16 @@ Architecture & Design
 
 1. [ ] [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://www.amazon.com/99-Invisible-City-Hidden-Everyday/dp/0358126606)
 1. [ ] [The Power Broker](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+1. [ ] [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 
 Environment
 -----------
 
 1. [ ] [Silent Spring](https://www.amazon.com/Silent-Spring-Rachel-Carson-dp-061825305X)
 1. [ ] [The New Green Deal](https://www.amazon.com/gp/product/1250253209)
+
+DevOps
+------
+
+1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
