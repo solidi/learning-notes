@@ -5,8 +5,8 @@ Books that are read or on my reading list. [This post by Abi Noda](http://abinod
 Culture
 -------
 
-1. [ ] [The Culture Map](https://www.amazon.com/gp/product/1610392507)
 1. [ ] [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
+1. [x] [The Culture Map](https://www.amazon.com/gp/product/1610392507)
 
 Philosophy
 ----------
