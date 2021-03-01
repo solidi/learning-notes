@@ -165,3 +165,9 @@ DevOps
 
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
+
+Discipline & Meta
+-----------------
+
+1. [ ] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+1. [ ] [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358362776)
