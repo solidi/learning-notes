@@ -103,7 +103,11 @@ To spark memory of events to tell specific stories.
 - Worked to develop simple request tests and test framework for the team.
 - Launched numerous services to new infrastructure.
 - Held up team and deliveries through difficult and critical personnel transitions.
+- Hired and transferred engineer and project manager to other teams.
+- Created an environment where we optimize our products and draw the box smaller.
+- Promoted engineer to next level, working to take on new intiatives.
+- Successfully launched MVP of a career editing tool.
 
 ## Transitions and Eras
-Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020
+Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021
 Eras: 2006-2009, 2011-2013, 2015-2018
