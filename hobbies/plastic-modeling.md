@@ -119,6 +119,7 @@ If all else fails, you can strip the paint and start over.
 1. Use a reverse tweezer to hold a small piece of foam sander.
 1. Use extra thin glue to smooth out rough sanding spots.
 1. Use a drill and long socket to sand wheels effectively.
+1. Apply super glue on one side, accelerator on the other side, then place together.
 
 ## Tools
 
@@ -151,3 +152,7 @@ If all else fails, you can strip the paint and start over.
 1. [Lotus Type 79 1979 “Martini”](https://scaledworld.net/lotus-type-79-1979-martini-2020)
 1. [Porsche 911 Turbo Arii Owners Club No. 34](https://scaledworld.net/porsche-911-turbo-arii-owners-club-no-34-2020)
 1. [Revell McLaren 570S](https://scaledworld.net/revell-mclaren-570s-2021)
+
+## Resources
+
+1. [Tamiya Full Basics Videos](https://www.youtube.com/playlist?list=PLOMQIyFosrF3726_TfoIKF0uaujP-HsiD)
