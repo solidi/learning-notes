@@ -13,19 +13,20 @@ Notes on the hobby and learnings.
 1. Devil is in the detail. The more time you spend on detail, the more impactful the piece is.
 1. Always use the right tool, and reserve that tool for its purpose.
 1. Before applying, experiment on a similar test mule to learn about the outcome.
+1. When applying too much force, stop. You are bound to break something.
 
 ## Laws
 
-* The Law of Least Touch
-    - With each touch of the model, whether it be by hand or by a tool, errors and defects increase.
-* The Law of Imperfect Application
-    - Applications of detail that are considered imperfect are, at best perfect.
-* The Law of Diminished Finish
-    - As the model subject draws to a close, more and more detail is observed to be absent on the model.
 * The Law of Preparation
     - The more preparation is invested in a model, the better its result, but the fewer models are completed. And completion is the most crucial concept in modeling to capture satisfaction.
+* The Law of Least Touch
+    - With each touch of the model, whether it be by hand or by a tool, errors and defects increase.
 * The Law of Concealment
     - The camera hides minor issues with the build. This can be imperfections with the clear coat, or angles simply not shown.
+* The Law of Diminished Finish
+    - As the model subject draws to a close, more and more detail is observed to be absent on the model.
+* The Law of Imperfect Application
+    - Applications of detail that are considered imperfect are, at best perfect.
 
 ## Techniques
 
@@ -65,7 +66,7 @@ Notes on the hobby and learnings.
 
 1. Water down paint area before spraying to reduce dust.
 1. Use a strong light source to see what is being sprayed.
-1. After clear-coat, use 8000 then 12000 micromeshes. Finally, use polish.
+1. After clear-coat, use 4000, 6000, 8000 then 12000 micromeshes. Finally, use polish.
 
 ### Interior
 
@@ -134,9 +135,11 @@ If all else fails, you can strip the paint and start over.
         1. Interior
         1. Wheels
         1. Engine
+    1. Glue small parts directly where it makes sense.
 1. Find ways to increase fidelity by drilling holes in exhausts, body work, vents, head rests, etc.
 1. Prime larger pieces like body and chassis. Sand at 1000 grit.
-1. Base coat color the same. Sand at 1000 grit.
+1. Base coat color the same. Sand at 1500 grit.
+1. Spary base coat again.
 
 ## Showcase
 
