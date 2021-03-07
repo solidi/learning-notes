@@ -23,7 +23,7 @@ Psychology
 Hobby
 -----
 
-1. [ ] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
+1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
 1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
@@ -122,7 +122,7 @@ Politics
 Gaming
 ------
 
-1. [ ] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
+1. [x] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 1. [x] [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 1. [x] [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
