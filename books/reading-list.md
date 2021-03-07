@@ -96,9 +96,10 @@ AI and Ethics
 Open Source
 -----------
 
+1. [ ] [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/0385191952)
 1. [ ] [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
-1. [ ] [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+1. [x] [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
 Software
 --------
