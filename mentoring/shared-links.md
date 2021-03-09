@@ -152,6 +152,7 @@
 ## Development
 1. [c2 Wiki](https://wiki.c2.com/)
 1. [3 Ways](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+1. [-2000 Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 
 ## Mac Development
 1. [Hardened Runtime and Sandboxing Revisited](https://lapcatsoftware.com/articles/hardened-runtime-sandboxing2.html)
