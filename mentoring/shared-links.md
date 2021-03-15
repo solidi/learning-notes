@@ -90,6 +90,7 @@
 
 ## Modernization
 1. [12 Factor](https://12factor.net/)
+1. [Reactive Manifesto](https://www.reactivemanifesto.org/)
 1. [Can I Use?](https://caniuse.com/)
 
 ## Open Source
