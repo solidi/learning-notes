@@ -23,6 +23,7 @@ Psychology
 Hobby
 -----
 
+1. [ ] [27: Pratick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
