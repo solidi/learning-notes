@@ -16,9 +16,9 @@
 1. [x] Iron Man 2
 1. [ ] The Incredible Hulk
 1. [x] Thor
-1. [ ] The Avengers
-1. [ ] Iron Man 3
-1. [ ] Thor: The Dark World
+1. [x] The Avengers
+1. [x] Iron Man 3
+1. [x] Thor: The Dark World
 1. [ ] Captain America: The Winter Soldier
 1. [ ] Guardians of the Galaxy
 1. [ ] Guardians of the Galaxy Vol. 2 
