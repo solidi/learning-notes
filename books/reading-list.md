@@ -23,7 +23,7 @@ Psychology
 Hobby
 -----
 
-1. [ ] [27: Pratick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
+1. [x] [27: Pratick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
@@ -85,6 +85,7 @@ Dystopian
 1. [ ] [1984](https://www.amazon.com/Nineteen-Eighty-Four-George-Orwell/dp/0679417397)
 1. [ ] [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 1. [ ] [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
+1. [x] [Communion](https://www.amazon.com/Communion-Story-Whitley-Strieber-1988-02-01/dp/B01K3NUQDE)
 
 AI and Ethics
 -------------
