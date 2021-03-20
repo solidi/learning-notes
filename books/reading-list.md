@@ -20,8 +20,8 @@ Psychology
 
 1. [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 
-Hobby
------
+F1 & Racing
+-----------
 
 1. [x] [27: Pratick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
@@ -30,6 +30,8 @@ Hobby
 1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
 1. [ ] [Total Competition](https://www.amazon.com/gp/product/1471162354)
 1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
+1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
+1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
 1. [x] [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
 1. [x] [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
 1. [x] [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
@@ -106,6 +108,7 @@ Open Source
 Software
 --------
 
+1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
 1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
 1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
