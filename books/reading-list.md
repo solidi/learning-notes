@@ -92,7 +92,7 @@ Dystopian
 AI and Ethics
 -------------
 
-1. [ ] [Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence)
+1. [x] [Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence)
 1. [ ] [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
 1. [ ] [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043)
 1. [ ] [The Singularity Is Near](https://www.amazon.com/gp/product/0670033847)
