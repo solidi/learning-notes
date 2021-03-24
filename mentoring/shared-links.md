@@ -178,6 +178,7 @@
 ## Career Growth
 1. [Levels.fyi](https://www.levels.fyi/)
 1. [roadmap.sh](https://roadmap.sh/)
+1. [All My Career Rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
 
 ## Programming Philosophy
 1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
