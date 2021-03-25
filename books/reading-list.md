@@ -177,3 +177,8 @@ Discipline & Meta
 
 1. [ ] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 1. [ ] [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358362776)
+
+Education
+---------
+
+1. [ ] [The Portable MBA](https://www.amazon.com/Portable-MBA-Kenneth-M-Eades/dp/0470481293)
