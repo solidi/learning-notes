@@ -45,6 +45,7 @@ Team
 1. [ ] [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 1. [ ] [Astroball](https://www.amazon.com/Astroball-New-Way-Win-All/dp/0525576649)
 1. [ ] [Work Together From Anywhere](https://www.amazon.com/Work-Together-Anywhere-Successfully-Individuals/dp/1119745225)
+1. [x] [Eleven Rings](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346)
 
 Management
 ----------
@@ -55,6 +56,8 @@ Management
 1. [x] [High Output Management](https://www.amazon.com/Output-Management-Andrew-Grove-1983-09-27/dp/B01NGZWYGV)
 1. [x] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 1. [x] [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
+1. [x] [Smart and Gets Things Done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+1. [x] [The CEO Next Door](https://www.amazon.com/CEO-Next-Door-Behaviors-World-Class/dp/1101906499)
 
 Skillset and Practice
 ---------------------
@@ -70,6 +73,7 @@ Problem Solving
 
 1. [ ] [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
 1. [ ] [Systems Thinking for Curious Managers](https://www.amazon.com/Systems-Thinking-Curious-Managers-Management/dp/0956263151)
+1. [ ] [Introduction to General Systems Thinking](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)
 1. [x] [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254)
 
 Product
@@ -79,6 +83,7 @@ Product
 1. [ ] [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 1. [ ] [Back of the Knapkin](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591843065)
 1. [x] [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+1. [x] [Customers Included](https://www.amazon.com/Customers-Included-2nd-Transform-Companies/dp/0979368138)
 
 Dystopian
 ---------
@@ -115,10 +120,24 @@ Software
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
+1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 1. [x] [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 1. [x] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+1. [x] [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
+1. [x] [More Joel on Software](https://www.amazon.com/More-Joel-Software-Occasionally-Developers/dp/1430209879)
+1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
+
+Software Testing
+----------------
+
+1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
+
+Software Design
+---------------
+
+1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
 
 Politics
 --------
@@ -132,7 +151,6 @@ Gaming
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 1. [x] [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 1. [x] [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
-
 
 Economics
 ---------
@@ -153,8 +171,6 @@ Career
 
 Architecture & Design
 ---------------------
-
-#### Queue
 
 1. [ ] [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://www.amazon.com/99-Invisible-City-Hidden-Everyday/dp/0358126606)
 1. [ ] [The Power Broker](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
@@ -182,3 +198,14 @@ Education
 ---------
 
 1. [ ] [The Portable MBA](https://www.amazon.com/Portable-MBA-Kenneth-M-Eades/dp/0470481293)
+
+Business
+--------
+
+1. [x] [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+1. [ ] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
+
+Motorcycling
+------------
+
+1. [x] [Motorcycling the Right Way](https://www.amazon.com/Motorcycling-Right-Way-Lessons-Handlebars/dp/1620081695)
