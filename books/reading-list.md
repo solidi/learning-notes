@@ -7,6 +7,8 @@ Culture
 
 1. [ ] [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
 1. [x] [The Culture Map](https://www.amazon.com/gp/product/1610392507)
+1. [x] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
+1. [ ] [Technologies and Society](https://www.amazon.com/Technologies-Society-Shaping-People-Things/dp/0534136443)
 
 Philosophy
 ----------
@@ -102,42 +104,49 @@ AI and Ethics
 1. [ ] [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043)
 1. [ ] [The Singularity Is Near](https://www.amazon.com/gp/product/0670033847)
 
-Open Source
------------
+Open Source / Culture
+---------------------
 
 1. [ ] [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/0385191952)
 1. [ ] [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
 1. [x] [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
 
 Software
 --------
 
 1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
-1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
-1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
-1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
-1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 1. [x] [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 1. [x] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 1. [x] [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 1. [x] [More Joel on Software](https://www.amazon.com/More-Joel-Software-Occasionally-Developers/dp/1430209879)
-1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
-
-Software Testing
-----------------
-
-1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 
 Software Design
 ---------------
 
+1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
+1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
 1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
+
+Software Language
+-----------------
+
+1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
+1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+
+Software Testing
+----------------
+
+1. [x] [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 
 Politics
 --------
@@ -162,6 +171,7 @@ Data Science
 ------------
 
 1. [ ] [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130)
+1. [ ] [Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
 Career
 ------
@@ -185,14 +195,17 @@ Environment
 DevOps
 ------
 
+1. [x] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
+1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
 
 Discipline & Meta
 -----------------
 
 1. [ ] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 1. [ ] [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358362776)
+1. [ ] [Agile Metrics in Action](https://www.amazon.com/Agile-Metrics-Action-Measuring-Performance/dp/1617292486)
 
 Education
 ---------
@@ -203,9 +216,21 @@ Business
 --------
 
 1. [x] [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+1. [x] [Dinosaur Brains](https://www.amazon.com/Dinosaur-Brains-Dealing-Impossible-People/dp/047161808X)
+1. [x] [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
 1. [ ] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 
 Motorcycling
 ------------
 
 1. [x] [Motorcycling the Right Way](https://www.amazon.com/Motorcycling-Right-Way-Lessons-Handlebars/dp/1620081695)
+
+Relationships
+-------------
+
+1. [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
+
+Leadership
+----------
+
+1. [x] [Lead and Disrupt](https://www.amazon.com/Lead-Disrupt-Solve-Innovators-Dilemma/dp/0804798656)
