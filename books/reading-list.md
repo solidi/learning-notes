@@ -21,6 +21,7 @@ Psychology
 ----------
 
 1. [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+1. [ ] [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
 F1 & Racing
 -----------
@@ -48,6 +49,8 @@ Team
 1. [ ] [Astroball](https://www.amazon.com/Astroball-New-Way-Win-All/dp/0525576649)
 1. [ ] [Work Together From Anywhere](https://www.amazon.com/Work-Together-Anywhere-Successfully-Individuals/dp/1119745225)
 1. [x] [Eleven Rings](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346)
+1. [x] [Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340)
+1. [x] [Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 
 Management
 ----------
@@ -60,6 +63,13 @@ Management
 1. [x] [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
 1. [x] [Smart and Gets Things Done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 1. [x] [The CEO Next Door](https://www.amazon.com/CEO-Next-Door-Behaviors-World-Class/dp/1101906499)
+1. [x] [The Effective Manager](https://www.amazon.com/Effective-Manager-Mark-Horstman/dp/1119244609)
+1. [x] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+1. [x] [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
+1. [x] [Resilient Management](https://www.amazon.com/RESILIENT-MANAGEMENT-Lara-Hogan/dp/1937557820)
+1. [x] [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
+1. [x] [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager/dp/0062367544)
+1. [x] [The Essential Drucker](https://www.amazon.com/Essential-Drucker-Druckers-Management-Hardcover/dp/B008CM8EI8)
 
 Skillset and Practice
 ---------------------
@@ -141,6 +151,7 @@ Software Language
 
 1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
 1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+1. [ ] [Automate the Boring Stuff](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922)
 
 Software Testing
 ----------------
@@ -229,8 +240,18 @@ Relationships
 -------------
 
 1. [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
+1. [x] [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+1. [x] [Give and Take](https://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986)
 
 Leadership
 ----------
 
+1. [ ] [The Dichotomy Of Leadership](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership/dp/1250195772)
 1. [x] [Lead and Disrupt](https://www.amazon.com/Lead-Disrupt-Solve-Innovators-Dilemma/dp/0804798656)
+1. [x] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
+1. [x] [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
+
+Historical
+----------
+
+1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
