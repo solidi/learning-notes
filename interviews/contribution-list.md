@@ -106,6 +106,7 @@ To spark memory of events to tell specific stories.
 - Hired and transferred engineer and project manager to other teams.
 - Created an environment where we optimize our products and draw the box smaller.
 - Promoted engineer to next level, working to take on new intiatives.
+- Successfully lead team to update authentication on all products and services.
 - Successfully launched MVP of a career editing tool.
 
 ## Transitions and Eras
