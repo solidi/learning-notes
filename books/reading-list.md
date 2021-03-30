@@ -49,6 +49,7 @@ Management
 1. [x] [Smart and Gets Things Done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 1. [x] [The CEO Next Door](https://www.amazon.com/CEO-Next-Door-Behaviors-World-Class/dp/1101906499)
 1. [x] [The Effective Manager](https://www.amazon.com/Effective-Manager-Mark-Horstman/dp/1119244609)
+1. [x] [The Effective Hiring Manager](https://www.amazon.com/Effective-Hiring-Manager-Mark-Horstman/dp/1119574323)
 1. [x] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 1. [x] [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
 1. [x] [Resilient Management](https://www.amazon.com/RESILIENT-MANAGEMENT-Lara-Hogan/dp/1937557820)
@@ -65,6 +66,8 @@ Skillset and Practice
 1. [ ] [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 1. [ ] [Lean Software](https://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381)
 1. [x] [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+1. [x] [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
+1. [x] [Pair Programming Illuminated](https://www.amazon.com/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763)
 
 Problem Solving
 ---------------
@@ -117,6 +120,7 @@ Software
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [ ] [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+1. [x] [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
 1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 1. [x] [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
@@ -131,6 +135,7 @@ Software Design
 1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
 1. [ ] [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+1. [ ] [Working Effective with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
 1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
@@ -141,8 +146,12 @@ Software Language
 1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
 1. [ ] [Automate the Boring Stuff](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922)
 1. [ ] [Java By Comparsion](https://www.amazon.com/Java-Comparison-Become-Craftsman-Examples-dp-1680502875/dp/1680502875)
+1. [ ] [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
+1. [ ] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+1. [x] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 1. [x] [Simplifying JavaScript](https://www.amazon.com/Simplifying-JavaScript-Writing-Modern-Beyond/dp/1680502883)
+1. [x] [Rediscovering JavaScript](https://www.amazon.com/Rediscovering-JavaScript-Master-ES6-ES7/dp/1680505467)
 
 Software Testing
 ----------------
@@ -175,6 +184,7 @@ Data Science
 Career
 ------
 
+1. [ ] [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 1. [ ] [The Happiness Advantage](https://www.amazon.com/gp/product/0307591549)
 1. [ ] [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer/dp/167287996)
 
@@ -190,12 +200,14 @@ Environment
 
 1. [ ] [Silent Spring](https://www.amazon.com/Silent-Spring-Rachel-Carson-dp-061825305X)
 1. [ ] [The New Green Deal](https://www.amazon.com/gp/product/1250253209)
+1. [ ] [Our Mathematical Universe](https://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality/dp/0307744256)
 
 DevOps
 ------
 
 1. [ ] [Kubernetes: Up and Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531)
 1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
@@ -209,6 +221,7 @@ Discipline & Meta
 1. [ ] [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358362776)
 1. [ ] [Agile Metrics in Action](https://www.amazon.com/Agile-Metrics-Action-Measuring-Performance/dp/1617292486)
 1. [x] [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+1. [x] [Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)
 
 Education
 ---------
@@ -245,6 +258,7 @@ Leadership
 1. [x] [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
 1. [x] [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1523097809)
 1. [x] [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
+1. [x] [The Art of Leadership: Small Things Done Well](https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691)
 
 Historical
 ----------
