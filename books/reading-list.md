@@ -168,13 +168,8 @@ Software Testing
 1. [x] [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 
-Politics
---------
-
-1. [x] [Liberal Fascism](https://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0767917189)
-
-Gaming
-------
+Software Gaming Development
+---------------------------
 
 1. [x] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
