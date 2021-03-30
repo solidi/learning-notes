@@ -19,9 +19,9 @@
 1. [x] The Avengers
 1. [x] Iron Man 3
 1. [x] Thor: The Dark World
-1. [ ] Captain America: The Winter Soldier
-1. [ ] Guardians of the Galaxy
-1. [ ] Guardians of the Galaxy Vol. 2 
+1. [x] Captain America: The Winter Soldier
+1. [x] Guardians of the Galaxy
+1. [x] Guardians of the Galaxy Vol. 2 
 1. [ ] Avengers: Age of Ultron
 1. [ ] Ant-Man
 1. [ ] Captain America: Civil War
