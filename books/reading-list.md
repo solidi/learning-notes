@@ -27,25 +27,6 @@ Psychology
 1. [ ] [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 1. [x] [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 
-F1 & Racing
------------
-
-1. [x] [27: Pratick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
-1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
-1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
-1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
-1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
-1. [ ] [Total Competition](https://www.amazon.com/gp/product/1471162354)
-1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
-1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
-1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
-1. [x] [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
-1. [x] [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
-1. [x] [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
-1. [x] [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
-1. [x] [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
-1. [x] [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
-
 Team
 ----
 
@@ -125,6 +106,7 @@ Open Source / Culture
 1. [ ] [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/0385191952)
 1. [ ] [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
+1. [ ] [The Software Arts](https://www.amazon.com/Software-Arts-Studies/dp/0262039702)
 1. [x] [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
 Software
@@ -157,9 +139,10 @@ Software Language
 -----------------
 
 1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
-1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 1. [ ] [Automate the Boring Stuff](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922)
 1. [ ] [Java By Comparsion](https://www.amazon.com/Java-Comparison-Become-Craftsman-Examples-dp-1680502875/dp/1680502875)
+1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+1. [x] [Simplifying JavaScript](https://www.amazon.com/Simplifying-JavaScript-Writing-Modern-Beyond/dp/1680502883)
 
 Software Testing
 ----------------
@@ -181,6 +164,7 @@ Economics
 
 1. [ ] [Freakonomics](https://www.amazon.com/gp/product/0061234001)
 1. [ ] [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
+1. [x] [Crossing The Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
 
 Data Science
 ------------
@@ -210,6 +194,7 @@ Environment
 DevOps
 ------
 
+1. [ ] [Kubernetes: Up and Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531)
 1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
 1. [x] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -266,3 +251,29 @@ Historical
 
 1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
+1. [x] [IBM: The Rise and Fall and Reinvention](https://www.amazon.com/IBM-Reinvention-Global-History-Computing/dp/0262039443)
+
+F1 & Auto Racing / Engineering
+------------------------------
+
+1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
+1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
+1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
+1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
+1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
+1. [ ] [Total Competition](https://www.amazon.com/gp/product/1471162354)
+1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
+1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
+1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
+1. [x] [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
+1. [x] [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
+1. [x] [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
+1. [x] [Colin Chapman, the Man and His Cars](https://www.amazon.com/Colin-Chapman-Man-His-Cars/dp/1859608442)
+1. [x] [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
+1. [x] [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
+1. [x] [Vanderbilt Cup Races of Long Island](https://www.amazon.com/Vanderbilt-Cup-Races-Long-Island/dp/1531636861)
+
+Plastic Modeling
+----------------
+
+1. [x] [Model Builders Manual](https://www.amazon.com/Model-Builders-Manual-introduction-construction/dp/1785215558)
