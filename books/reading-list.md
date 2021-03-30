@@ -6,22 +6,26 @@ Culture
 -------
 
 1. [ ] [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
+1. [ ] [Technologies and Society](https://www.amazon.com/Technologies-Society-Shaping-People-Things/dp/0534136443)
 1. [x] [The Culture Map](https://www.amazon.com/gp/product/1610392507)
 1. [x] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
-1. [ ] [Technologies and Society](https://www.amazon.com/Technologies-Society-Shaping-People-Things/dp/0534136443)
+1. [x] [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095)
 
 Philosophy
 ----------
 
 1. [ ] [Letters from a Stoic](https://www.amazon.com/Letters-Stoic-Penguin-Classics-Hardcover/dp/0141395850)
 1. [ ] [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0688002307)
-1. [ ] [As a Man Thinketh](https://www.amazon.com/As-Man-Thinketh-Complete-Original/dp/125078004) 
+1. [ ] [As a Man Thinketh](https://www.amazon.com/As-Man-Thinketh-Complete-Original/dp/125078004)
+1. [ ] [Experimental Philosophy](https://www.amazon.com/Experimental-Philosophy-Introduction-Joshua-Alexander-dp-0745649173)
+1. [x] [The Outward Mindset](https://www.amazon.com/Outward-Mindset-Arbinger-Institute/dp/1523087307)
 
 Psychology
 ----------
 
 1. [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 1. [ ] [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+1. [x] [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 
 F1 & Racing
 -----------
@@ -79,6 +83,7 @@ Skillset and Practice
 1. [ ] [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
 1. [ ] [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 1. [ ] [Lean Software](https://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381)
+1. [x] [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 
 Problem Solving
 ---------------
@@ -129,18 +134,21 @@ Software
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
+1. [ ] [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
 1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 1. [x] [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 1. [x] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 1. [x] [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 1. [x] [More Joel on Software](https://www.amazon.com/More-Joel-Software-Occasionally-Developers/dp/1430209879)
+1. [x] [Facts and Fallacies of Software Engineering](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425)
 
 Software Design
 ---------------
 
 1. [ ] [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
+1. [ ] [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
 1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
@@ -151,10 +159,12 @@ Software Language
 1. [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Second-dp-0070004846/dp/0070004846)
 1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 1. [ ] [Automate the Boring Stuff](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922)
+1. [ ] [Java By Comparsion](https://www.amazon.com/Java-Comparison-Become-Craftsman-Examples-dp-1680502875/dp/1680502875)
 
 Software Testing
 ----------------
 
+1. [ ] [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 1. [x] [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 
@@ -205,10 +215,12 @@ Environment
 DevOps
 ------
 
+1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
 1. [x] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
-1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+1. [x] [Liquid Software](https://www.amazon.com/Liquid-Software-Achieve-Trusted-Continuous/dp/1981855726)
+1. [x] [DevOps For The Modern Enterprise](https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations/dp/1942788193)
 
 Discipline & Meta
 -----------------
@@ -216,6 +228,7 @@ Discipline & Meta
 1. [ ] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 1. [ ] [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358362776)
 1. [ ] [Agile Metrics in Action](https://www.amazon.com/Agile-Metrics-Action-Measuring-Performance/dp/1617292486)
+1. [x] [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
 Education
 ---------
@@ -229,6 +242,7 @@ Business
 1. [x] [Dinosaur Brains](https://www.amazon.com/Dinosaur-Brains-Dealing-Impossible-People/dp/047161808X)
 1. [x] [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
 1. [ ] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
+1. [x] [A Sense of Urgency](https://www.amazon.com/Sense-Urgency-John-P-Kotter/dp/1422179710)
 
 Motorcycling
 ------------
@@ -249,6 +263,8 @@ Leadership
 1. [x] [Lead and Disrupt](https://www.amazon.com/Lead-Disrupt-Solve-Innovators-Dilemma/dp/0804798656)
 1. [x] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 1. [x] [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
+1. [x] [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1523097809)
+1. [x] [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
 
 Historical
 ----------
