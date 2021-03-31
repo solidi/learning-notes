@@ -36,6 +36,7 @@ Team
 1. [x] [Eleven Rings](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346)
 1. [x] [Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340)
 1. [x] [Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+1. [x] [Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
 Management
 ----------
@@ -65,9 +66,14 @@ Skillset and Practice
 1. [ ] [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
 1. [ ] [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 1. [ ] [Lean Software](https://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381)
+1. [x] [The Enterprise and Scrum](https://www.amazon.com/Enterprise-Scrum-Developer-Best-Practices/dp/0735623376)
 1. [x] [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 1. [x] [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
 1. [x] [Pair Programming Illuminated](https://www.amazon.com/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763)
+1. [x] [Agile Software Development](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+1. [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+1. [x] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+1. [x] [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
 Problem Solving
 ---------------
@@ -136,6 +142,9 @@ Software Design
 1. [ ] [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/gp/product/1492043451/)
 1. [ ] [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 1. [ ] [Working Effective with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+1. [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
+1. [ ] [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+1. [x] [Adaptive Code](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
 1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
@@ -152,6 +161,7 @@ Software Language
 1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 1. [x] [Simplifying JavaScript](https://www.amazon.com/Simplifying-JavaScript-Writing-Modern-Beyond/dp/1680502883)
 1. [x] [Rediscovering JavaScript](https://www.amazon.com/Rediscovering-JavaScript-Master-ES6-ES7/dp/1680505467)
+1. [x] [Kotlin in Action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
 
 Software Testing
 ----------------
@@ -159,6 +169,7 @@ Software Testing
 1. [ ] [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 1. [x] [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
+1. [x] [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
 
 Software Gaming Development
 ---------------------------
@@ -180,6 +191,7 @@ Data Science
 
 1. [ ] [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130)
 1. [ ] [Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+1. [x] [Ambient Findability](https://www.amazon.com/Ambient-Findability-What-Changes-Become/dp/0596007655)
 
 Career
 ------
@@ -213,6 +225,9 @@ DevOps
 1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 1. [x] [Liquid Software](https://www.amazon.com/Liquid-Software-Achieve-Trusted-Continuous/dp/1981855726)
 1. [x] [DevOps For The Modern Enterprise](https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations/dp/1942788193)
+1. [x] [Continuous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
+1. [x] [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 Discipline & Meta
 -----------------
@@ -222,6 +237,7 @@ Discipline & Meta
 1. [ ] [Agile Metrics in Action](https://www.amazon.com/Agile-Metrics-Action-Measuring-Performance/dp/1617292486)
 1. [x] [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 1. [x] [Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)
+1. [x] [Pragmatic Thinking and Learning](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
 
 Education
 ---------
@@ -264,6 +280,8 @@ Historical
 ----------
 
 1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
+1. [ ] [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
+1. [x] [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style)
 1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
 1. [x] [IBM: The Rise and Fall and Reinvention](https://www.amazon.com/IBM-Reinvention-Global-History-Computing/dp/0262039443)
 
