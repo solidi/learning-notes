@@ -192,3 +192,6 @@
 
 ## APIs
 1. [The right way to turn off your old APIs](https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/)
+
+## Jest
+1. [The "Works on My Machine" Certification Program](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/)
