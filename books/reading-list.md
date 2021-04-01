@@ -26,6 +26,7 @@ Psychology
 1. [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 1. [ ] [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 1. [x] [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+1. [x] [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274)
 
 Team
 ----
@@ -57,6 +58,7 @@ Management
 1. [x] [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
 1. [x] [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager/dp/0062367544)
 1. [x] [The Essential Drucker](https://www.amazon.com/Essential-Drucker-Druckers-Management-Hardcover/dp/B008CM8EI8)
+1. [x] [Managing the Unmanagable](https://www.amazon.com/Managing-Unmanageable-2nd-Mickey-Mantle/dp/0135667364)
 
 Skillset and Practice
 ---------------------
@@ -91,6 +93,8 @@ Product
 1. [ ] [Back of the Knapkin](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591843065)
 1. [x] [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 1. [x] [Customers Included](https://www.amazon.com/Customers-Included-2nd-Transform-Companies/dp/0979368138)
+1. [x] [Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/039335606X)
+1. [x] [A/B Testing](https://www.amazon.com/Testing-Most-Powerful-Clicks-Customers/dp/1118792416)
 
 Dystopian
 ---------
@@ -116,6 +120,7 @@ Open Source / Culture
 1. [ ] [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
 1. [ ] [The Software Arts](https://www.amazon.com/Software-Arts-Studies/dp/0262039702)
+1. [x] [Hackers and Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
 1. [x] [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
 Software
@@ -134,6 +139,7 @@ Software
 1. [x] [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 1. [x] [More Joel on Software](https://www.amazon.com/More-Joel-Software-Occasionally-Developers/dp/1430209879)
 1. [x] [Facts and Fallacies of Software Engineering](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425)
+1. [x] [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
 Software Design
 ---------------
@@ -144,10 +150,13 @@ Software Design
 1. [ ] [Working Effective with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 1. [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 1. [ ] [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+1. [ ] [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
 1. [x] [Adaptive Code](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
 1. [x] [Atomic Design](https://www.amazon.com/Atomic-Design-Brad-Frost/dp/0998296600)
+1. [x] [Essential Algorithms](https://www.amazon.com/Essential-Algorithms-Rod-Stephens/dp/1118612108)
+1. [x] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
 Software Language
 -----------------
@@ -157,6 +166,8 @@ Software Language
 1. [ ] [Java By Comparsion](https://www.amazon.com/Java-Comparison-Become-Craftsman-Examples-dp-1680502875/dp/1680502875)
 1. [ ] [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 1. [ ] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+1. [ ] [The C++ Programming Language](https://www.amazon.com/Programming-Language-hardcover-4th-dp-0321958322/dp/0321958322)
+1. [ ] [The Art Of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 1. [x] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 1. [x] [JavaScript: The Good Parts: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 1. [x] [Simplifying JavaScript](https://www.amazon.com/Simplifying-JavaScript-Writing-Modern-Beyond/dp/1680502883)
@@ -167,6 +178,7 @@ Software Testing
 ----------------
 
 1. [ ] [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+1. [ ] [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 1. [x] [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 1. [x] [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 1. [x] [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
@@ -213,6 +225,7 @@ Environment
 1. [ ] [Silent Spring](https://www.amazon.com/Silent-Spring-Rachel-Carson-dp-061825305X)
 1. [ ] [The New Green Deal](https://www.amazon.com/gp/product/1250253209)
 1. [ ] [Our Mathematical Universe](https://www.amazon.com/Our-Mathematical-Universe-Ultimate-Reality/dp/0307744256)
+1. [x] [Scale](https://www.amazon.com/Scale-Universal-Growth-Organisms-Companies/dp/014311090X)
 
 DevOps
 ------
@@ -264,6 +277,7 @@ Relationships
 1. [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
 1. [x] [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 1. [x] [Give and Take](https://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986)
+1. [x] [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375)
 
 Leadership
 ----------
@@ -284,6 +298,8 @@ Historical
 1. [x] [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style)
 1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
 1. [x] [IBM: The Rise and Fall and Reinvention](https://www.amazon.com/IBM-Reinvention-Global-History-Computing/dp/0262039443)
+1. [x] [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117)
+1. [x] [Homo Deus](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345)
 
 F1 & Auto Racing / Engineering
 ------------------------------
