@@ -5,8 +5,8 @@
 1. [ ] Space Jam
 1. [x] Field of Dreams
 1. [ ] Ulees Gold
-1. [ ] The Good Shephered
-1. [ ] The General
+1. [x] The Good Shephered
+1. [x] The General
 1. [x] 1917
 1. [ ] The King
 1. [x] The Dead Poets Society
@@ -22,7 +22,7 @@
 1. [x] Captain America: The Winter Soldier
 1. [x] Guardians of the Galaxy
 1. [x] Guardians of the Galaxy Vol. 2 
-1. [ ] Avengers: Age of Ultron
+1. [x] Avengers: Age of Ultron
 1. [ ] Ant-Man
 1. [ ] Captain America: Civil War
 1. [ ] Spider-Man: Homecoming
