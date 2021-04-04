@@ -151,6 +151,7 @@ Software Design
 1. [ ] [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 1. [ ] [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 1. [ ] [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
+1. [ ] [Software Design X-Rays](https://www.amazon.com/Software-Design-X-Rays-Technical-Behavioral/dp/1680502727)
 1. [x] [Adaptive Code](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)
 1. [x] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 1. [x] [Architecting for Scale](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177)
