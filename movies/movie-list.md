@@ -23,7 +23,7 @@
 1. [x] Guardians of the Galaxy
 1. [x] Guardians of the Galaxy Vol. 2 
 1. [x] Avengers: Age of Ultron
-1. [ ] Ant-Man
+1. [x] Ant-Man
 1. [ ] Captain America: Civil War
 1. [ ] Spider-Man: Homecoming
 1. [ ] Doctor Strange
