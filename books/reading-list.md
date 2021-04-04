@@ -326,3 +326,8 @@ Plastic Modeling
 ----------------
 
 1. [x] [Model Builders Manual](https://www.amazon.com/Model-Builders-Manual-introduction-construction/dp/1785215558)
+
+Amateur Radio
+-------------
+
+1. [x] [Contact Sport](https://www.amazon.com/Contact-Sport-Champions-Airwaves-One-Day/dp/1626342369)
