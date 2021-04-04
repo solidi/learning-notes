@@ -314,6 +314,7 @@ F1 & Auto Racing / Engineering
 1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
 1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
 1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
+1. [ ] [The Life of Senna](https://www.amazon.com/Life-Senna-Tom-Rubython/dp/0990619966)
 1. [x] [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
 1. [x] [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
 1. [x] [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
