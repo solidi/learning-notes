@@ -170,6 +170,7 @@
 1. [What We Mean By Rewrite and Refactor](http://www.bennorthrop.com/rewrite-or-refactor-book/chapter-1-what-we-mean-by-rewrite-and-refactor.php)
 
 ## Code Review
+1. [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 1. [Deepcode.ai](https://www.deepcode.ai/)
 
 ## Design / UX
