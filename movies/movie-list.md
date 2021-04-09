@@ -24,11 +24,11 @@
 1. [x] Guardians of the Galaxy Vol. 2 
 1. [x] Avengers: Age of Ultron
 1. [x] Ant-Man
-1. [ ] Captain America: Civil War
+1. [x] Captain America: Civil War
 1. [ ] Spider-Man: Homecoming
-1. [ ] Doctor Strange
-1. [ ] Black Panther
-1. [ ] Thor: Ragnarok
+1. [x] Doctor Strange
+1. [x] Black Panther
+1. [x] Thor: Ragnarok
 1. [ ] Avengers: Infinity War
 1. [ ] Ant-Man and the Wasp
 1. [ ] Avengers: Endgame
