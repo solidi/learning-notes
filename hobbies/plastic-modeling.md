@@ -14,6 +14,7 @@ Notes on the hobby and learnings.
 1. Always use the right tool, and reserve that tool for its purpose.
 1. Before applying, experiment on a similar test mule to learn about the outcome.
 1. When applying too much force, stop. You are bound to break something.
+1. Details can come too obsessive. Give it time, this mistake will not be seen by others.
 
 ## Laws
 
@@ -79,6 +80,7 @@ Notes on the hobby and learnings.
 1. Use a marker to paint window trim after the final coat of paint is sprayed.
 1. Use a marker and trace borders of the lens to simulate rubber grommets.
 1. Use motolow marker for chrome accents.
+1. For added realism, add Tamiya clear blue to half of windshield fluid container.
 
 ### Decals
 
