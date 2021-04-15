@@ -2,7 +2,7 @@
 
 ## To Watch
 
-1. [ ] The Man From U.N.C.L.E.
+1. [x] The Man From U.N.C.L.E.
 1. [ ] Space Jam
 1. [x] Field of Dreams
 1. [ ] Ulees Gold
@@ -30,13 +30,13 @@
 1. [x] Doctor Strange
 1. [x] Black Panther
 1. [x] Thor: Ragnarok
-1. [ ] Avengers: Infinity War
-1. [ ] Ant-Man and the Wasp
-1. [ ] Avengers: Endgame
+1. [x] Avengers: Infinity War
+1. [x] Ant-Man and the Wasp
+1. [x] Avengers: Endgame
 1. [ ] Spider-Man: Far from Home
 1. [x] Moneyball
 1. [x] 42
 1. [x] Hard Boiled
 1. [x] Escape from New York
 1. [x] American Beauty
-1. [ ] Michael Collins
+1. [x] Michael Collins
