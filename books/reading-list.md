@@ -270,6 +270,12 @@ Business
 Motorcycling
 ------------
 
+1. [x] [Total Control](https://www.amazon.com/Total-Control-Performance-Street-Techniques/dp/0760343446)
+1. [x] [Proficient Motorcycling](https://www.amazon.com/Proficient-Motorcycling-Ultimate-Guide-Riding/dp/1620081199)
+1. [ ] [More Proficient Motorcycling](https://www.amazon.com/More-Proficient-Motorcycling-Mastering-Ride/dp/1931993033)
+1. [x] [A Twist of the Wrist](https://www.amazon.com/Twist-Wrist-Motorcycle-Roadracers-Handbook/dp/0965045013)
+1. [ ] [A Twist of the Wrist: Volume II](https://www.amazon.com/Twist-Wrist-Vol-High-Performance-Motorcycle/dp/0965045021)
+1. [x] [Motorcycling for Dummies](https://www.amazon.com/Motorcycling-Dummies-Bill-Kresnak/dp/0470245875)
 1. [x] [Motorcycling the Right Way](https://www.amazon.com/Motorcycling-Right-Way-Lessons-Handlebars/dp/1620081695)
 
 Relationships
