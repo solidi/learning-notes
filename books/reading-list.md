@@ -232,7 +232,8 @@ DevOps
 ------
 
 1. [ ] [Kubernetes: Up and Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531)
-1. [ ] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+1. [ ] [Docker: Up and Running](https://www.amazon.com/Docker-Shipping-Reliable-Containers-Production/dp/1492036730)
+1. [x] [DevOps: A Software Architect Perspective](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [x] [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 1. [x] [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
