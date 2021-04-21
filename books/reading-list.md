@@ -334,6 +334,17 @@ Plastic Modeling
 ----------------
 
 1. [x] [Model Builders Manual](https://www.amazon.com/Model-Builders-Manual-introduction-construction/dp/1785215558)
+1. [x] [Master Modeler: Creating the Tamiya Style](https://www.amazon.com/Master-Modeler-Creating-Tamiya-Style/dp/4770028512)
+1. [x] [Modeler's Guide to Realistic Painting and Finishing](https://www.amazon.com/Modelers-Realistic-Painting-Finishing-FineScale/dp/0890243913)
+1. [x] [Airbrush Painting Techniques](https://www.amazon.com/Airbrush-Painting-Techniques-Modelling-Manuals/dp/1902579224)
+1. [x] [Airbrushing for Scale Modelers](https://www.amazon.com/Airbrushing-Scale-Modelers-Aaron-Skinner/dp/0890249571)
+1. [x] [Tamiya Plastic Model Technique Guide](https://tamiyablog.com/2014/09/tamiya-64391-plastic-model-technique-guide-revised-edition/)
+1. [x] [The Basics of Scale Modeling](https://www.amazon.com/Basics-Scale-Modeling-FineScale-Modeler/dp/0890243921)
+1. [x] [Essential Skills for Scale Modelers](https://www.amazon.com/Essential-Skills-Modelers-FineScale-Modeler/dp/0890247919)
+1. [x] [AK Interactive Civil Vehicles Scale Modelling F.A.Q.](https://www.amazon.com/AK-Interactive-Civil-Vehicles-Modelling/dp/B083L7WGY7)
+1. [x] [Scale Car Modelling](https://www.amazon.com/Scale-Car-Modelling-Mat-Irvine-ebook/dp/B008BGOV2S)
+1. [x] [Basics of Scale Automotive Modelling](https://www.amazon.com/Basics-Scale-Automotive-Modeling-Getting/dp/0890243204)
+1. [x] [The Modeler's Guide to Scale Automotive Finishes](https://www.amazon.com/Modelers-Guide-Scale-Automotive-Finishes/dp/0890242658)
 
 Amateur Radio
 -------------
