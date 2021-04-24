@@ -82,3 +82,4 @@
 1. "Draw the box smaller." - Jason Lengstorf / IBM Manager
 1. "To get along, you have to get along."
 1. "Prior planning prevents poor performance."
+1. "Information is unimportant when its discovered; it's important when the information is appreciated."
