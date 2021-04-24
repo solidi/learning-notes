@@ -1,6 +1,5 @@
 # Masters of Doom
 ## Author: David Kushner
- 
 ## General Quotes:
 - "I think we can do that. That's still not a great amount of time, but we could probably do something decent, but I'm going to need a team: an artist, a couple of programmers, and a manager, because I don't want to sit there interfacing with management all day; I want to program."
 - Like most artists and programmers, however, they enjoyed doing their craft more than cutting a deal.
@@ -17,4 +16,9 @@
 - "For any given project," he posted in his .plan file online, "there is some team size beyond which adding more people will actually cause things to take longer. This is due to the loss of efficiency from chopping up problems, communication overhead, and just plain entropy. It's even easier to reduce quality by adding people. I contend that the max programming team size for id is very small."
 - The tension between Tim, American, and the other level designers had reached a boiling point. Adrian and Kevin were battling with Paul Steed. They disliked each other too strongly to work closely together on the mission pack, Carmack realized. The solution: build the next game around the company's animosity. Quake III would be a deathmatch-only title, using most of his ideas for the Trinity engine that would allow the map designers to work in complete isolation from each other.
 - Her relationship with Carmack would last. They wed in Hawaii in front of a small crowd of family and friends. It was one of the only vacations Carmack had taken in his life. And, like the other times, he brought his laptop. There was work to be done.
+ 
+ ## Resources
+
+ 1. [Masters of Doom on Amazon](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)
+ 1. [Background](https://en.wikipedia.org/wiki/Masters_of_Doom)
  
