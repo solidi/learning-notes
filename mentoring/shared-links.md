@@ -113,6 +113,7 @@
 1. [Four Magic Numbers for Measuring Software Delivery](https://medium.com/onzo-tech/four-magic-numbers-for-measuring-software-delivery-55b1dd01eca)
 
 ## Cheat Sheets
+1. [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 1. [devhints.io](https://devhints.io/)
 1. [Python](https://gto76.github.io/python-cheatsheet/)
 
