@@ -182,6 +182,7 @@
 1. [Progression.fyi](https://www.progression.fyi/)
 1. [roadmap.sh](https://roadmap.sh/)
 1. [All My Career Rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
+1. [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 
 ## Programming Philosophy
 1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
