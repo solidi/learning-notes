@@ -25,4 +25,26 @@
 - On team structures and system architecture: First, the team feels like they are constantly fighting the architecture. Second, interdependencies between teams seem disproportionate. Third, and really because of the first two, things move slowly, and teams don't feel very empowered.
 - As is so often the case with product, things boil down to a tradeoff--in this case between team's autonomy and leverage of the foundation.
 - In some cases, product roadmaps come down from management (usually referred to as a *stakeholder-driven roadmap*) and sometimes the roadmap come from the product manager. They usually don't include little things like bugs and optimizations.
-- p. 108
+- It's managements responsibility to provide each product team with the specific business objectives they need to tackle. The difference is that they are now prioritizing *business results*, rather than the product ideas. And, yes, it is more than a little ironic that we sometimes need to convince management to focus on business results.
+- The *product vision* describes the future we are trying to create, typically somewhere between two and five years out. For hardware or device-centric companies, it's usually five to 10 years out.
+- The difference between vision and strategy is analogous to the difference between good leadership and good management. Leadership inspires and sets the direction, and management helps *get us there*.
+- It is very possible that you may have to adjust course to reach your desired destination. That's called a *discovery pivot*, and there's nothing wrong with that.
+- Where the product vision describes the future you want to create, and the product strategy describes your path to achieving that vision, the product principles speak to the *nature of products you want to create*.
+- A product team is cross-functional set of professionals, typically comprised of a product manager, a product designer, and a small number of engineers. In addition, there are sometimes additional people with specialized skills included on the team, such as a data analyst, a user research, or a test automation engineer.
+- Imagine if the engineers were told to spend their time on re-platforming, the designers on moving to a responsive design, and QA on retooling. While each of these may be worthy activities, the chances of solving the business problems that the cross-functional team were created to solve are not high.
+- On larger objectives: they should be discussed and prioritized at the leadership level along with the other business objectives, and then incorporated into the relevant product team's objectives.
+- *Spend time with your team.* If you're not spending significant face time with your designer, and every engineer on your team, then they cannot see the enthusiasm in your eyes. If your team is not co-located, you'll need to make special effort to travel there and do this at least every couple of months. Spending some personal time with every last person on the team pays off big in their level of motivation and, as a result, in the velocity of the team. It's worth your time.
+- The right process is not any *single* process. Rather, it's more accurately described as a combination of techniques, mindset, and culture.
+- You should be much more aggressive in getting out to customers and getting early feedback on their ideas, and then just minutes later pushing that same team hard not to compromise their standards in releasing scalable, fault-tolerant, reliable, high-performance, secure software.
+- Technology drives functionality, technology drives design, design drives functionality. All are intertwined. This is the single biggest reason we push so hard for the product manager, product designer, and the tech lead to sit physically adjacent to each other.
+- Teams competent in modern discovery techniques can generally test on the order of 10-20 iterations *per week*.
+- Much of our time in product discovery is spent validating value or working to increase the perceived value.
+- I find that most teams gravitate toward a particular type of risk that they are most comfortable with.
+- We must also consider *value risks*, do the customers want this particular problem solved and is our proposed solution good enough to get people to switch from what they have now?
+- One of the most important lessons in our industry is to *fall in love with the problem, not the solution.*
+- On OKRs - What business objective is this work intended to address? (Objective) How will you know if you've succeeded? (Key result) What problem will this solve for our customers? (Customer problem) What type of customer are we focused on? (Target market)
+- Realize that there are sometimes strategic reasons for doing specific product work, such as a partnership. If it happens a lot, then that's a different issue., but it's usually infrequent.
+- A startup canvas, its close cousins the business model canvas, and the lean canvas are intended to be lightweight tools to call out these risks early and encourage the team to tackle them upfront.
+- Many teams I know consider a high-fidelity user prototype and a story map as their go-to techniques.
+- For product and services aimed at businesses, I was taught years ago that the key number is six reference customers. This is not meant to be a statistically significant-it is meant to install confidence-and I have found that number has held up over time.
+- p. 198
