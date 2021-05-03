@@ -26,6 +26,7 @@
 1. [Submodules](https://devconnected.com/how-to-add-and-update-git-submodules/)
 
 ## Testing
+1. [Google Testing Blog](https://testing.googleblog.com/)
 1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 1. [Mockaroo](https://mockaroo.com/)
