@@ -40,5 +40,7 @@
 1. [x] Escape from New York
 1. [x] American Beauty
 1. [x] Michael Collins
+1. [x] High Noon
+1. [ ] Shane
 1. [ ] The Shining
 1. [ ] Fahrenheit 451
