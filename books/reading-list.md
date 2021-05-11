@@ -64,9 +64,9 @@ Skillset and Practice
 ---------------------
 
 1. [ ] [Sprint](https://www.thesprintbook.com/)
+1. [ ] [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 1. [ ] [The Practice: Ship creative work](https://geni.us/kD6UWdp)
 1. [ ] [Thinking on Paper](https://www.amazon.com/Thinking-Paper-V-Howard/dp/0688048730)
-1. [ ] [The War of Art](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037)
 1. [ ] [Lean Software](https://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381)
 1. [x] [The Enterprise and Scrum](https://www.amazon.com/Enterprise-Scrum-Developer-Best-Practices/dp/0735623376)
 1. [x] [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
