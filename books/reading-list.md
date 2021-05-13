@@ -104,6 +104,7 @@ Dystopian
 1. [ ] [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 1. [ ] [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
 1. [x] [Communion](https://www.amazon.com/Communion-Story-Whitley-Strieber-1988-02-01/dp/B01K3NUQDE)
+1. [x] [Flying Saucers and Science](https://www.amazon.com/Flying-Saucers-Science-Investigates-Interstellar/dp/1601630115)
 
 AI and Ethics
 -------------
