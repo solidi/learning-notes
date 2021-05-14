@@ -333,6 +333,7 @@ F1 & Auto Racing / Engineering
 1. [x] [Grand Prix People](https://www.amazon.com/Grand-Prix-People-Revelations-Formula/dp/0947981535)
 1. [x] [The Perfect Car](https://www.amazon.com/Perfect-Car-Biography-Motorsport%C2%92s-Creative/dp/1910505277)
 1. [x] [Vanderbilt Cup Races of Long Island](https://www.amazon.com/Vanderbilt-Cup-Races-Long-Island/dp/1531636861)
+1. [x] [Ferrari 312T 1975 to 1980](https://www.amazon.com/Ferrari-312T-1975-1980-engineering/dp/0857338110)
 
 Plastic Modeling
 ----------------
