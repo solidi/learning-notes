@@ -200,3 +200,6 @@
 
 ## Jest
 1. [The "Works on My Machine" Certification Program](https://blog.codinghorror.com/the-works-on-my-machine-certification-program/)
+
+## Documentation
+1. [Why programmers don’t write documentation](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
