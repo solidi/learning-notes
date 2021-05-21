@@ -188,6 +188,7 @@ Software Testing
 Software Gaming Development
 ---------------------------
 
+1. [ ] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 1. [x] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 1. [x] [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
