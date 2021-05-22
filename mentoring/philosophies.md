@@ -83,3 +83,4 @@
 1. "To get along, you have to get along."
 1. "Prior planning prevents poor performance."
 1. "Information is unimportant when its discovered; it's important when the information is appreciated."
+1. "Art is never finished, only abandoned." - Leonardo da Vinci
