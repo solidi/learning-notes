@@ -84,3 +84,4 @@
 1. "Prior planning prevents poor performance."
 1. "Information is unimportant when its discovered; it's important when the information is appreciated."
 1. "Art is never finished, only abandoned." - Leonardo da Vinci
+1. "Simplify, then add lightness" - Colin Chapman
