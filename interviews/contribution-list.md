@@ -108,6 +108,8 @@ To spark memory of events to tell specific stories.
 - Promoted engineer to next level, working to take on new intiatives.
 - Successfully lead team to update authentication on all products and services.
 - Successfully launched MVP of a career editing tool.
+- Reorganize teams and aligned them to new team charters.
+- Formed a plan and executed a migration plan of services from one infrastructure to another.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021
