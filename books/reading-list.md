@@ -31,6 +31,7 @@ Psychology
 Team
 ----
 
+1. [ ] [Team of Teams](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486)
 1. [ ] [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 1. [ ] [Astroball](https://www.amazon.com/Astroball-New-Way-Win-All/dp/0525576649)
 1. [ ] [Work Together From Anywhere](https://www.amazon.com/Work-Together-Anywhere-Successfully-Individuals/dp/1119745225)
