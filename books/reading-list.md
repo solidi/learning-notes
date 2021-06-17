@@ -267,7 +267,7 @@ Education
 Business
 --------
 
-1. [ ] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
+1. [x] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 1. [ ] [In Search of Excellence](https://www.amazon.com/Search-Excellence-Americas-Best-Run-Companies/dp/0060150424)
 1. [x] [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 1. [x] [Dinosaur Brains](https://www.amazon.com/Dinosaur-Brains-Dealing-Impossible-People/dp/047161808X)
