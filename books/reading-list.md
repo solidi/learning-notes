@@ -318,10 +318,11 @@ Historical
 F1 & Auto Racing / Engineering
 ------------------------------
 
+1. [ ] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
 1. [ ] [Max Mosley Autobiography](https://www.amazon.com/Formula-One-Beyond-Autobiography-Mosley/dp/1471150194)
 1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
-1. [ ] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
+1. [x] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
 1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
 1. [ ] [Total Competition](https://www.amazon.com/gp/product/1471162354)
