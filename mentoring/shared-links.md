@@ -31,12 +31,6 @@
 1. [Test Driven Development by Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 1. [Practical Guide to Load Testing](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
 
-## Testing Tools
-1. [Charles Proxy](https://www.charlesproxy.com/)
-1. [Restful Stress](https://chrome.google.com/webstore/detail/restful-stress/lljgneahfmgjmpglpbhmkangancgdgeb)
-1. [Artillery.io](https://artillery.io/)
-1. [Mockaroo](https://mockaroo.com/)
-
 ## Software Engineering Books
 1. [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
 1. [The Mythical Man Month](https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/)
@@ -64,10 +58,6 @@
 1. [Google's HEART Framework](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf)
 1. [Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 1. [ProductHunt](https://www.producthunt.com/)
-
-## Agile Tools
-1. [Planning Poker](https://www.planitpoker.com/board/#/rooms)
-1. [ScrumPoker](https://www.scrumpoker.online/)
 
 ## Agile Books
 1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
@@ -120,6 +110,22 @@
 1. [Python](https://gto76.github.io/python-cheatsheet/)
 
 ## Useful Tools
+
+### Drawing Tools
+1. [draw.io](draw.io)
+1. [Websequencediagrams](https://www.websequencediagrams.com/)
+
+### Agile Tools
+1. [Planning Poker](https://www.planitpoker.com/board/#/rooms)
+1. [ScrumPoker](https://www.scrumpoker.online/)
+
+### Testing Tools
+1. [Charles Proxy](https://www.charlesproxy.com/)
+1. [Restful Stress](https://chrome.google.com/webstore/detail/restful-stress/lljgneahfmgjmpglpbhmkangancgdgeb)
+1. [Artillery.io](https://artillery.io/)
+1. [Mockaroo](https://mockaroo.com/)
+
+### Useful Tools
 1. [Explain Regex](http://rick.measham.id.au/paste/explain.pl)
 1. [Regex 101](https://regex101.com/)
 1. [Regular Expressions Info](https://www.regular-expressions.info/)
