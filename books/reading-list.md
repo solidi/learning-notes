@@ -359,3 +359,9 @@ Amateur Radio
 -------------
 
 1. [x] [Contact Sport](https://www.amazon.com/Contact-Sport-Champions-Airwaves-One-Day/dp/1626342369)
+
+Negotiation
+-----------
+
+1. [ ] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
+1. [ ] [Thank You For Arguing](https://www.amazon.com/Thank-Arguing-Fourth-Revised-Updated/dp/0593237382)
