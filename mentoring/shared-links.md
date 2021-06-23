@@ -132,6 +132,7 @@
 1. [Will it CORS?](https://httptoolkit.tech/will-it-cors/)
 1. [crontab guru](https://crontab.guru/)
 1. [licecap](https://www.cockos.com/licecap/)
+1. [gitmoji](https://gitmoji.dev/)
 
 ## Reading
 1. [How I Read](https://robertheaton.com/2018/06/25/how-to-read/)
