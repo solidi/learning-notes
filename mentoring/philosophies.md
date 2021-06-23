@@ -85,3 +85,4 @@
 1. "Information is unimportant when its discovered; it's important when the information is appreciated."
 1. "Art is never finished, only abandoned." - Leonardo da Vinci
 1. "Simplify, then add lightness" - Colin Chapman
+1. "(On writing something) Give me something to steal. (to share as my own with others.)" - A Friend
