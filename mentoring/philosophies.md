@@ -86,3 +86,4 @@
 1. "Art is never finished, only abandoned." - Leonardo da Vinci
 1. "Simplify, then add lightness" - Colin Chapman
 1. "(On writing something) Give me something to steal. (to share as my own with others.)" - A Friend
+1. "Management is prediction." - Edward Deming
