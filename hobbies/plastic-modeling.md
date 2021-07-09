@@ -7,23 +7,23 @@ Notes on the hobby and learnings.
 1. Patience is everything.
 1. Surface preparation is also everything.
 1. Buy two of the same kits. You are bound to lose pieces or make unrecoverable mistakes.
-1. Never touch the model with bare hands. Use gloves, so oils do not get on the model.
+1. Never touch the model with bare hands. Use gloves so oils do not get on the model.
 1. Resist the temptation to touch the model unnecessarily. Excessive touching leads to breakage.
 1. Less is more in any application. Except when thinning paint. Thin more.
 1. Devil is in the detail. The more time you spend on detail, the more impactful the piece is.
-1. Always use the right tool, and reserve that tool for its purpose.
+1. Always use the right tool and reserve that tool for its purpose.
 1. Before applying, experiment on a similar test mule to learn about the outcome.
 1. When applying too much force, stop. You are bound to break something.
-1. Details can come too obsessive. Give it time, this mistake will not be seen by others.
+1. Details can come too obsessive. Give it time. Others will not see this mistake.
 
 ## Laws
 
 * The Law of Preparation
     - The more preparation is invested in a model, the better its result, but the fewer models are completed. And completion is the most crucial concept in modeling to capture satisfaction.
 * The Law of Least Touch
-    - With each touch of the model, whether it be by hand or by a tool, errors and defects increase.
+    - With each touch of the model, whether by hand or by a tool, errors and defects increase.
 * The Law of Concealment
-    - The camera hides minor issues with the build. This can be imperfections with the clear coat, or angles simply not shown.
+    - The camera hides minor issues with the build. This can be imperfections with the clear coat or angles not shown.
 * The Law of Diminished Finish
     - As the model subject draws to a close, more and more detail is observed to be absent on the model.
 * The Law of Imperfect Application
@@ -31,17 +31,17 @@ Notes on the hobby and learnings.
 
 ## Techniques
 
-1. Use a clip to hold the backing of the water slide decal when placing on the model.
-1. Use hobby knife and decal softener to flatten bubbled/silvered dried decals.
+1. Use a clip to hold the backing of the water slide decal when placing it on the model.
+1. Use a hobby knife and decal softener to flatten bubbled/silvered dried decals.
 1. When using light colors such as red over dark areas, use white as a base coat.
 1. When brushing paint, brush over the area once wholly. Let dry and paint again.
 1. Use a wax pencil to pick up small pieces to place and glue on the model.
-1. Drill a small hole in the back of part for ease, putting on a toothpick for painting.
+1. Drill a small hole in the back of the part for ease, putting on a toothpick for painting.
 
 ## Rituals
 
 1. Always replace the knife blade right before decaling.
-1. Clean top of the jar of paint before closing the lid.
+1. Clean the top of the jar of paint before closing the lid.
 1. Clean airbrush needle and pot well with q-tip after every use.
 1. Build up a clear coat by a barrier coat first, then wet coats.
 1. Use a bright light and an angle to see how the clear coat is being applied.
@@ -65,9 +65,9 @@ Notes on the hobby and learnings.
 
 ### Clear Coat
 
-1. Water down paint area before spraying to reduce dust.
+1. Water down the paint area before spraying to reduce dust.
 1. Use a strong light source to see what is being sprayed.
-1. After clear-coat, use 4000, 6000, 8000 then 12000 micromeshes. Finally, use polish.
+1. After clear-coat, use 4000, 6000, 8000, then 12000 micro meshes. Finally, use polish.
 
 ### Interior
 
@@ -78,16 +78,16 @@ Notes on the hobby and learnings.
 1. Use wash to fill panel lines. Do not go too heavy on the application.
 1. Use naptha on a cotton swab perpendicular to the panel line to remove excess.
 1. Use a marker to paint window trim after the final coat of paint is sprayed.
-1. Use a marker and trace borders of the lens to simulate rubber grommets.
-1. Use motolow marker for chrome accents.
-1. For added realism, add Tamiya clear blue to half of windshield fluid container.
+1. Use a marker and trace the borders of the lens to simulate rubber grommets.
+1. Use [Molotow marker](https://www.molotow.com/en/applications/marker-applications/liquid-chrome) for chrome accents.
+1. For added realism, add Tamiya clear blue to half of the windshield fluid container.
 
 ### Decals
 
-1. Use a coffee cup warmer plate to keep water room temperature while decaling.
+1. Use a coffee cup warmer plate to keep water at room temperature while dealing.
 1. Always use a new/sharp blade to cut out decals.
 1. Tamiya TS-13 is too hot for water slide decals. Do not apply directly over.
-1. Use a sharp knife to cut away more clear border around the decal before dipping into the water.
+1. Use a sharp knife to cut away a more clear border around the decal before dipping into the water.
 
 ## Stripping Paint
 
@@ -112,7 +112,7 @@ If all else fails, you can strip the paint and start over.
 1. For a smooth shine after a not so good coat, hit the model with leveling thinner.
 1. Metal details can break down from brake cleaner.
 1. Using plastic cement on clear-coated gaps will peel the coat.
-1. Clear coat will "pop" and highlight dark paint - be careful on marker touch up - it will show.
+1. Clearcoat will "pop" and highlight dark paint - be careful on marker touch up - it will show.
 
 ## Tips and Tricks
 
@@ -139,7 +139,7 @@ If all else fails, you can strip the paint and start over.
         1. Wheels
         1. Engine
     1. Glue small parts directly where it makes sense.
-1. Find ways to increase fidelity by drilling holes in exhausts, body work, vents, head rests, etc.
+1. Find ways to increase fidelity by drilling holes in exhausts, bodywork, vents, headrests, etc.
 1. Prime larger pieces like body and chassis. Sand at 1000 grit.
 1. Base coat color the same. Sand at 1500 grit.
 1. Spary base coat again.
