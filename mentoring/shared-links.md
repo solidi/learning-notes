@@ -71,6 +71,7 @@
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
 1. [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+1. [Best of .bashrc](https://www.datagubbe.se/bestofbash/)
 
 ## Branching
 1. [Successful Git Branching](https://nvie.com/posts/a-successful-git-branching-model/)
