@@ -190,6 +190,7 @@ Software Gaming Development
 ---------------------------
 
 1. [ ] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
+1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
 1. [x] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 1. [x] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
