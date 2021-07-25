@@ -44,3 +44,6 @@
 1. [x] Shane
 1. [ ] The Shining
 1. [ ] Fahrenheit 451
+1. [ ] Reunion 1980
+1. [ ] The Walking Stick
+1. [ ] The Deer Hunter
