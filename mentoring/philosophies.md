@@ -87,3 +87,4 @@
 1. "Simplify, then add lightness" - Colin Chapman
 1. "(On writing something) Give me something to steal. (to share as my own with others.)" - A Friend
 1. "Management is prediction." - Edward Deming
+1. "Given enough eyeballs, all bugs are shallow (Linus's Law") - Eric Raymond
