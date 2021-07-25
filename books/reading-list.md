@@ -366,3 +366,8 @@ Negotiation
 
 1. [ ] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
 1. [ ] [Thank You For Arguing](https://www.amazon.com/Thank-Arguing-Fourth-Revised-Updated/dp/0593237382)
+
+Bird Watching
+-------------
+
+1. [ ] [The Big Year](https://www.amazon.com/Big-Year-Tale-Nature-Obsession/dp/0743245458)
