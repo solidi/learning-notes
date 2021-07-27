@@ -112,6 +112,8 @@
 
 ## Useful Tools
 
+1. [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
+
 ### Drawing Tools
 1. [draw.io](draw.io)
 1. [Websequencediagrams](https://www.websequencediagrams.com/)
