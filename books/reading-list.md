@@ -97,13 +97,15 @@ Product
 1. [x] [Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/039335606X)
 1. [x] [A/B Testing](https://www.amazon.com/Testing-Most-Powerful-Clicks-Customers/dp/1118792416)
 
-Dystopian
----------
+Dystopian / Science Fiction
+---------------------------
 
 1. [ ] [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0062696122)
 1. [ ] [1984](https://www.amazon.com/Nineteen-Eighty-Four-George-Orwell/dp/0679417397)
 1. [ ] [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 1. [ ] [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
+1. [ ] [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024)
+1. [x] [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202)
 1. [x] [Communion](https://www.amazon.com/Communion-Story-Whitley-Strieber-1988-02-01/dp/B01K3NUQDE)
 1. [x] [Flying Saucers and Science](https://www.amazon.com/Flying-Saucers-Science-Investigates-Interstellar/dp/1601630115)
 
@@ -248,7 +250,6 @@ DevOps
 1. [x] [DevOps For The Modern Enterprise](https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations/dp/1942788193)
 1. [x] [Continuous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 1. [x] [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
-1. [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 Discipline & Meta
 -----------------
