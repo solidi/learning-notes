@@ -321,6 +321,7 @@ F1 & Auto Racing / Engineering
 ------------------------------
 
 1. [ ] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
+1. [ ] [Niki Lauda: The Biography](https://www.amazon.com/Niki-Lauda/dp/1471192040)
 1. [ ] [Max Mosley Autobiography](https://www.amazon.com/Formula-One-Beyond-Autobiography-Mosley/dp/1471150194)
 1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
