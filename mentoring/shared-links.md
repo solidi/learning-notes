@@ -196,6 +196,7 @@
 1. [roadmap.sh](https://roadmap.sh/)
 1. [All My Career Rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
 1. [Dropbox Career Framework](https://dropbox.github.io/dbx-career-framework/)
+1. [Career Advice](https://lethain.com/career-advice/)
 
 ## Programming Philosophy
 1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
