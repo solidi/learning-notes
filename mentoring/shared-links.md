@@ -67,6 +67,7 @@
 1. [Semantic Versioning 2.0.0](https://semver.org/)
 1. [Calendar Versioning](http://calver.org/)
 1. [Sentimental Versioning](http://sentimentalversioning.org/)
+1. [ZeroVer](https://0ver.org/)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
