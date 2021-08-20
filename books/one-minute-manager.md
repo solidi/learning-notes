@@ -1,7 +1,7 @@
 # One Minute Manager
 ## Author: Ken Blanchard
  
-## General Themes
+## General Quotes
 - These days effective leadership is more of a side-by-side relationship.
 - In these changing times, he thought, the most effective managers manage themselves and the people they work with so that both the people and the organization profit from their presence.
 - Once a week meeting: At those meetings I listen as our group reviews and analyzes what they achieved the previous week, the problems they had, what remains to be accomplished, and their plans and strategies to get those things done.
@@ -23,3 +23,7 @@
 - When a person has learned something and has shown they can do it, but they have a won't do attitude, you need to look at the cost of the organization, and whether you can afford to keep such a person on the team.
 - Deep down, people like to work for themselves.
 - (Because of One Minute Manager) He now had time to think and plan, and to give his organization the kind of help it really needed.
+
+# Takeaways
+- Catch them doing something right.
+- People who feel good about themselves produce good results.
