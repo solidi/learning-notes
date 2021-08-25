@@ -310,6 +310,7 @@ Leadership
 Historical
 ----------
 
+1. [ ] [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810)
 1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [ ] [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
 1. [x] [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style)
@@ -322,7 +323,7 @@ F1 & Auto Racing / Engineering
 ------------------------------
 
 1. [ ] [Niki Lauda: The Biography](https://www.amazon.com/Niki-Lauda/dp/1471192040)
-1. [ ] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
+1. [x] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
 1. [ ] [Mario Andretti: World Champion](https://www.amazon.com/gp/product/0600394697)
 1. [ ] [Max Mosley Autobiography](https://www.amazon.com/Formula-One-Beyond-Autobiography-Mosley/dp/1471150194)
 1. [ ] [Eddie Irvine: The Luck of the Irish](https://www.amazon.com/gp/product/185260560X)
