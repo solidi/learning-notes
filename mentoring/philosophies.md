@@ -89,3 +89,4 @@
 1. "Management is prediction." - Edward Deming
 1. "Given enough eyeballs, all bugs are shallow (Linus's Law") - Eric Raymond
 1. "Leadership is nuance." - Unknown
+1. "Talent is a pursued interest. Anything that you're willing to practice, you can do." - Bob Ross
