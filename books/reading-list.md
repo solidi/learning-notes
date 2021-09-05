@@ -43,7 +43,7 @@ Team
 Management
 ----------
 
-1. [ ] [The Essential Deming](https://www.amazon.com/Essential-Deming-Leadership-Principles-Quality/dp/0071790225)
+1. [x] [The Essential Deming](https://www.amazon.com/Essential-Deming-Leadership-Principles-Quality/dp/0071790225)
 1. [ ] [Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 1. [ ] [No Rules Rules](https://www.norulesrules.com/)
 1. [ ] [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
@@ -218,6 +218,7 @@ Data Science
 Career
 ------
 
+1. [ ] [Staff Engineering](https://staffeng.com/book)
 1. [ ] [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 1. [ ] [The Happiness Advantage](https://www.amazon.com/gp/product/0307591549)
 1. [ ] [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer/dp/167287996)
