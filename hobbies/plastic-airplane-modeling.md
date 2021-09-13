@@ -9,3 +9,8 @@
 ## Principles
 
 1. Weathering is welcomed when modeling airplanes. It adds realism to the model, as no airplane is 100% clean.
+1. "Airbrushing is an art of brinkmanship."
+
+## Resources
+
+1. [Quick tip: Extend the shelf life of Tamiya paints](http://www.ipmsdayton.com/content/quick-tip-extend-shelf-life-tamiya-paints)
