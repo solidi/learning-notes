@@ -372,8 +372,9 @@ Amateur Radio
 Negotiation
 -----------
 
-1. [x] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
+1. [ ] [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
 1. [ ] [Thank You For Arguing](https://www.amazon.com/Thank-Arguing-Fourth-Revised-Updated/dp/0593237382)
+1. [x] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
 
 Bird Watching
 -------------
