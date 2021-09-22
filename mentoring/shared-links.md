@@ -198,6 +198,7 @@
 1. [All My Career Rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
 1. [Dropbox Career Framework](https://dropbox.github.io/dbx-career-framework/)
 1. [Career Advice](https://lethain.com/career-advice/)
+1. [Speaking.io](https://www.speaking.io)
 
 ## Programming Philosophy
 1. [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
