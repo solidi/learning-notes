@@ -222,3 +222,8 @@
 
 ## Programming Language
 1. [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+
+## General Dev
+1. [Hacker News](https://news.ycombinator.com/)
+1. [Lobste.rs](https://lobste.rs/)
+1. [DevUrls](https://devurls.com/)
