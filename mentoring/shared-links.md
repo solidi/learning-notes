@@ -92,6 +92,7 @@
 1. [Core Infrastructure Initiative](https://bestpractices.coreinfrastructure.org/en)
 
 ## Project Management
+1. [Always Multiply Your Estimates by π](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
 1. [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 1. [Why Projects Need Codenames](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
 1. [Icremental Migrations](https://addyosmani.com/blog/incremental-migrations/)
