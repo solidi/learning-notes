@@ -91,3 +91,4 @@
 1. "Leadership is nuance." - Unknown
 1. "Talent is a pursued interest. Anything that you're willing to practice, you can do." - Bob Ross
 1. "People need to be reminded more often than they need to be instructed." - Samuel Johnson
+1. "Wisdom is the skilled application of truth." - Unknown
