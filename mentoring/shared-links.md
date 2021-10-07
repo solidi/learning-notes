@@ -162,6 +162,7 @@
 
 ## Monitoring
 1. [The Four Golden Signals](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/)
+1. [My Logging Best Practices](https://tuhrig.de/my-logging-best-practices/)
 
 ## Interviewing
 1. [On whiteboard interviews](https://gist.github.com/lazywithclass/86644ea379d8de27979d2bd6c97421fd)
