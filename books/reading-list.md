@@ -135,7 +135,7 @@ Software
 1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
-1. [ ] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
+1. [x] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [ ] [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
 1. [x] [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
@@ -372,7 +372,7 @@ Amateur Radio
 Negotiation
 -----------
 
-1. [ ] [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
+1. [x] [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
 1. [ ] [Thank You For Arguing](https://www.amazon.com/Thank-Arguing-Fourth-Revised-Updated/dp/0593237382)
 1. [x] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
 
