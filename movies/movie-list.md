@@ -53,6 +53,6 @@
 1. [x] Lord of the Flies (1963)
 1. [x] Lord of the Flies (1990)
 1. [x] The Birds
-1. [ ] They Shoot Horses, Don't They?
+1. [x] They Shoot Horses, Don't They?
 1. [ ] Nightmare on Elm Street
 1. [ ] Halloween
