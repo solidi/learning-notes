@@ -146,6 +146,7 @@
 1. [What to write down when reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 
 ## Writing / Blogging
+1. [Riding the Writing Wave](https://perell.com/essay/writing/)
 1. [Always be journaling](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
 1. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
 1. [How to Write in Plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
