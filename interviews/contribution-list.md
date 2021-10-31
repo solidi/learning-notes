@@ -110,6 +110,8 @@ To spark memory of events to tell specific stories.
 - Successfully launched MVP of a career editing tool.
 - Reorganize teams and aligned them to new team charters.
 - Formed a plan and executed a migration plan of services from one infrastructure to another.
+- Cut over one legacy project to a new modern web page people profile page
+- Successfully decomissioned a cv service and infrastucture to a new modern one
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021
