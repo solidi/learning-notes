@@ -110,6 +110,7 @@ To spark memory of events to tell specific stories.
 - Successfully launched MVP of a career editing tool.
 - Reorganize teams and aligned them to new team charters.
 - Formed a plan and executed a migration plan of services from one infrastructure to another.
+- Increased test cover and installed RFC/design doc process with the team for all service building.
 - Cut over one legacy project to a new modern web page people profile page
 - Successfully decomissioned a cv service and infrastucture to a new modern one
 
