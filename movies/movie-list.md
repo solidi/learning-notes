@@ -56,3 +56,4 @@
 1. [x] They Shoot Horses, Don't They?
 1. [ ] Nightmare on Elm Street
 1. [ ] Halloween
+1. [ ] The Wizard
