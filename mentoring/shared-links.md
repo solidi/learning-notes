@@ -230,3 +230,6 @@
 1. [Hacker News](https://news.ycombinator.com/)
 1. [Lobste.rs](https://lobste.rs/)
 1. [DevUrls](https://devurls.com/)
+
+## Scripting
+1. [Do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
