@@ -193,6 +193,7 @@ Software Testing
 Software Gaming Development
 ---------------------------
 
+1. [ ] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
 1. [ ] [Games: Agency as Art](https://www.amazon.com/Games-Agency-As-Art-Thinking/dp/0190052082)
 1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
 1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
