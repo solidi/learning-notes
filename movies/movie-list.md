@@ -58,3 +58,4 @@
 1. [ ] Halloween
 1. [x] The Wizard
 1. [ ] Berlin Tunnel 21
+1. [ ] Cast a Giant Shadow
