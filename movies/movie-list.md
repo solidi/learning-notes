@@ -44,7 +44,7 @@
 1. [x] Shane
 1. [ ] The Shining
 1. [ ] Fahrenheit 451
-1. [ ] Reunion 1980
+1. [x] Reunion 1980
 1. [ ] The Walking Stick
 1. [ ] The Deer Hunter
 1. [ ] Miracle at St. Anna
@@ -56,4 +56,5 @@
 1. [x] They Shoot Horses, Don't They?
 1. [ ] Nightmare on Elm Street
 1. [ ] Halloween
-1. [ ] The Wizard
+1. [x] The Wizard
+1. [ ] Berlin Tunnel 21
