@@ -78,6 +78,7 @@ Skillset and Practice
 1. [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 1. [x] [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 1. [x] [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+1. [x] [The Evelyn Wood Seven-Day Speed Reading](https://www.amazon.com/Evelyn-Seven-Day-Reading-Learning-Program/dp/1566194024)
 
 Problem Solving
 ---------------
@@ -194,6 +195,7 @@ Software Gaming Development
 ---------------------------
 
 1. [ ] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
+1. [ ] [Game Design Patterns](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906)
 1. [ ] [Games: Agency as Art](https://www.amazon.com/Games-Agency-As-Art-Thinking/dp/0190052082)
 1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
 1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
@@ -220,7 +222,7 @@ Data Science
 Career
 ------
 
-1. [ ] [Staff Engineering](https://staffeng.com/book)
+1. [x] [Staff Engineering](https://staffeng.com/book)
 1. [ ] [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 1. [ ] [The Happiness Advantage](https://www.amazon.com/gp/product/0307591549)
 1. [ ] [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer/dp/167287996)
