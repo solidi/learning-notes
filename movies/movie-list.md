@@ -57,5 +57,6 @@
 1. [ ] Nightmare on Elm Street
 1. [ ] Halloween
 1. [x] The Wizard
-1. [ ] Berlin Tunnel 21
+1. [x] Berlin Tunnel 21
 1. [ ] Cast a Giant Shadow
+1. [ ] Pump Up the Volume
