@@ -43,10 +43,11 @@ Team
 Management
 ----------
 
-1. [x] [The Essential Deming](https://www.amazon.com/Essential-Deming-Leadership-Principles-Quality/dp/0071790225)
+1. [ ] [It's Your Ship](https://www.amazon.com/Its-Your-Ship-Management-Anniversary/dp/145552302X)
 1. [ ] [Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 1. [ ] [No Rules Rules](https://www.norulesrules.com/)
 1. [ ] [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
+1. [x] [The Essential Deming](https://www.amazon.com/Essential-Deming-Leadership-Principles-Quality/dp/0071790225)
 1. [x] [High Output Management](https://www.amazon.com/Output-Management-Andrew-Grove-1983-09-27/dp/B01NGZWYGV)
 1. [x] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 1. [x] [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
@@ -384,3 +385,8 @@ Bird Watching
 -------------
 
 1. [ ] [The Big Year](https://www.amazon.com/Big-Year-Tale-Nature-Obsession/dp/0743245458)
+
+Finance & Investment
+--------------------
+
+1. [x] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680178)
