@@ -20,6 +20,9 @@
     1. [ ] [Illusion of Gaia](https://en.wikipedia.org/wiki/Illusion_of_Gaia)
     1. [ ] [Terranigma](https://en.wikipedia.org/wiki/Terranigma)
 1. [ ] [Front Mission Gun Hazard](https://en.wikipedia.org/wiki/Front_Mission_Series:_Gun_Hazard)
+1. Dragon Quest
+    1. [ ] [Dragon Quest V](https://en.wikipedia.org/wiki/Dragon_Quest_V)
+    1. [ ] [Dragon Quest VI](https://en.wikipedia.org/wiki/Dragon_Quest_VI)
 
 ### Partial Plays I need to Complete
 
