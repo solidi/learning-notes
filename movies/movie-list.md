@@ -60,3 +60,9 @@
 1. [x] Berlin Tunnel 21
 1. [ ] Cast a Giant Shadow
 1. [ ] Pump Up the Volume
+1. [ ] A Hard Day's Night
+1. [ ] How I Won the War
+1. [ ] Help
+1. [ ] Magical Mystery Tour
+1. [ ] Yellow Submarine
+1. [ ] Let it Be
