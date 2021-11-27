@@ -390,3 +390,8 @@ Finance & Investment
 --------------------
 
 1. [x] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680178)
+
+Music & Technology
+------------------
+
+1. [ ] [Analog Days](https://www.amazon.com/Analog-Days-Invention-Impact-Synthesizer/dp/0674016173)
