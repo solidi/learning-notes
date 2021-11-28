@@ -15,6 +15,7 @@ Notes on the hobby and learnings.
 1. Before applying, experiment on a similar test mule to learn about the outcome.
 1. When applying too much force, stop. You are bound to break something.
 1. Details can come too obsessive. Give it time. Others will not see this mistake.
+1. Watch out for the "Rug Monster." It bites when pressure is applied to the spures!
 
 ## Laws
 
