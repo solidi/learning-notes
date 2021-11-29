@@ -95,7 +95,7 @@ To spark memory of events to tell specific stories.
 - Lead effort of numerous RCA's and improved cultue of response and learning.
 - Took training course on license to interviewing interviewees.
 - Set up interview loop with docs and team buy in on yes/no's.
-- Refined the teams  mission, and aligned on priorities and delivery.
+- Refined the teams mission, and aligned on priorities and delivery.
 - Successfully offered and hired three engineers in one week with onboarding.
 - Worked with remote team by migrating both API and UI to new managed infrastructured.
 - Successfully lead improved rotation schedule and system ownership of self care.
@@ -113,6 +113,7 @@ To spark memory of events to tell specific stories.
 - Increased test cover and installed RFC/design doc process with the team for all service building.
 - Cut over one legacy project to a new modern web page people profile page
 - Successfully decomissioned a cv service and infrastucture to a new modern one
+- Worked through company separation, protecting team from objectives that were out of scope.
 
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021
