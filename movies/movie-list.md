@@ -67,3 +67,7 @@
 1. [ ] Yellow Submarine
 1. [ ] Let it Be
 1. [x] Maximum Overdrive
+1. [ ] Death Race 2000
+1. [ ] Dark Crystal
+1. [ ] Spirited Away
+1. [ ] Fireflies
