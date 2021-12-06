@@ -307,6 +307,7 @@ Relationships
 Leadership
 ----------
 
+1. [ ] [The Effective Leadership](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/0062574345)
 1. [ ] [The Dichotomy Of Leadership](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership/dp/1250195772)
 1. [x] [Lead and Disrupt](https://www.amazon.com/Lead-Disrupt-Solve-Innovators-Dilemma/dp/0804798656)
 1. [x] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
