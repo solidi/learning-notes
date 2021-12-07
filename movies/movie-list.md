@@ -59,7 +59,7 @@
 1. [x] The Wizard
 1. [x] Berlin Tunnel 21
 1. [x] Cast a Giant Shadow
-1. [ ] Pump Up the Volume
+1. [x] Pump Up the Volume
 1. [ ] A Hard Day's Night
 1. [ ] How I Won the War
 1. [ ] Help
