@@ -70,4 +70,8 @@
 1. [ ] Death Race 2000
 1. [ ] Dark Crystal
 1. [ ] Spirited Away
-1. [ ] Fireflies
+1. [x] Fireflies
+1. [x] Colossus: The Forbin Project
+1. [ ] Soylent Green
+1. [ ] The Andromeda Strain
+1. [ ] Silent Running
