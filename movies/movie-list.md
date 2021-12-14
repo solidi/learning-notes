@@ -74,4 +74,5 @@
 1. [x] Colossus: The Forbin Project
 1. [ ] Soylent Green
 1. [ ] The Andromeda Strain
-1. [ ] Silent Running
+1. [x] Silent Running
+1. [ ] Brainstorm
