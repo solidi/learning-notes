@@ -93,3 +93,4 @@
 1. "People need to be reminded more often than they need to be instructed." - Samuel Johnson
 1. "Wisdom is the skilled application of truth." - Unknown
 1. "Show me your habits and I'll show you your future." - Mark Batterson
+1. "It doesn't need to be perfect to be wonderful." - Unknown
