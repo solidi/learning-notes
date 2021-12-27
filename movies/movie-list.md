@@ -76,3 +76,4 @@
 1. [ ] The Andromeda Strain
 1. [x] Silent Running
 1. [ ] Brainstorm
+1. [x] The Experts
