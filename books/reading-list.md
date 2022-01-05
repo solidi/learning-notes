@@ -136,11 +136,12 @@ Open Source / Culture
 Software
 --------
 
+1. [ ] [The Best Software Writing I](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
 1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
-1. [x] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [ ] [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+1. [x] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [x] [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
 1. [x] [Pragmatic Programmer 20th Annviersary](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
