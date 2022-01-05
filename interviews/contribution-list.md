@@ -99,6 +99,8 @@ To spark memory of events to tell specific stories.
 - Successfully offered and hired three engineers in one week with onboarding.
 - Worked with remote team by migrating both API and UI to new managed infrastructured.
 - Successfully lead improved rotation schedule and system ownership of self care.
+
+## 2021
 - Recognized equity and worked with peers to adjust.
 - Worked to develop simple request tests and test framework for the team.
 - Launched numerous services to new infrastructure.
