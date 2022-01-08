@@ -72,7 +72,7 @@
 1. [ ] Spirited Away
 1. [x] Fireflies
 1. [x] Colossus: The Forbin Project
-1. [ ] Soylent Green
+1. [x] Soylent Green
 1. [ ] The Andromeda Strain
 1. [x] Silent Running
 1. [x] Brainstorm
