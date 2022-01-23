@@ -14,6 +14,7 @@
 1. [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 1. [SLAP Principle](https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994)
 1. [Optimize for Simplicity First](https://qvault.io/2020/08/15/optimize-for-simplicity-first/)
+1. [Great Hackers](http://www.paulgraham.com/gh.html)
 
 ## Time Management
 1. [Benjamin Franklin's Schedule](https://thefocuscourse.com/franklin-schedule/)
@@ -113,7 +114,6 @@
 1. [Python](https://gto76.github.io/python-cheatsheet/)
 
 ## Useful Tools
-
 1. [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
 
 ### Drawing Tools
