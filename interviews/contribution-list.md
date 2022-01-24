@@ -117,6 +117,9 @@ To spark memory of events to tell specific stories.
 - Successfully decomissioned a cv service and infrastucture to a new modern one
 - Worked through company separation, protecting team from objectives that were out of scope.
 
+# 2022
+- Shut down a large deprecated brand/website.
+
 ## Transitions and Eras
 Transitions: 2005, 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021
 Eras: 2006-2009, 2011-2013, 2015-2018
