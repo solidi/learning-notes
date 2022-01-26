@@ -233,3 +233,6 @@
 
 ## Scripting
 1. [Do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+
+## Microservices
+1. [https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51)
