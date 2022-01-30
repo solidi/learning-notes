@@ -13,7 +13,6 @@
 1. Breath of Fire
     1. [ ] [Breath of Fire](https://en.wikipedia.org/wiki/Breath_of_Fire_(video_game))
     1. [ ] [Breath of Fire II](https://en.wikipedia.org/wiki/Breath_of_Fire_II)
-1. [ ] [Secret of Evermore](https://en.wikipedia.org/wiki/Secret_of_Evermore)
 1. [ ] [EarthBound](https://en.wikipedia.org/wiki/EarthBound)
 1. Quintet Triology
     1. [ ] [Soul Blazer](https://en.wikipedia.org/wiki/Soul_Blazer)
@@ -26,9 +25,12 @@
 
 ### Partial Plays I need to Complete
 
-1. [ ] [Super Mario RPG: Legend of the Seven Stars](https://en.wikipedia.org/wiki/Super_Mario_RPG)
 1. [ ] [Lufia II: Rise of the Sinistrals](https://en.wikipedia.org/wiki/Lufia_II:_Rise_of_the_Sinistrals)
+1. [ ] [Super Mario RPG: Legend of the Seven Stars](https://en.wikipedia.org/wiki/Super_Mario_RPG)
+1. [ ] [Secret of Evermore](https://en.wikipedia.org/wiki/Secret_of_Evermore)
 
 ## Interest
 
+1. [ ] [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
 1. [ ] [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
+1. [ ] [Shadowrun](https://en.wikipedia.org/wiki/Shadowrun_(1993_video_game))
