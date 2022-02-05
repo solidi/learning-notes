@@ -29,6 +29,12 @@
 1. [ ] [Super Mario RPG: Legend of the Seven Stars](https://en.wikipedia.org/wiki/Super_Mario_RPG)
 1. [ ] [Secret of Evermore](https://en.wikipedia.org/wiki/Secret_of_Evermore)
 
+## NES J/RPG Games
+
+1. [ ] [Crystalis](https://en.wikipedia.org/wiki/Crystalis)
+1. [ ] [StarTropics](https://en.wikipedia.org/wiki/StarTropics)
+1. [ ] [Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)
+
 ## Interest
 
 1. [ ] [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
