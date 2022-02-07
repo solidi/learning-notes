@@ -5,7 +5,7 @@
 ### I Should Play
 
 1. Mana
-    1. [ ] [Trials of Mana/Secret of Mana 2](https://en.wikipedia.org/wiki/Trials_of_Mana)
+    1. [x] [Trials of Mana/Secret of Mana 2](https://en.wikipedia.org/wiki/Trials_of_Mana)
     1. [ ] [FF Adventure](https://en.wikipedia.org/wiki/Final_Fantasy_Adventure)
 1. FF
     1. [ ] [Mystic Quest](https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest)
