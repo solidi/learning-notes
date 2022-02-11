@@ -321,9 +321,9 @@ Leadership
 Historical
 ----------
 
-1. [ ] [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810)
 1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [ ] [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
+1. [x] [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810)
 1. [x] [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style)
 1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
 1. [x] [IBM: The Rise and Fall and Reinvention](https://www.amazon.com/IBM-Reinvention-Global-History-Computing/dp/0262039443)
