@@ -136,6 +136,7 @@ Open Source / Culture
 Software
 --------
 
+1. [ ] [Modern Software Engineering](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 1. [ ] [The Best Software Writing I](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
 1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
