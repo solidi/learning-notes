@@ -34,6 +34,7 @@
 1. [ ] [Crystalis](https://en.wikipedia.org/wiki/Crystalis)
 1. [ ] [StarTropics](https://en.wikipedia.org/wiki/StarTropics)
 1. [ ] [Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)
+1. [ ] [Faxanadu](https://en.wikipedia.org/wiki/Faxanadu)
 
 ## Interest
 
