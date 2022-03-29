@@ -213,6 +213,7 @@ Software Gaming Development
 Economics
 ---------
 
+1. [ ] [Debt](https://www.amazon.com/Debt-Tenth-Anniversary-First-Years/dp/161219933X/)
 1. [ ] [Freakonomics](https://www.amazon.com/gp/product/0061234001)
 1. [ ] [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776)
 1. [x] [Crossing The Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
