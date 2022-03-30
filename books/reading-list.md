@@ -199,13 +199,9 @@ Software Testing
 Software Gaming Development
 ---------------------------
 
-1. [ ] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
 1. [ ] [Game Design Patterns](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906)
 1. [ ] [Games: Agency as Art](https://www.amazon.com/Games-Agency-As-Art-Thinking/dp/0190052082)
-1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
-1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
 1. [ ] [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/)
-1. [x] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 1. [x] [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](https://fabiensanglard.net/gebbwolf3d/index.html)
 1. [x] [Doom Game Engine Black Book](https://fabiensanglard.net/gebbdoom/)
 1. [x] [Masters of Doom](https://en.wikipedia.org/wiki/Masters_of_Doom)
@@ -401,3 +397,14 @@ Music & Technology
 ------------------
 
 1. [ ] [Analog Days](https://www.amazon.com/Analog-Days-Invention-Impact-Synthesizer/dp/0674016173)
+
+Video Games
+-----------
+
+1. [ ] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
+1. [ ] [NES Endings Compendium](https://www.amazon.com/NES-Endings-Compendium-Years-1985/dp/B0957DPZKF)
+1. [ ] [The Game Console 2.0](https://www.amazon.com/Game-Console-2-0-Photographic-History/dp/1718500602/)
+1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
+1. [ ] [NES/SNES Omnibus Series](https://www.amazon.com/NES-Omnibus-Nintendo-Entertainment-L/dp/076436068X/)
+1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
+1. [x] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
