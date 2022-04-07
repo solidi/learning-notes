@@ -182,6 +182,7 @@
 
 ## Managing Up
 1. [Brag Document](https://jvns.ca/blog/brag-documents/)
+1. [10 mind hacks to use with Gen X (Managers)](https://twitter.com/girdley/status/1511316479106453511)
 
 ## Rewrites
 1. [On Rewriting Software](https://www.mcls.io/blog/before-embarking-on-a-rewrite)
