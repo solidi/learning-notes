@@ -96,3 +96,4 @@
 1. "It doesn't need to be perfect to be wonderful." - Unknown
 1. "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk." - John von Neumann
 1. "All software is incorrect given a large enough time frame." - [kache_](https://news.ycombinator.com/item?id=30258133)
+1. "We first make our habits, and then our habits make us." - John Dryden
