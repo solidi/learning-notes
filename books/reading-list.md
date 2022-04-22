@@ -401,10 +401,10 @@ Music & Technology
 Video Games
 -----------
 
-1. [ ] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
 1. [ ] [NES Endings Compendium](https://www.amazon.com/NES-Endings-Compendium-Years-1985/dp/B0957DPZKF)
 1. [ ] [The Game Console 2.0](https://www.amazon.com/Game-Console-2-0-Photographic-History/dp/1718500602/)
 1. [ ] [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367)
 1. [ ] [NES/SNES Omnibus Series](https://www.amazon.com/NES-Omnibus-Nintendo-Entertainment-L/dp/076436068X/)
 1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
 1. [x] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
+1. [x] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
