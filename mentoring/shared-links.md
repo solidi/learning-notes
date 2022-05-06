@@ -192,6 +192,7 @@
 ## Code Review
 1. [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 1. [Deepcode.ai](https://www.deepcode.ai/)
+1. [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
 ## Design / UX
 1. [Laws of UX](https://lawsofux.com/)
