@@ -41,3 +41,8 @@
 1. [ ] [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
 1. [ ] [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
 1. [ ] [Shadowrun](https://en.wikipedia.org/wiki/Shadowrun_(1993_video_game))
+
+
+## Resources
+
+1. [HowLongToBeat](https://howlongtobeat.com/)
