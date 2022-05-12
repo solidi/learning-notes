@@ -139,6 +139,7 @@
 1. [crontab guru](https://crontab.guru/)
 1. [licecap](https://www.cockos.com/licecap/)
 1. [gitmoji](https://gitmoji.dev/)
+1. [Diffchecker](https://www.diffchecker.com/)
 
 ## Reading
 1. [How I Read](https://robertheaton.com/2018/06/25/how-to-read/)
