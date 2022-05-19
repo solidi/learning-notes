@@ -78,3 +78,7 @@
 1. [x] Brainstorm
 1. [x] The Experts
 1. [x] All the Presidents Men
+1. [x] Flight of the Intruder
+1. [x] Rambo
+1. [ ] Rambo II
+1. [ ] Bat*21
