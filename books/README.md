@@ -408,3 +408,7 @@ Video Games
 1. [x] [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
 1. [x] [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 1. [x] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
+
+Mental Health
+
+1. [ ] [Stop Overthinking](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG)
