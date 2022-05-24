@@ -85,8 +85,8 @@
 
 ## Star Trek “Original Series” Movies in Order
 
-1. [ ] Star Trek: The Motion Picture (1979)
-1. [ ] Star Trek II: The Wrath of Khan (1982)
+1. [x] Star Trek: The Motion Picture (1979)
+1. [x] Star Trek II: The Wrath of Khan (1982)
 1. [ ] Star Trek III: The Search for Spock (1984)
 1. [ ] Star Trek IV: The Voyage Home (1986)
 1. [ ] Star Trek V: The Final Frontier (1989)
