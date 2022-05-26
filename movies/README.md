@@ -79,9 +79,16 @@
 1. [x] The Experts
 1. [x] All the Presidents Men
 1. [x] Flight of the Intruder
-1. [x] Rambo
-1. [ ] Rambo II
 1. [ ] Bat*21
+1. [ ] The Eagle Has Landed
+
+## Rambo Series
+
+1. [x] Rambo
+1. [x] Rambo II
+1. [ ] Rambo III
+1. [ ] Rambo
+1. [ ] Rambo: Last Blood
 
 ## Star Trek “Original Series” Movies in Order
 
