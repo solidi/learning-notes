@@ -81,6 +81,7 @@
 1. [x] Flight of the Intruder
 1. [ ] Bat*21
 1. [ ] The Eagle Has Landed
+1. [ ] Heros of Telemark
 
 ## Rambo Series
 
@@ -94,8 +95,8 @@
 
 1. [x] Star Trek: The Motion Picture (1979)
 1. [x] Star Trek II: The Wrath of Khan (1982)
-1. [ ] Star Trek III: The Search for Spock (1984)
-1. [ ] Star Trek IV: The Voyage Home (1986)
+1. [x] Star Trek III: The Search for Spock (1984)
+1. [x] Star Trek IV: The Voyage Home (1986)
 1. [ ] Star Trek V: The Final Frontier (1989)
 1. [ ] Star Trek VI: The Undiscovered Country (1991)
 
