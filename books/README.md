@@ -331,21 +331,21 @@ Historical
 F1 & Auto Racing / Engineering
 ------------------------------
 
-1. [ ] [Niki Lauda: The Biography](https://www.amazon.com/Niki-Lauda/dp/1471192040)
-1. [x] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
+1. [ ] [The Life of Senna](https://www.amazon.com/Life-Senna-Tom-Rubython/dp/0990619966)
 1. [ ] [Mario Andretti: World Champion](https://www.amazon.com/gp/product/0600394697)
 1. [ ] [Max Mosley Autobiography](https://www.amazon.com/Formula-One-Beyond-Autobiography-Mosley/dp/1471150194)
 1. [ ] [Eddie Irvine: The Luck of the Irish](https://www.amazon.com/gp/product/185260560X)
-1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
-1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
-1. [x] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
 1. [ ] [The Mechanic: The Secret World of the F1 Pitlane](https://www.amazon.com/gp/product/178729000X)
 1. [ ] [Formula 1: Car by Car 1970-79: Formula 1: Car by Car](https://www.amazon.com/gp/product/1910505226)
-1. [x] [Total Competition](https://www.amazon.com/gp/product/1471162354)
 1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
 1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
 1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
-1. [ ] [The Life of Senna](https://www.amazon.com/Life-Senna-Tom-Rubython/dp/0990619966)
+1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
+1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
+1. [x] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
+1. [x] [Total Competition](https://www.amazon.com/gp/product/1471162354)
+1. [x] [Niki Lauda: The Biography](https://www.amazon.com/Niki-Lauda/dp/1471192040)
+1. [x] [Mr. Le Mans](https://www.amazon.com/Mr-Mans-Tom-Kristensen/dp/8797260304)
 1. [x] [Formula 1: Car by Car 1980-89: Formula 1: Car by Car](https://www.evropublishing.com/products/formula-1-car-by-car-1980-89)
 1. [x] [MP4/4](https://haynes.com/en-gb/mclaren-mp44-owners-workshop-manual)
 1. [x] [Lotus 78](https://haynes.com/en-gb/lotus-79-owners-workshop-manual)
@@ -411,4 +411,4 @@ Video Games
 
 Mental Health
 
-1. [ ] [Stop Overthinking](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG)
+1. [x] [Stop Overthinking](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG)
