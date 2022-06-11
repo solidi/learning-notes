@@ -69,6 +69,7 @@
 1. [Calendar Versioning](http://calver.org/)
 1. [Sentimental Versioning](http://sentimentalversioning.org/)
 1. [ZeroVer](https://0ver.org/)
+1. [gitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
