@@ -299,6 +299,7 @@ Motorcycling
 Relationships
 -------------
 
+1. [x] [Experiences in Groups: And Other Papers](https://www.amazon.com/Experiences-Groups-Papers-W-R-Bion/dp/0415040205)
 1. [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
 1. [x] [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 1. [x] [Give and Take](https://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986)
