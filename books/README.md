@@ -118,11 +118,11 @@ Dystopian / Science Fiction
 AI and Ethics
 -------------
 
-1. [ ] [AI: The Very Idea](https://www.amazon.com/Artificial-intelligence-very-John-Haugeland-dp-0262081539/dp/0262081539)
 1. [ ] [Fluid Concepts And Creative Analogies: Computer Models Of The Fundamental Mechanisms Of Thought](https://www.amazon.com/gp/product/0465051545)
 1. [ ] [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
 1. [ ] [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043)
 1. [ ] [The Singularity Is Near](https://www.amazon.com/gp/product/0670033847)
+1. [x] [AI: The Very Idea](https://www.amazon.com/Artificial-intelligence-very-John-Haugeland-dp-0262081539/dp/0262081539)
 1. [x] [Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence)
 
 Open Source / Culture
@@ -140,11 +140,11 @@ Software
 --------
 
 1. [ ] [Modern Software Engineering](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
-1. [ ] [The Best Software Writing I](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
 1. [ ] [Guide to the Software Engineering Body of Knowledge](https://www.amazon.com/gp/product/0769551661)
 1. [ ] [Site Reliability Engineering: How Google Runs Production Services](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 1. [ ] [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295)
 1. [ ] [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+1. [x] [The Best Software Writing I](https://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
 1. [x] [Design and Build Great Web APIs](https://pragprog.com/titles/maapis/design-and-build-great-web-apis/)
 1. [x] [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 1. [x] [Designing Web APIs](https://www.amazon.com/Designing-Web-APIs-Building-Developers/dp/1492026921)
@@ -221,16 +221,16 @@ Data Science
 ------------
 
 1. [ ] [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130)
-1. [ ] [Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+1. [x] [Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 1. [x] [Ambient Findability](https://www.amazon.com/Ambient-Findability-What-Changes-Become/dp/0596007655)
 
 Career
 ------
 
-1. [x] [Staff Engineering](https://staffeng.com/book)
 1. [ ] [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 1. [ ] [The Happiness Advantage](https://www.amazon.com/gp/product/0307591549)
 1. [ ] [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer/dp/167287996)
+1. [x] [Staff Engineering](https://staffeng.com/book)
 
 Architecture & Design
 ---------------------
@@ -281,8 +281,8 @@ Education
 Business
 --------
 
-1. [x] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 1. [ ] [In Search of Excellence](https://www.amazon.com/Search-Excellence-Americas-Best-Run-Companies/dp/0060150424)
+1. [x] [Build to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 1. [x] [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 1. [x] [Dinosaur Brains](https://www.amazon.com/Dinosaur-Brains-Dealing-Impossible-People/dp/047161808X)
 1. [x] [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
@@ -383,8 +383,8 @@ Amateur Radio
 Negotiation
 -----------
 
-1. [x] [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
 1. [ ] [Thank You For Arguing](https://www.amazon.com/Thank-Arguing-Fourth-Revised-Updated/dp/0593237382)
+1. [x] [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
 1. [x] [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0395631246)
 
 Bird Watching
@@ -415,5 +415,6 @@ Video Games
 1. [x] [Console Wars](https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/0062276700)
 
 Mental Health
+-------------
 
 1. [x] [Stop Overthinking](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG)
