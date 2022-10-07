@@ -75,6 +75,7 @@
 1. [ChronVer](https://chronver.org/)
 1. [pedantic-versioning](https://mikeralphson.github.io/pedantic-versioning/)
 1. [HyVer](https://github.com/kstenerud/hyver)
+1. [Semancat](https://avatao.com/blog-semancat-versioning/)
 1. [The cargo cult of versioning](http://akkartik.name/post/versioning)
 
 ## Bash
