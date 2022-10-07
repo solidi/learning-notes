@@ -73,6 +73,7 @@
 1. [Romantic Versioning](https://github.com/romversioning/romver)
 1. [WendtVer](https://wendtver.org/)
 1. [ChronVer](https://chronver.org/)
+1. [pedantic-versioning](https://mikeralphson.github.io/pedantic-versioning/)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
