@@ -83,6 +83,9 @@
 1. [SimVer](https://simver.org/)
 1. [comVer](https://gitlab.com/staltz/comver)
 1. [SetVer](https://github.com/RocketRace/setver)
+1. [BreakVer](https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md)
+1. [HashVer](https://miniscruff.github.io/hashver/)
+1. [MakeVer](https://github.com/orlandol/makever)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
