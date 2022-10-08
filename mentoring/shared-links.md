@@ -81,6 +81,7 @@
 1. [Constrained Semantic Versioning](https://csemver.org/)
 1. [#versioning-schemes](https://dephell.readthedocs.io/cmd-project-bump.html#versioning-schemes)
 1. [SimVer](https://simver.org/)
+1. [comVer](https://gitlab.com/staltz/comver)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
