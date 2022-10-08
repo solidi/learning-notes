@@ -77,6 +77,7 @@
 1. [HyVer](https://github.com/kstenerud/hyver)
 1. [Semancat](https://avatao.com/blog-semancat-versioning/)
 1. [The cargo cult of versioning](http://akkartik.name/post/versioning)
+1. [Fibonacci Versioning](https://github.com/kkokosa/fibver)
 1. [#versioning-schemes](https://dephell.readthedocs.io/cmd-project-bump.html#versioning-schemes)
 
 ## Bash
