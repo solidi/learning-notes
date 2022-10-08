@@ -78,6 +78,7 @@
 1. [Semancat](https://avatao.com/blog-semancat-versioning/)
 1. [The cargo cult of versioning](http://akkartik.name/post/versioning)
 1. [Fibonacci Versioning](https://github.com/kkokosa/fibver)
+1. [Constrained Semantic Versioning](https://csemver.org/)
 1. [#versioning-schemes](https://dephell.readthedocs.io/cmd-project-bump.html#versioning-schemes)
 
 ## Bash
