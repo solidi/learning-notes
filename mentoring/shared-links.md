@@ -86,6 +86,7 @@
 1. [BreakVer](https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md)
 1. [HashVer](https://miniscruff.github.io/hashver/)
 1. [MakeVer](https://github.com/orlandol/makever)
+1. [CMSVer](https://github.com/ms-studio/CMSver)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
