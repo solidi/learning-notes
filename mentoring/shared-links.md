@@ -262,3 +262,7 @@
 
 ## Machine Learning
 1. [MLU-EXPLAIN](https://mlu-explain.github.io/)
+
+## Problem Solving
+1. [What "Work" Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+1. [Shower thoughts explained](https://studyfinds.org/shower-thoughts-great-ideas/)
