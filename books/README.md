@@ -5,6 +5,7 @@ Books that are read or on my reading list. [This post by Abi Noda](http://abinod
 Culture
 -------
 
+1. [ ] [Bowling Alone](https://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/1982130849/)
 1. [ ] [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-Possibility-published/dp/B00E6TF1GY)
 1. [ ] [Technologies and Society](https://www.amazon.com/Technologies-Society-Shaping-People-Things/dp/0534136443)
 1. [x] [The Culture Map](https://www.amazon.com/gp/product/1610392507)
@@ -128,6 +129,7 @@ AI and Ethics
 Open Source / Culture
 ---------------------
 
+1. [ ] [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/)
 1. [ ] [Computer Lib](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
 1. [x] [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/0385191952)
@@ -395,6 +397,7 @@ Bird Watching
 Finance & Investment
 --------------------
 
+1. [ ] [Captialism and Freedom](https://www.amazon.com/Capitalism-Freedom-Milton-Friedman/dp/0226264009/)
 1. [x] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680178)
 
 Music & Technology
