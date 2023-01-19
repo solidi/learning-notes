@@ -337,7 +337,6 @@ Historical
 F1 & Auto Racing / Engineering
 ------------------------------
 
-1. [ ] [The Life of Senna](https://www.amazon.com/Life-Senna-Tom-Rubython/dp/0990619966)
 1. [ ] [Mario Andretti: World Champion](https://www.amazon.com/gp/product/0600394697)
 1. [ ] [Max Mosley Autobiography](https://www.amazon.com/Formula-One-Beyond-Autobiography-Mosley/dp/1471150194)
 1. [ ] [Eddie Irvine: The Luck of the Irish](https://www.amazon.com/gp/product/185260560X)
@@ -346,6 +345,7 @@ F1 & Auto Racing / Engineering
 1. [ ] [Jaguar XJR-9 (Owners' Workshop Manual)](https://www.amazon.com/Jaguar-XJR-9-Owners-Workshop-Manual/dp/1785211137)
 1. [ ] [Nigel Mansell: My Autobiography](https://www.amazon.com/gp/product/B012HTGUZK/)
 1. [ ] [Williams FW14B Manual: 1992](https://www.amazon.com/gp/product/0857338250/)
+1. [x] [The Life of Senna](https://www.amazon.com/Life-Senna-Tom-Rubython/dp/0990619966)
 1. [x] [27: Patrick Tambay The Ferrari Years](https://www.amazon.com/Patrick-Tambay-Ferrari-Massimo-Burbi/dp/1910505129)
 1. [x] [Porsche 956 & 962 Owners' Workshop Manual](https://www.amazon.com/gp/product/0857337963)
 1. [x] [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000835247X)
