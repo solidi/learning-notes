@@ -403,7 +403,7 @@ Finance & Investment
 Music & Technology
 ------------------
 
-1. [ ] [Analog Days](https://www.amazon.com/Analog-Days-Invention-Impact-Synthesizer/dp/0674016173)
+1. [x] [Analog Days](https://www.amazon.com/Analog-Days-Invention-Impact-Synthesizer/dp/0674016173)
 1. [ ] [Switched On: Bob Moog and the Synthesizer Revolution](https://www.amazon.com/Switched-Bob-Moog-Synthesizer-Revolution/dp/0197642071)
 
 Video Games
