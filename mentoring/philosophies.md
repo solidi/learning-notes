@@ -98,3 +98,4 @@
 1. "All software is incorrect given a large enough time frame." - [kache_](https://news.ycombinator.com/item?id=30258133)
 1. "We first make our habits, and then our habits make us." - John Dryden
 1. "(Kirk: How will they respond under real pressure?) As with all living things, each according to his gifts." - Spock (Star Trek II)
+1. "If the day-to-day isn't fun, it'll never get done." - [youssefabdelm](https://news.ycombinator.com/reply?id=34692843&goto=item%3Fid%3D34692137%2334692843)
