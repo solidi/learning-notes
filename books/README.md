@@ -129,9 +129,9 @@ AI and Ethics
 Open Source / Culture
 ---------------------
 
-1. [ ] [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/)
 1. [ ] [Computer Lib](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines)
 1. [ ] [IP and Open Source](https://www.amazon.com/gp/product/0596517963)
+1. [x] [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/)
 1. [x] [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/0385191952)
 1. [x] [The Software Arts](https://www.amazon.com/Software-Arts-Studies/dp/0262039702)
 1. [x] [Working in Public](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
