@@ -422,3 +422,8 @@ Mental Health
 -------------
 
 1. [x] [Stop Overthinking](https://www.amazon.com/Stop-Overthinking-Techniques-Declutter-Emotional/dp/B08XLLF3PG)
+
+Creativity
+----------
+
+1. [ ] [The Courage To Create](https://www.amazon.com/Courage-Create-Rollo-May/dp/0393311066/)
