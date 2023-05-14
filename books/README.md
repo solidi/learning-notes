@@ -431,9 +431,11 @@ Creativity
 Toy Industry
 ------------
 
-1. [x] [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470371269)
+1. [ ] [A Game Makers Life](https://www.amazon.com/Game-Makers-Life-Inventor-Executive/dp/1637584377)
+1. [ ] [Inside Marvin Glass's Toy Vault](https://www.amazon.com/World-Without-Reality-Inside-Marvin/dp/0578405261/)
 1. [ ] [Kid Number One: Alan Hassenfeld and Hasbro](https://www.amazon.com/gp/product/1950339203/)
 1. [ ] [Dream Doll: The Ruth Handler Story](https://www.amazon.com/Dream-Doll-Ruth-Handler-Story/dp/068100763X/)
+1. [x] [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470371269)
 
 Donated
 -------
