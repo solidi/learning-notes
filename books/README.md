@@ -431,6 +431,6 @@ Creativity
 Toy Industry
 ------------
 
-1. [ ] [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470371269)
+1. [x] [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470371269)
 1. [ ] [Kid Number One: Alan Hassenfeld and Hasbro](https://www.amazon.com/gp/product/1950339203/)
 1. [ ] [Dream Doll: The Ruth Handler Story](https://www.amazon.com/Dream-Doll-Ruth-Handler-Story/dp/068100763X/)
