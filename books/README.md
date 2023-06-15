@@ -431,10 +431,14 @@ Creativity
 Toy Industry
 ------------
 
-1. [ ] [A Game Makers Life](https://www.amazon.com/Game-Makers-Life-Inventor-Executive/dp/1637584377)
-1. [ ] [Inside Marvin Glass's Toy Vault](https://www.amazon.com/World-Without-Reality-Inside-Marvin/dp/0578405261/)
+1. [ ] [Toyland: The High-Stakes Game of the Toy Industry ](https://www.amazon.com/dp/0809245205/)
 1. [ ] [Kid Number One: Alan Hassenfeld and Hasbro](https://www.amazon.com/gp/product/1950339203/)
+1. [ ] [Toy Wars!](https://www.amazon.com/Toy-Wars-Struggle-Between-Companies/dp/0812929845)
+1. [ ] [Barbie Talks!](https://www.amazon.com/Barbie%C2%AE-Talks-Unauthorized-Expos%C3%A9-Talking/dp/059513341X)
+1. [ ] [Inside Marvin Glass's Toy Vault](https://www.amazon.com/World-Without-Reality-Inside-Marvin/dp/0578405261/)
 1. [ ] [Dream Doll: The Ruth Handler Story](https://www.amazon.com/Dream-Doll-Ruth-Handler-Story/dp/068100763X/)
+1. [x] [Real Toy Story](https://www.amazon.com/Real-Toy-Story-Ruthless-Consumers/dp/0743247655)
+1. [x] [A Game Makers Life](https://www.amazon.com/Game-Makers-Life-Inventor-Executive/dp/1637584377)
 1. [x] [Toy Monster](https://www.amazon.com/Toy-Monster-Big-World-Mattel/dp/0470371269)
 
 Donated
