@@ -325,6 +325,7 @@ Leadership
 Historical
 ----------
 
+1. [ ] [Skunk Works](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743305)
 1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [ ] [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
 1. [x] [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810)
