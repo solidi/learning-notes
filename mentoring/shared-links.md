@@ -90,6 +90,7 @@
 1. [HashVer](https://miniscruff.github.io/hashver/)
 1. [MakeVer](https://github.com/orlandol/makever)
 1. [CMSVer](https://github.com/ms-studio/CMSver)
+1. [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 
 ## Bash
 1. [Defensive Bash Programming](http://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
