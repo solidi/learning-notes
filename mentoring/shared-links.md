@@ -271,3 +271,6 @@
 ## Problem Solving
 1. [What "Work" Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 1. [Shower thoughts explained](https://studyfinds.org/shower-thoughts-great-ideas/)
+
+## Feature Flags
+1. [It's OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
