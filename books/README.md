@@ -107,10 +107,10 @@ Dystopian / Science Fiction
 1. [ ] [Snowcrash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958)
 1. [ ] [Lord of the Flies](https://www.amazon.com/Lord-Flies-William-Golding/dp/0812416112)
 1. [ ] [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0062696122)
-1. [ ] [1984](https://www.amazon.com/Nineteen-Eighty-Four-George-Orwell/dp/0679417397)
 1. [ ] [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X)
 1. [ ] [Parable of the Sower: A Novel](https://www.amazon.com/gp/product/1609807197)
 1. [ ] [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024)
+1. [x] [1984](https://www.amazon.com/Nineteen-Eighty-Four-George-Orwell/dp/0679417397)
 1. [x] [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595)
 1. [x] [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202)
 1. [x] [Communion](https://www.amazon.com/Communion-Story-Whitley-Strieber-1988-02-01/dp/B01K3NUQDE)
@@ -325,9 +325,9 @@ Leadership
 Historical
 ----------
 
-1. [ ] [Skunk Works](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743305)
-1. [ ] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [ ] [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
+1. [x] [Skunk Works](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743305)
+1. [x] [How the Internet Happened: From Netscape to the iPhone](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
 1. [x] [Androids](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810)
 1. [x] [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style)
 1. [x] [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
@@ -432,11 +432,11 @@ Creativity
 Toy Industry
 ------------
 
-1. [ ] [Toy Wars!](https://www.amazon.com/Toy-Wars-Struggle-Between-Companies/dp/0812929845)
-1. [ ] [Inside Santa's Workshop](https://www.amazon.com/gp/product/0805010750)
 1. [ ] [Barbie Talks!](https://www.amazon.com/Barbie%C2%AE-Talks-Unauthorized-Expos%C3%A9-Talking/dp/059513341X)
 1. [ ] [Inside Marvin Glass's Toy Vault](https://www.amazon.com/World-Without-Reality-Inside-Marvin/dp/0578405261/)
-1. [ ] [Dream Doll: The Ruth Handler Story](https://www.amazon.com/Dream-Doll-Ruth-Handler-Story/dp/068100763X/)
+1. [x] [Toy Wars!](https://www.amazon.com/Toy-Wars-Struggle-Between-Companies/dp/0812929845)
+1. [x] [Inside Santa's Workshop](https://www.amazon.com/gp/product/0805010750)
+1. [x] [Dream Doll: The Ruth Handler Story](https://www.amazon.com/Dream-Doll-Ruth-Handler-Story/dp/068100763X/)
 1. [x] [Toyland: The High-Stakes Game of the Toy Industry ](https://www.amazon.com/dp/0809245205/)
 1. [x] [Kid Number One: Alan Hassenfeld and Hasbro](https://www.amazon.com/gp/product/1950339203/)
 1. [x] [Real Toy Story](https://www.amazon.com/Real-Toy-Story-Ruthless-Consumers/dp/0743247655)
