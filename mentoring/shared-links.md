@@ -16,6 +16,7 @@
 1. [Optimize for Simplicity First](https://qvault.io/2020/08/15/optimize-for-simplicity-first/)
 1. [Great Hackers](http://www.paulgraham.com/gh.html)
 1. [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
+1. [Steel Threads](https://www.cs.du.edu/~snarayan/sada/docs/steelthreads.pdf)
 
 ## Time Management
 1. [Benjamin Franklin's Schedule](https://thefocuscourse.com/franklin-schedule/)
